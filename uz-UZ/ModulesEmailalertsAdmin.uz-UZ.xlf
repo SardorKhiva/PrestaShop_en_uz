@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Emailalerts.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="35fe6b0f0a1debcdf760477a2194bc6b" approved="yes">
+        <ns0:source>Add email</ns0:source>
+        <ns0:target state="final">Elektron pochta qo'shing</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1238]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="06c805399c80b36dcf1754acdba3609b" approved="yes">
+        <ns0:source>Cannot update "return slip" emails.</ns0:source>
+        <ns0:target state="final">"Qaytish slip" elektron pochta xabarlarini yangilab bo'lmaydi.</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 304]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="efeba9a86bc37b02f1893c508acef541" approved="yes">
+        <ns0:source>Cannot update email for "out of stock" notifications.</ns0:source>
+        <ns0:target state="final">"Stokdan tashqari" xabarnomalarini yangilash mumkin emas.</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 280]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="91854d7024aaeef9985ab4cb34eb754e" approved="yes">
+        <ns0:source>Cannot update new order emails.</ns0:source>
+        <ns0:target state="final">Yangi buyurtma elektron pochta xabarlarini yangilay olmaydi.</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 256]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c1ee76f076a5b97e3b4b0c0e5703246e" approved="yes">
+        <ns0:source>Cannot update settings</ns0:source>
+        <ns0:target state="final">Sozlamalarni yangilay olmaydi</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 319]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9841bdc50c4226cb6ec5db76494249e6" approved="yes">
+        <ns0:source>Coverage</ns0:source>
+        <ns0:target state="final">Qoplama</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1208]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="135d106e835a4fa3b6fb5c4638a5d76b" approved="yes">
+        <ns0:source>Coverage warning</ns0:source>
+        <ns0:target state="final">Qoplama haqida ogohlantirish</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1190]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="58a20987a1f4e45d508b4491614a2c57" approved="yes">
+        <ns0:source>Customer notifications</ns0:source>
+        <ns0:target state="final">Xaridorning bildirishnomalari</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1073]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fb690a859d745afa33dc801efb5b8cb3" approved="yes">
+        <ns0:source>Enter one or more email address. Use 'Return' or a comma to separate each address.</ns0:source>
+        <ns0:target state="final">Enter one or more email addresses. Use 'Return' or a comma to separate each address.</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1239]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9ca0da55063428cbc4c424440e443128" approved="yes">
+        <ns0:source>Give the customer the option of receiving a notification when an out of stock product is available again.</ns0:source>
+        <ns0:target state="final">Mijozga aktsiyalar mahsuloti qayta ishlashi kerak bo'lganda xabarnomani olish variantini bering.</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1082]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fe053a0324335f0087da6683d77cba48" approved="yes">
+        <ns0:source>Invalid email:</ns0:source>
+        <ns0:target state="final">Noto'g'ri elektron pochta manzili:</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 293]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fb95520fa4829e9de86209dcf5ddd754" approved="yes">
+        <ns0:source>Mail alert: Unable to delete customer using email.</ns0:source>
+        <ns0:target state="final">Pochta haqida ogohlantirish: Mijozni elektron pochtadan foydalangan holda o'chirib bo'lmadi.</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1288]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cbaab5c1b41cd9f8199743faa5ba58d2" approved="yes">
+        <ns0:source>Mail alert: Unable to export customer using email.</ns0:source>
+        <ns0:target state="final">Pochta haqida ogohlantirish: Xaridorni elektron pochta orqali eksport qilib bo'lmadi.</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1300]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fd30254803e8db32521d3390131a44da" approved="yes">
+        <ns0:source>Mail alerts</ns0:source>
+        <ns0:target state="final">Pochta ogohlantirishlari</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 73]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3cfaf283873b2bb08dbbbc9ca3efa79d" approved="yes">
+        <ns0:source>Make your everyday life easier, handle mail alerts about stock and orders, addressed to you as well as your customers.</ns0:source>
+        <ns0:target state="final">Kundalik hayotingizni osonlashtiring, sizga shuningdek, mijozlaringizga murojaat qilgan holda, shuningdek, aktsiyalar va buyurtmalar haqida xabarlarni boshqarish.</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 74]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6f974bbda9064a9c0836370dbf5a6076" approved="yes">
+        <ns0:source>Merchant notifications</ns0:source>
+        <ns0:target state="final">Savdogar haqida bildirishnomalar</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1245]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4c9120f1a5947445c0e9620254ceb30b" approved="yes">
+        <ns0:source>New order</ns0:source>
+        <ns0:target state="final">Yangi buyurtma</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1128]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7cb9a154f101c674c945f88dad5c5e28" approved="yes">
+        <ns0:source>No message</ns0:source>
+        <ns0:target state="final">Hech qanday xabar yo'q</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 415]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a5b84d670ff303fdc89d20cf979a1003" approved="yes">
+        <ns0:source>Order edit</ns0:source>
+        <ns0:target state="final">Buyurtma tahrir</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1099]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b55197a49e8c4cd8c314bc2aa39d6feb" approved="yes">
+        <ns0:source>Out of stock</ns0:source>
+        <ns0:target state="final">Sotuvda yo'q</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1154]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="09065e4b575415cbc308a7eab961a2be" approved="yes">
+        <ns0:source>Please enter one (or more) email address for "out of stock" notifications.</ns0:source>
+        <ns0:target state="final">Please enter one (or more) email addresses for "out of stock" notifications.</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 262]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="23ca7e7b11802ed822636dd14064bc0b" approved="yes">
+        <ns0:source>Please enter one (or more) email address for "return slip" notifications.</ns0:source>
+        <ns0:target state="final">Please enter one (or more) email addresses for "return slip" notifications.</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 286]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d5f5c6acde4150404b8a54bcde944d9d" approved="yes">
+        <ns0:source>Please enter one (or more) email address for the new order notification.</ns0:source>
+        <ns0:target state="final">Iltimos, yangi buyurtma xabarnomasi uchun bitta (yoki undan ko'p) elektron pochta manzilini kiriting.</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 238]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="808aaaa33716529eb7c9f658ff4a15b5" approved="yes">
+        <ns0:source>Product availability</ns0:source>
+        <ns0:target state="final">Mahsulot mavjudligi</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1080]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5b38721cd2e6ea2e12a664fb6dca1990" approved="yes">
+        <ns0:source>Quantity for which a product is considered out of stock.</ns0:source>
+        <ns0:target state="final">Mahsulotning zaxirasi bo'lgan miqdor.</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1182]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c0146c441cd6d5dc9d6e0ea1464b345f" approved="yes">
+        <ns0:source>Receive a notification if the available quantity of a product is below the following threshold.</ns0:source>
+        <ns0:target state="final">Agar mahsulot mavjud mahsulotning mavjud miqdori quyidagi chegaralardan past bo'lsa, bildirishnomani oling.</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1156]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6408356e699097abbb968b575499f76e" approved="yes">
+        <ns0:source>Receive a notification when a customer requests a merchandise return.</ns0:source>
+        <ns0:target state="final">Xaridor savdogarlikni talab qilganda xabarnomani oling.</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1220]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="218786c9273b95bc637e7adb710b4195" approved="yes">
+        <ns0:source>Receive a notification when a product has insufficient coverage.</ns0:source>
+        <ns0:target state="final">Mahsulot qamrab olinmaganligi to'g'risida xabarnomani oling.</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1192]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="382ba298d6c80b03037629d326811919" approved="yes">
+        <ns0:source>Receive a notification when an order is placed.</ns0:source>
+        <ns0:target state="final">Buyurtma berilganda xabarnomani qabul qiling.</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1130]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4762fdc5fdf2ab3118f73fe252a6668b" approved="yes">
+        <ns0:source>Returns</ns0:source>
+        <ns0:target state="final">Qaytish</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1218]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0c00f6da997acaa413d658206e25235a" approved="yes">
+        <ns0:source>Send a notification to the customer when an order is edited.</ns0:source>
+        <ns0:target state="final">Buyurtma tahrirlanganda mijozga xabarnoma yuboring.</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1101]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="172123b1c4411da3c41a1eb36e4662d4" approved="yes">
+        <ns0:source>Send to:</ns0:source>
+        <ns0:target state="final">Yuborish:</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1236]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="462390017ab0938911d2d4e964c0cab7" approved="yes">
+        <ns0:source>Settings updated successfully</ns0:source>
+        <ns0:target state="final">Sozlamalar muvaffaqiyatli yangilandi</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 326]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2a4ae220a78d0c4a4d4c2b7285753321" approved="yes">
+        <ns0:source>Stock coverage, in days. Also, the stock coverage of a given product will be calculated based on this number.</ns0:source>
+        <ns0:target state="final">Bir necha kunda. </ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1211]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2a63f555989152ba866b43a1faacd680" approved="yes">
+        <ns0:source>Threshold</ns0:source>
+        <ns0:target state="final">Ostona</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1179]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9137796c15dd92e5553c3f29574d0968" approved="yes">
+        <ns0:source>Voucher code:</ns0:source>
+        <ns0:target state="final">Voucher kodi:</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 468]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1d744a9ad1dac20645cfc4a36b77323b" approved="yes">
+        <ns0:source>image(s)</ns0:source>
+        <ns0:target state="final">Image (lar)</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 437]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Statsbestvouchers.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="b769cee333527b8dc6f3f67882e35a0b" approved="yes">
+        <ns0:source>Best vouchers</ns0:source>
+        <ns0:target state="final">Eng yaxshi vaucherlar</ns0:target>
+        <ns0:note>File: modules/statsbestvouchers/statsbestvouchers.php [Line: 83]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="58ef962a87e6fbbea6027c17a954a18d" approved="yes">
+        <ns0:source>Empty recordset returned.</ns0:source>
+        <ns0:target state="final">Bo'sh yozuvlar qaytarildi.</ns0:target>
+        <ns0:note>File: modules/statsbestvouchers/statsbestvouchers.php [Line: 53]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="aaac029ef7cd30ab8a75a3c3d737c27b" approved="yes">
+        <ns0:source>Enrich your stats, add a list of the most used vouchers to the dashboard.</ns0:source>
+        <ns0:target state="final">Statistikangizni boyiting, boshqaruv paneliga eng ko'p ishlatiladigan vaucherlarning ro'yxatini qo'shing.</ns0:target>
+        <ns0:note>File: modules/statsbestvouchers/statsbestvouchers.php [Line: 84]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="df25596dc94d556af2f1823725118572" approved="yes">
+        <ns0:source>Total used</ns0:source>
+        <ns0:target state="final">Jami ishlatilgan</ns0:target>
+        <ns0:note>File: modules/statsbestvouchers/statsbestvouchers.php [Line: 77]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

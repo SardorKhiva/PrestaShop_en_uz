@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Statsbestcategories.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="6e3b3150807da868ebd33ad2c991b8d7" approved="yes">
+        <ns0:source>Best categories</ns0:source>
+        <ns0:target state="final">Eng yaxshi toifalar</ns0:target>
+        <ns0:note>File: modules/statsbestcategories/statsbestcategories.php [Line: 89]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="26f1502c886f4daa37c43d27bb58d40d" approved="yes">
+        <ns0:source>Display final level categories only (that have no child categories)</ns0:source>
+        <ns0:target state="final">Faqat yakuniy darajadagi kategoriyalarni ko'rsating (bolalar toifalari)</ns0:target>
+        <ns0:note>File: modules/statsbestcategories/statsbestcategories.php [Line: 135]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4f29d8c727dcf2022ac241cb96c31083" approved="yes">
+        <ns0:source>Empty recordset returned</ns0:source>
+        <ns0:target state="final">Bo'sh qaydlar qaytarildi</ns0:target>
+        <ns0:note>File: modules/statsbestcategories/statsbestcategories.php [Line: 53]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="efd1f3467075b955ccc919213a3e3fc2" approved="yes">
+        <ns0:source>Enrich your stats, add a list of the best selling categories to the dashboard.</ns0:source>
+        <ns0:target state="final">Statistikangizni boyiting, eng yaxshi sotish toifalari ro'yxatini boshqaruv paneliga qo'shing.</ns0:target>
+        <ns0:note>File: modules/statsbestcategories/statsbestcategories.php [Line: 90]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="89a4e26859399438513f41c4971795b5" approved="yes">
+        <ns0:source>Total Margin</ns0:source>
+        <ns0:target state="final">Umumiy chegara</ns0:target>
+        <ns0:note>File: modules/statsbestcategories/statsbestcategories.php [Line: 77]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f3547ae5e06426d87312eff7dda775aa" approved="yes">
+        <ns0:source>Total Price</ns0:source>
+        <ns0:target state="final">Umumiy narx</ns0:target>
+        <ns0:note>File: modules/statsbestcategories/statsbestcategories.php [Line: 71]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="eebfd2d9a7ea25b9e61e8260bcd4849c" approved="yes">
+        <ns0:source>Total Quantity Sold</ns0:source>
+        <ns0:target state="final">Sotilgan umumiy soni</ns0:target>
+        <ns0:note>File: modules/statsbestcategories/statsbestcategories.php [Line: 65]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c13329e42ec01a10f84c0f950274b404" approved="yes">
+        <ns0:source>Total Viewed</ns0:source>
+        <ns0:target state="final">Jami ko'rib chiqilgan</ns0:target>
+        <ns0:note>File: modules/statsbestcategories/statsbestcategories.php [Line: 83]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

@@ -8,10 +8,10 @@ from pathlib import Path
 import requests
 import time
 
-def translate_text(text, target_lang="uz"):
+def translate_text(text, target_lang="uz-Cyrl"):
     """
     Простая функция перевода с использованием Google Translate API
-    В реальном проекте лучше использовать официальный API с ключом
+    Переводит на узбекский язык с использованием кириллицы
     """
     if not text or text.strip() == "":
         return text
@@ -63,10 +63,10 @@ def process_xliff_file(input_file, output_file):
     # Определяем namespace
     ns = {'xliff': 'urn:oasis:names:tc:xliff:document:1.2'}
     
-    # Изменяем target-language на uz
+    # Изменяем target-language на uz-Cyrl (узбекский кириллический)
     file_elem = root.find('.//xliff:file', ns)
     if file_elem is not None:
-        file_elem.set('target-language', 'uz')
+        file_elem.set('target-language', 'uz-Cyrl')
     
     # Обрабатываем все trans-unit элементы
     trans_units = root.findall('.//xliff:trans-unit', ns)

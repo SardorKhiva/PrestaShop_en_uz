@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Statscatalog.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="74cda5a02df704cc5c3e8fee7fc0f7bc" approved="yes">
+        <ns0:source>(1 purchase / %d visits)</ns0:source>
+        <ns0:target state="final">(1 ta sotib olish /% d tashriflar)</ns0:target>
+        <ns0:note>File: modules/statscatalog/statscatalog.php [Line: 176]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="65275d1b04037d8c8e42425002110363" approved="yes">
+        <ns0:source>Average number of images:</ns0:source>
+        <ns0:target state="final">Rasmlarning o'rtacha soni:</ns0:target>
+        <ns0:note>File: modules/statscatalog/statscatalog.php [Line: 212]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="85f179d4142ca061d49605a7fffdc09d" approved="yes">
+        <ns0:source>Average number of page visits:</ns0:source>
+        <ns0:target state="final">Sahifa tashriflarining o'rtacha soni:</ns0:target>
+        <ns0:note>File: modules/statscatalog/statscatalog.php [Line: 209]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="05ff4bfc3baf0acd31a72f1ac754de04" approved="yes">
+        <ns0:source>Average number of purchases:</ns0:source>
+        <ns0:target state="final">Xaridlarning o'rtacha soni:</ns0:target>
+        <ns0:note>File: modules/statscatalog/statscatalog.php [Line: 210]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1099377f1598a0856e2457a5145d89c2" approved="yes">
+        <ns0:source>Average price (base price):</ns0:source>
+        <ns0:target state="final">O'rtacha narx (bazaviy narx):</ns0:target>
+        <ns0:note>File: modules/statscatalog/statscatalog.php [Line: 206]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cf3aa21c6a2147ddbd86f34091daeccd" approved="yes">
+        <ns0:source>Catalog statistics</ns0:source>
+        <ns0:target state="final">Katalogda yozish</ns0:target>
+        <ns0:note>File: modules/statscatalog/statscatalog.php [Line: 51]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0173374ac20f5843d58b553d5b226ef6" approved="yes">
+        <ns0:source>Choose a category</ns0:source>
+        <ns0:target state="final">Kategoriya tanlang</ns0:target>
+        <ns0:note>File: modules/statscatalog/statscatalog.php [Line: 189]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b86770bc713186bcf43dbb1164c5fd28" approved="yes">
+        <ns0:source>Conversion rate*:</ns0:source>
+        <ns0:target state="final">Konversiya stavkasi *:</ns0:target>
+        <ns0:note>File: modules/statscatalog/statscatalog.php [Line: 215]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="082d537edb8c61539b9f266eb331c88e" approved="yes">
+        <ns0:source>Defines the average conversion rate for the product page. It is possible to purchase a product without viewing the product page, so this rate can be greater than 1.</ns0:source>
+        <ns0:target state="final">Mahsulot sahifasi uchun o'rtacha konversiya stavkasini belgilaydi. </ns0:target>
+        <ns0:note>File: modules/statscatalog/statscatalog.php [Line: 219]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8e7c9a35104a5a68199678bd6bc5d187" approved="yes">
+        <ns0:source>Edit / View</ns0:source>
+        <ns0:target state="final">Tahrirlash / ko'rish</ns0:target>
+        <ns0:note>File: modules/statscatalog/statscatalog.php [Line: 231]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="020439554b871a3d6dc200f838daa280" approved="yes">
+        <ns0:source>Enrich your stats, have a look at your catalog’s general statistics.</ns0:source>
+        <ns0:target state="final">Statistikangizni boyitib, katalogingizning umumiy statistikasini ko'rib chiqing.</ns0:target>
+        <ns0:note>File: modules/statscatalog/statscatalog.php [Line: 52]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c09d09e371989d89847049c9574b6b8e" approved="yes">
+        <ns0:source>Images available:</ns0:source>
+        <ns0:target state="final">Rasmlar mavjud:</ns0:target>
+        <ns0:note>File: modules/statscatalog/statscatalog.php [Line: 211]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="48a93dc02c74f3065af1ba47fca070d0" approved="yes">
+        <ns0:source>Product pages viewed:</ns0:source>
+        <ns0:target state="final">Mahsulot sahifalari:</ns0:target>
+        <ns0:note>File: modules/statscatalog/statscatalog.php [Line: 207]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a7b623414d4b6a3225b4e935babec6d2" approved="yes">
+        <ns0:source>Products available:</ns0:source>
+        <ns0:target state="final">Mavjud mahsulotlar:</ns0:target>
+        <ns0:note>File: modules/statscatalog/statscatalog.php [Line: 205]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="58a714d3e9bb2902a5b688c99bd4d8e6" approved="yes">
+        <ns0:source>Products never purchased</ns0:source>
+        <ns0:target state="final">Mahsulotlar hech qachon sotib olinmadi</ns0:target>
+        <ns0:note>File: modules/statscatalog/statscatalog.php [Line: 225]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8725647ef741e5d48c1e6f652ce80b50" approved="yes">
+        <ns0:source>Products never purchased:</ns0:source>
+        <ns0:target state="final">Mahsulotlar hech qachon sotib olinmadi:</ns0:target>
+        <ns0:note>File: modules/statscatalog/statscatalog.php [Line: 214]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="51b8891d531ad91128ba58c8928322ab" approved="yes">
+        <ns0:source>Products never viewed:</ns0:source>
+        <ns0:target state="final">Mahsulotlar hech qachon ko'rilmagan:</ns0:target>
+        <ns0:note>File: modules/statscatalog/statscatalog.php [Line: 213]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

@@ -1,0 +1,1424 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Admin.Actions.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="5cf5bf2c9fc4975745fbad4e88fdf2c0" approved="yes">
+        <ns0:source>%error_count% errors occurred. You can download the logs for future reference.</ns0:source>
+        <ns0:target state="final">
+           %error_count% хатолар юз берди. Кейинчалик фойдаланиш учун
+          журналларни юклаб олишингиз мумкин. </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 788]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7bc873cba11f035df692c3549366c722" approved="yes">
+        <ns0:source>-- Choose --</ns0:source>
+        <ns0:target state="final">
+           -- Танланг -- </ns0:target>
+        <ns0:note>File:
+          admin-dev/themes/default/template/controllers/customer_threads/helpers/view/modal.tpl
+          [Line: 38]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7bbd046ab824701b2e019e5d07d6ab99" approved="yes">
+        <ns0:source>Activate selection</ns0:source>
+        <ns0:target state="final">
+           Танланганларни фаоллаштириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 680]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d5b222faa1823c8e4d04afd75ff6c2bc" approved="yes">
+        <ns0:source>Activate selection for associated stores</ns0:source>
+        <ns0:target state="final">
+           Боғлиқ дўконлар учун танланганларни фаоллаштириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 703]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1c243c87944087740ab5299d77fbd168" approved="yes">
+        <ns0:source>Activate selection for current store</ns0:source>
+        <ns0:target state="final">
+           Жорий дўкон учун танланганларни фаоллаштириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 675]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1e1a5f89016cd24bab9dca4185b1d20c" approved="yes">
+        <ns0:source>Activate selection for group</ns0:source>
+        <ns0:target state="final">
+           Гуруҳ учун танланганларни фаоллаштириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 693]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cb5e3fc1d0200111c8503c71b5b1d477" approved="yes">
+        <ns0:source>Activating %done% / %total% products</ns0:source>
+        <ns0:target state="final">
+           %done% / %total% маҳсулотлар фаоллаштирилмоқда </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 715]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b53a8953e8e6acd7c6bdcfeb273205e1" approved="yes">
+        <ns0:source>Activating %total% products</ns0:source>
+        <ns0:target state="final">
+           %total% маҳсулотлар фаоллаштирилмоқда </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 714]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ec211f7c20af43e742bf2570c3cb84f9" approved="yes">
+        <ns0:source>Add</ns0:source>
+        <ns0:target state="final">
+           Қўшиш </ns0:target>
+        <ns0:note>File: modules/ps_mainmenu/views/templates/admin/_configure/helpers/form/form.tpl
+          [Line: 120]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bb894197f55eaed8b4ee4ec2bf9ca1d3" approved="yes">
+        <ns0:source>Add current page to Quick Access</ns0:source>
+        <ns0:target state="final">
+           Жорий саҳифани тезкор киришга қўшиш </ns0:target>
+        <ns0:note>File: admin-dev/themes/new-theme/template/components/layout/quick_access.tpl [Line:
+          70]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c770d8e0d1d1943ce239c64dbd6acc20" approved="yes">
+        <ns0:source>Add my IP</ns0:source>
+        <ns0:target state="final">
+           Менинг IP манзилимни қўшиш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/TwigTemplateForm/prestashop_ui_kit_base.html.twig
+          [Line: 84]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ef61fb324d729c341ea8ab9901e23566" approved="yes">
+        <ns0:source>Add new</ns0:source>
+        <ns0:target state="final">
+           Янги қўшиш </ns0:target>
+        <ns0:note>File: modules/ps_imageslider/views/templates/hook/list.tpl [Line: 22]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0164b35f3cbc5cbf9bf58abeb4bc14df" approved="yes">
+        <ns0:source>Add new menu</ns0:source>
+        <ns0:target state="final">
+           Янги меню қўшиш </ns0:target>
+        <ns0:note>File: controllers/admin/AdminTabsController.php [Line: 103]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3fa8c89ef63fbb7056fc1d8d1b67f97a" approved="yes">
+        <ns0:source>Add new product</ns0:source>
+        <ns0:target state="final">
+           Янги маҳсулот қўшиш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Controller/Admin/Sell/Catalog/Product/ProductController.php
+          [Line: 1381]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b1c94ca2fbc3e78fc30069c8d0f01680" approved="yes">
+        <ns0:source>All</ns0:source>
+        <ns0:target state="final">
+           Барчаси </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/Permission/Blocks/profile_tab_contents.html.twig
+          [Line: 71]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ee46f0a6b2a197ccbd4283fcfba96b7f" approved="yes">
+        <ns0:source>All carriers</ns0:source>
+        <ns0:target state="final">
+           Барча ташувчилар </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Shipping/ShippingType.php [Line:
+          121]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9639e32cab248434a17ab32237cb3b71" approved="yes">
+        <ns0:source>Apply</ns0:source>
+        <ns0:target state="final">
+           Қўллаш </ns0:target>
+        <ns0:note>File: admin-dev/themes/default/template/helpers/calendar/calendar.tpl [Line: 99]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c5f09f37e1e182ec28fa64732d9b712c" approved="yes">
+        <ns0:source>Back to</ns0:source>
+        <ns0:target state="final">
+           Орқага </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/Layout/login_layout.html.twig [Line:
+          99]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="50e21d84e2f62e0d61bae893518fa884" approved="yes">
+        <ns0:source>Back to configuration</ns0:source>
+        <ns0:target state="final">
+           Созламаларга қайтиш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Improve/Design/MailTheme/Blocks/list_mail_theme_layouts.html.twig
+          [Line: 112]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="630f6dc397fe74e52d5189e2c80f282b" approved="yes">
+        <ns0:source>Back to list</ns0:source>
+        <ns0:target state="final">
+           Рўйхатга қайтиш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Features/FeatureValue/index.html.twig
+          [Line: 37]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="064d2e08f924478234959b67180290eb" approved="yes">
+        <ns0:source>Back to previous page</ns0:source>
+        <ns0:target state="final">
+           Олдинги саҳифага қайтиш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/Error/error404.html.twig [Line: 70]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9c69fa21979cbe7490c20c19537cf08f" approved="yes">
+        <ns0:source>Back to processing</ns0:source>
+        <ns0:target state="final">
+           Ишловга қайтиш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 789]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1b9abf135ccb7ed2f2cd9c155137c351" approved="yes">
+        <ns0:source>Browse</ns0:source>
+        <ns0:target state="final">
+           Кўриш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/TwigTemplateForm/prestashop_ui_kit_base.html.twig
+          [Line: 989]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ea4788705e6873b424c65e91c2846b19" approved="yes">
+        <ns0:source>Cancel</ns0:source>
+        <ns0:target state="final">
+           Бекор қилиш </ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_partials/footer.tpl [Line: 22]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f4ec5f57bd4d31b803312d873be40da9" approved="yes">
+        <ns0:source>Change</ns0:source>
+        <ns0:target state="final">
+           Ўзгартириш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Order/Order/Blocks/View/payments.html.twig
+          [Line: 139]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="26ce1315d2bff025e8fb8a0c6259e58c" approved="yes">
+        <ns0:source>Change password...</ns0:source>
+        <ns0:target state="final">
+           Паролни ўзгартириш... </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Type/ChangePasswordType.php [Line: 74]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="50de2399e96ac57bed17e95376046c3b" approved="yes">
+        <ns0:source>Check / Uncheck all</ns0:source>
+        <ns0:target state="final">
+           Барчасини белгилаш / белгини олиб ташлаш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/macros.html.twig [Line: 292]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5e9df908eafa83cb51c0a3720e8348c7" approved="yes">
+        <ns0:source>Check All</ns0:source>
+        <ns0:target state="final">
+           Барчасини белгилаш </ns0:target>
+        <ns0:note>File: classes/helper/Helper.php [Line: 153]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b7d7436a18bf546dd6438d92218868c1" approved="yes">
+        <ns0:source>Check all</ns0:source>
+        <ns0:target state="final">
+           Барчасини белгилаш </ns0:target>
+        <ns0:note>File: classes/helper/HelperTreeShops.php [Line: 139]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="961f2247a2070bedff9f9cd8d64e2650" approved="yes">
+        <ns0:source>Choose</ns0:source>
+        <ns0:target state="final">
+           Танлаш </ns0:target>
+        <ns0:note>File: admin-dev/themes/default/template/controllers/cart_rules/product_rule.tpl [Line:
+          38]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="92fbf0e5d97b8afd7e73126b52bdc4bb" approved="yes">
+        <ns0:source>Choose a file</ns0:source>
+        <ns0:target state="final">
+           Файл танлаш </ns0:target>
+        <ns0:note>File: modules/ps_imageslider/views/templates/admin/_configure/helpers/form/form.tpl
+          [Line: 39]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5f2c094de2848d0d36b59de2ff06e79f" approved="yes">
+        <ns0:source>Choose file(s)</ns0:source>
+        <ns0:target state="final">
+           Файл(лар)ни танлаш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/TwigTemplateForm/prestashop_ui_kit_base.html.twig
+          [Line: 1008]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cc3787ca78f445f481069a4c047f7e7a" approved="yes">
+        <ns0:source>Choose language:</ns0:source>
+        <ns0:target state="final">
+           Тилни танлаш: </ns0:target>
+        <ns0:note>File: admin-dev/themes/new-theme/template/header.tpl [Line: 67]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f0dbca7d922e4e759a1e3b512b9be852" approved="yes">
+        <ns0:source>Choose layouts</ns0:source>
+        <ns0:target state="final">
+           Макетларни танлаш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Improve/Design/Theme/customize_page_layouts.html.twig
+          [Line: 34]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d5b379fe4b91357743652241f4cb1d02" approved="yes">
+        <ns0:source>Clear filter|Clear {filtersNb} filters</ns0:source>
+        <ns0:target state="final">
+           Фильтрни тозалаш|{filtersNb} фильтрни тозалаш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Product/Combination/paginated_list_header.html.twig
+          [Line: 110]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d3d2e617335f08df83599665eef8a418" approved="yes">
+        <ns0:source>Close</ns0:source>
+        <ns0:target state="final">
+           Ёпиш </ns0:target>
+        <ns0:note>File: admin-dev/themes/new-theme/template/modal.tpl [Line: 40]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0d0655cb66dd8afebdefca390cf6dd40" approved="yes">
+        <ns0:source>Close (esc)</ns0:source>
+        <ns0:target state="final">
+           Ёпиш (esc) </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Image/ImageDropzoneType.php [Line:
+          121]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1e358e21f52685ac91dbc13dbd2dc7b3" approved="yes">
+        <ns0:source>Close and refresh</ns0:source>
+        <ns0:target state="final">
+           Ёпиш ва янгилаш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Product/Combination/not_found.html.twig
+          [Line: 40]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="98b3009e61879600839e1ee486bb3282" approved="yes">
+        <ns0:source>Close window</ns0:source>
+        <ns0:target state="final">
+           Ойнани ёпиш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Image/ImageDropzoneType.php [Line:
+          120]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2b31634e3cfef1bfdd7d0d2cdfdc3f9d" approved="yes">
+        <ns0:source>Collapse</ns0:source>
+        <ns0:target state="final">
+           Йиғиш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/TwigTemplateForm/material.html.twig
+          [Line: 32]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ab3cc3868af33a9eb61a93bd0adec2a0" approved="yes">
+        <ns0:source>Collapse all</ns0:source>
+        <ns0:target state="final">
+           Барчасини йиғиш </ns0:target>
+        <ns0:note>File: classes/helper/HelperTreeShops.php [Line: 127]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f1206f9fadc5ce41694f69129aecac26" approved="yes">
+        <ns0:source>Configure</ns0:source>
+        <ns0:target state="final">
+           Созлаш </ns0:target>
+        <ns0:note>File: modules/dashtrends/views/templates/hook/dashboard_zone_two.tpl [Line: 36]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ae3efd3d990673c929355bb19aaa227d" approved="yes">
+        <ns0:source>Configure URL</ns0:source>
+        <ns0:target state="final">
+           URL манзилни созлаш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Component/Layout/multistore_product_header.html.twig
+          [Line: 64]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="70d9be9b139893aa6c69b5e77e614311" approved="yes">
+        <ns0:source>Confirm</ns0:source>
+        <ns0:target state="final">
+           Тасдиқлаш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Common/Grid/Actions/Bulk/submit.html.twig
+          [Line: 36]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4eac69549b8424b6cf5852421f327838" approved="yes">
+        <ns0:source>Confirm this action</ns0:source>
+        <ns0:target state="final">
+           Бу амални тасдиқлаш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Translation/Api/InternationalApi.php [Line: 41]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a0bfb8e59e6c13fc8d990781f77694fe" approved="yes">
+        <ns0:source>Continue</ns0:source>
+        <ns0:target state="final">
+           Давом этиш </ns0:target>
+        <ns0:note>File: modules/gsitemap/views/templates/admin/configuration.tpl [Line: 43]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5fb63579fc981698f97d55bfecb213ea" approved="yes">
+        <ns0:source>Copy</ns0:source>
+        <ns0:target state="final">
+           Нусхалаш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Improve/International/Translations/Blocks/copy_language.html.twig
+          [Line: 86]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="686e697538050e4664636337cc3b834f" approved="yes">
+        <ns0:source>Create</ns0:source>
+        <ns0:target state="final">
+           Яратиш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Order/Order/Blocks/View/add_product_row.html.twig
+          [Line: 65]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d37c2bf1bd3143847fca087b354f920e" approved="yes">
+        <ns0:source>Customer ID</ns0:source>
+        <ns0:target state="final">
+           Мижоз ID </ns0:target>
+        <ns0:note>File:
+          src/Core/Grid/Definition/Factory/Security/Session/CustomerGridDefinitionFactory.php [Line:
+          227]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fa870a208f7f70af5ead1f1992f6d9e2" approved="yes">
+        <ns0:source>Deactivate selection</ns0:source>
+        <ns0:target state="final">
+           Танланганларни деактивлаштириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 681]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="233851e4f395a6b90a0089cddcd4ec4c" approved="yes">
+        <ns0:source>Deactivate selection for associated stores</ns0:source>
+        <ns0:target state="final">
+           Боғлиқ дўконлар учун танланганларни деактивлаштириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 704]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="aaa160593a1ea03304ec8e9a19cfef57" approved="yes">
+        <ns0:source>Deactivate selection for current store</ns0:source>
+        <ns0:target state="final">
+           Жорий дўкон учун танланганларни деактивлаштириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 676]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d0455053dec68eefc9cb4f0a9a124d07" approved="yes">
+        <ns0:source>Deactivate selection for group</ns0:source>
+        <ns0:target state="final">
+           Гуруҳ учун танланганларни деактивлаштириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 694]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7270c4647a8c9922f2ca68d80a89cf1d" approved="yes">
+        <ns0:source>Deactivating %done% / %total% products</ns0:source>
+        <ns0:target state="final">
+           %done% / %total% маҳсулотлар деактивлаштирилмоқда </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 724]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="dc25c50da5ea253bb5c1f1886d5c652d" approved="yes">
+        <ns0:source>Deactivating %total% products</ns0:source>
+        <ns0:target state="final">
+           %total% маҳсулотлар деактивлаштирилмоқда </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 723]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f2a6c498fb90ee345d997f888fce3b18" approved="yes">
+        <ns0:source>Delete</ns0:source>
+        <ns0:target state="final">
+           Ўчириш </ns0:target>
+        <ns0:note>File: modules/ps_imageslider/views/templates/hook/list.tpl [Line: 61]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="19a286e24891b70bc6e057c06c453bf2" approved="yes">
+        <ns0:source>Delete from group</ns0:source>
+        <ns0:target state="final">
+           Гуруҳдан ўчириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 413]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c40866bf5ca2b49813c7cbfe784bdeb5" approved="yes">
+        <ns0:source>Delete from store</ns0:source>
+        <ns0:target state="final">
+           Дўкондан ўчириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 338]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d3b206d196cd6be3a2764c1fb90b200f" approved="yes">
+        <ns0:source>Delete selected</ns0:source>
+        <ns0:target state="final">
+           Танланганларни ўчириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/CustomerGridDefinitionFactory.php [Line: 468]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e25f0ecd41211b01c83e5fec41df4fe7" approved="yes">
+        <ns0:source>Delete selected items?</ns0:source>
+        <ns0:target state="final">
+           Танланган элементларни ўчиришми? </ns0:target>
+        <ns0:note>File: controllers/admin/AdminTabsController.php [Line: 54]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6adab6d3fdf92c448d60cf8824e4851c" approved="yes">
+        <ns0:source>Delete selection</ns0:source>
+        <ns0:target state="final">
+           Танланганларни ўчириш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Image/ImageDropzoneType.php [Line:
+          119]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="29e9208da05986148e6885af76194cfd" approved="yes">
+        <ns0:source>Delete selection for associated stores</ns0:source>
+        <ns0:target state="final">
+           Боғлиқ дўконлар учун танланганларни ўчириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 706]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cf11b5907651bdea34e9eb453f8cd49c" approved="yes">
+        <ns0:source>Delete selection for current store</ns0:source>
+        <ns0:target state="final">
+           Жорий дўкон учун танланганларни ўчириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 678]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a9c3ba8ef0ccefe1fa99c9440082ca2e" approved="yes">
+        <ns0:source>Delete selection for group</ns0:source>
+        <ns0:target state="final">
+           Гуруҳ учун танланганларни ўчириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 696]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4cc50568814398473acb8ffe9521213f" approved="yes">
+        <ns0:source>Deleting %done% / %total% products</ns0:source>
+        <ns0:target state="final">
+           %done% / %total% маҳсулотлар ўчирилмоқда </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 742]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cd1e162098b1097e380a99e433920e62" approved="yes">
+        <ns0:source>Deleting %total% products</ns0:source>
+        <ns0:target state="final">
+           %total% маҳсулотлар ўчирилмоқда </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 741]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bcfaccebf745acfd5e75351095a5394a" approved="yes">
+        <ns0:source>Disable</ns0:source>
+        <ns0:target state="final">
+           Очириш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/performance.html.twig
+          [Line: 115]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fd46880b0f6676aabd736fd43d29d177" approved="yes">
+        <ns0:source>Disable for group</ns0:source>
+        <ns0:target state="final">
+           Гуруҳ учун очириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 415]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="16495664a0c1be80bb6a7ab5fe09ea7e" approved="yes">
+        <ns0:source>Disable on all stores</ns0:source>
+        <ns0:target state="final">
+           Барча дўконларда очириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 425]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ab7fd6e250b64a46027a996088fdff74" approved="yes">
+        <ns0:source>Disable selection</ns0:source>
+        <ns0:target state="final">
+           Танланганларни очириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ZoneGridDefinitionFactory.php [Line: 238]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d94b42030b9785fd754d5c1754961269" approved="yes">
+        <ns0:source>Discard</ns0:source>
+        <ns0:target state="final">
+           Бекор қилиш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Product/Combination/paginated_list_header.html.twig
+          [Line: 124]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b9987a246a537f4fe86f1f2e3d10dbdb" approved="yes">
+        <ns0:source>Display</ns0:source>
+        <ns0:target state="final">
+           Кўрсатиш </ns0:target>
+        <ns0:note>File:
+          admin-dev/themes/default/template/controllers/tax_rules/helpers/list/list_footer.tpl
+          [Line: 63]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="805770b4d5275340eea669259671e8ed" approved="yes">
+        <ns0:source>Display email address</ns0:source>
+        <ns0:target state="final">
+           Электрон почта манзилини кўрсатиш </ns0:target>
+        <ns0:note>File: modules/ps_contactinfo/ps_contactinfo.php [Line: 149]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f92965e2c8a7afb3c1b9a5c09a263636" approved="yes">
+        <ns0:source>Done</ns0:source>
+        <ns0:target state="final">
+           Тайёр </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Type/ReorderPositionsButtonType.php [Line: 48]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="801ab24683a4a8c433c6eb40c48bcd9d" approved="yes">
+        <ns0:source>Download</ns0:source>
+        <ns0:target state="final">
+           Юклаб олиш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/Backup/download_view.html.twig
+          [Line: 33]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="07176ccdd3cd24acb62ab4323fc68a51" approved="yes">
+        <ns0:source>Download error log</ns0:source>
+        <ns0:target state="final">
+           Хатолар журналини юклаб олиш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 790]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d5ef96e383d376beeec28da7acfea516" approved="yes">
+        <ns0:source>Download file</ns0:source>
+        <ns0:target state="final">
+           Файлни юклаб олиш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/TwigTemplateForm/prestashop_ui_kit_base.html.twig
+          [Line: 1014]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="df43755e2392418b403a2e5dcb1c240a" approved="yes">
+        <ns0:source>Download image</ns0:source>
+        <ns0:target state="final">
+           Расмни юклаб олиш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Image/ImageDropzoneType.php [Line:
+          127]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ed75712b0eb1913c28a3872731ffd48d" approved="yes">
+        <ns0:source>Duplicate</ns0:source>
+        <ns0:target state="final">
+           Нусхалаш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/FooterType.php [Line: 117]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a321af8d01df4e048d991f25883fa7a4" approved="yes">
+        <ns0:source>Duplicate all stores</ns0:source>
+        <ns0:target state="final">
+           Барча дўконларни нусхалаш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 426]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="748010ad83c088b58e6bd2a34b6acb40" approved="yes">
+        <ns0:source>Duplicate group</ns0:source>
+        <ns0:target state="final">
+           Гуруҳни нусхалаш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 416]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ef59c24bfd6376c1d8d097f8f3c0c1d9" approved="yes">
+        <ns0:source>Duplicate product</ns0:source>
+        <ns0:target state="final">
+           Маҳсулотни нусхалаш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 482]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e2afd6b97d2eac4817170845d26b9c9b" approved="yes">
+        <ns0:source>Duplicate selection</ns0:source>
+        <ns0:target state="final">
+           Танланганларни нусхалаш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 682]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e1d05d390b563d1948e5b67005f4831b" approved="yes">
+        <ns0:source>Duplicate selection for associated stores</ns0:source>
+        <ns0:target state="final">
+           Боғлиқ дўконлар учун танланганларни нусхалаш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 705]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2b2ad86747770f6809ff0f54fbfe9acc" approved="yes">
+        <ns0:source>Duplicate selection for current store</ns0:source>
+        <ns0:target state="final">
+           Жорий дўкон учун танланганларни нусхалаш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 677]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="573ab5804215026d2e0b02dcd67ab3b9" approved="yes">
+        <ns0:source>Duplicate selection for group</ns0:source>
+        <ns0:target state="final">
+           Гуруҳ учун танланганларни нусхалаш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 695]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1e1680f351d3808149ae22da65fd5c6b" approved="yes">
+        <ns0:source>Duplicating %done% / %total% products</ns0:source>
+        <ns0:target state="final">
+           %done% / %total% маҳсулотлар нусхаланилмоқда </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 733]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6a0f1156c55d16958749b67d853d3117" approved="yes">
+        <ns0:source>Duplicating %total% products</ns0:source>
+        <ns0:target state="final">
+           %total% маҳсулотлар нусхаланилмоқда </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 732]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7dce122004969d56ae2e0245cb754d35" approved="yes">
+        <ns0:source>Edit</ns0:source>
+        <ns0:target state="final">
+           Таҳрирлаш </ns0:target>
+        <ns0:note>File: modules/ps_imageslider/views/templates/hook/list.tpl [Line: 56]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9f020d7e71751e8997cf5c8c01735f95" approved="yes">
+        <ns0:source>Edit existing address</ns0:source>
+        <ns0:target state="final">
+           Мавжуд манзилни таҳрирлаш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Order/Order/Blocks/View/customer.html.twig
+          [Line: 138]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f7931413dee107ddf5289c8886baf7ec" approved="yes">
+        <ns0:source>Edit: %s</ns0:source>
+        <ns0:target state="final">
+           Таҳрирлаш: %s </ns0:target>
+        <ns0:note>File: classes/controller/AdminController.php [Line: 1653]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4472046c137171c7adf7c4fe5a72b6b9" approved="yes">
+        <ns0:source>Edit: %value%</ns0:source>
+        <ns0:target state="final">
+           Таҳрирлаш: %value% </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Improve/International/Country/edit.html.twig
+          [Line: 28]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4d372ba3330d919603c6279404505f7c" approved="yes">
+        <ns0:source>Employee ID</ns0:source>
+        <ns0:target state="final">
+           Ходим ID </ns0:target>
+        <ns0:note>File:
+          src/Core/Grid/Definition/Factory/Security/Session/EmployeeGridDefinitionFactory.php [Line:
+          225]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2faec1f9f8cc7f8f40d521c4dd574f49" approved="yes">
+        <ns0:source>Enable</ns0:source>
+        <ns0:target state="final">
+           Ёқиш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/FeatureFlag/index.html.twig
+          [Line: 85]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7f77e3d7178f0b1979d13c101a456450" approved="yes">
+        <ns0:source>Enable debug mode</ns0:source>
+        <ns0:target state="final">
+           Отладка режимини ёқиш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/Error/error404.html.twig [Line: 66]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6fea30723d77ed0ce44ab2a93ed64590" approved="yes">
+        <ns0:source>Enable for group</ns0:source>
+        <ns0:target state="final">
+           Гуруҳ учун ёқиш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 414]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2bd9f1bf950529f42692ef91f7581438" approved="yes">
+        <ns0:source>Enable on all stores</ns0:source>
+        <ns0:target state="final">
+           Барча дўконларда ёқиш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 424]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ede4759c9afae620fd586628789fa304" approved="yes">
+        <ns0:source>Enable selection</ns0:source>
+        <ns0:target state="final">
+           Танланганларни ёқиш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ZoneGridDefinitionFactory.php [Line: 228]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8098b34f582537833b36b58273c3545b" approved="yes">
+        <ns0:source>Expand</ns0:source>
+        <ns0:target state="final">
+           Кенгайтириш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/TwigTemplateForm/material.html.twig
+          [Line: 37]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d0aac4ce1ac97df2b4c6e456bbe3a061" approved="yes">
+        <ns0:source>Expand all</ns0:source>
+        <ns0:target state="final">
+           Барчасини кенгайтириш </ns0:target>
+        <ns0:note>File: classes/helper/HelperTreeShops.php [Line: 133]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0095a9fa74d1713e43e370a7d7846224" approved="yes">
+        <ns0:source>Export</ns0:source>
+        <ns0:target state="final">
+           Экспорт </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Improve/International/Translations/Blocks/export_language.html.twig
+          [Line: 56]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="dbb392a2dc9b38722e69f6032faea73e" approved="yes">
+        <ns0:source>Export .CSV file</ns0:source>
+        <ns0:target state="final">
+           .CSV файлни экспорт қилиш </ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1194]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="351b6d570b6ba15fe66e85c1eaf9ec64" approved="yes">
+        <ns0:source>Export to SQL Manager</ns0:source>
+        <ns0:target state="final">
+           SQL менежерига экспорт қилиш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Common/Grid/Blocks/grid_actions.html.twig
+          [Line: 55]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="111d4dc70911c97cba3ec7d1a1183b1a" approved="yes">
+        <ns0:source>Export to SQL manager</ns0:source>
+        <ns0:target state="final">
+           SQL менежерига экспорт қилиш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ZoneGridDefinitionFactory.php [Line: 215]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ab76f8687bae4be1912889f2328fc8ea" approved="yes">
+        <ns0:source>Filter by categories</ns0:source>
+        <ns0:target state="final">
+           Категориялар бўйича фильтрлаш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Product/FormTheme/categories.html.twig
+          [Line: 105]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2198b1d436332a45070fb5e9cecb9abe" approved="yes">
+        <ns0:source>Filter by:</ns0:source>
+        <ns0:target state="final">
+           Бўйича фильтрлаш: </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Product/Combination/paginated_list_header.html.twig
+          [Line: 109]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="17f5f00c6d09158f70718e353e91d20e" approved="yes">
+        <ns0:source>Find a category</ns0:source>
+        <ns0:target state="final">
+           Категорияни топиш </ns0:target>
+        <ns0:note>File: classes/helper/Helper.php [Line: 155]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a20ddccbb6f808ec42cd66323e6c6061" approved="yes">
+        <ns0:source>Finish</ns0:source>
+        <ns0:target state="final">
+           Тамомлаш </ns0:target>
+        <ns0:note>File: controllers/admin/AdminCarrierWizardController.php [Line: 157]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="32b919d18cfaca89383f6000dcc9c031" approved="yes">
+        <ns0:source>Generate</ns0:source>
+        <ns0:target state="final">
+           Яратиш </ns0:target>
+        <ns0:note>File: admin-dev/themes/default/template/controllers/cart_rules/informations.tpl [Line:
+          83]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a0a17caf8de192bd85662445714f0adc" approved="yes">
+        <ns0:source>Generate emails</ns0:source>
+        <ns0:target state="final">
+           Электрон почталарни яратиш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Improve/Design/MailTheme/Blocks/generate_mails_form.html.twig
+          [Line: 91]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="92a8f0b9d28a89b480bd1d29f46f0484" approved="yes">
+        <ns0:source>Generator</ns0:source>
+        <ns0:target state="final">
+           Генератор </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Twig/Layout/MenuBuilder.php [Line: 245]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5f075ae3e1f9d0382bb8c4632991f96f" approved="yes">
+        <ns0:source>Go</ns0:source>
+        <ns0:target state="final">
+           Бориш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/Backup/Blocks/backup_info.html.twig
+          [Line: 42]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="728d699796b955a78ac93adaf51ba4dd" approved="yes">
+        <ns0:source>Go to maintenance page</ns0:source>
+        <ns0:target state="final">
+           Таъмир саҳифасига бориш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/Module/common.html.twig [Line: 41]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a92269f5f14ac147a821728c23204c0b" approved="yes">
+        <ns0:source>Hide warning</ns0:source>
+        <ns0:target state="final">
+           Огоҳлантиришни яшириш </ns0:target>
+        <ns0:note>File: admin-dev/themes/default/template/layout-ajax.tpl [Line: 85]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="72d6d7a1885885bb55a565fd1070581a" approved="yes">
+        <ns0:source>Import</ns0:source>
+        <ns0:target state="final">
+           Импорт </ns0:target>
+        <ns0:note>File: admin-dev/themes/default/template/controllers/import/helpers/view/view.tpl
+          [Line: 141]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="349838fb1d851d3e2014b9fe39203275" approved="yes">
+        <ns0:source>Install</ns0:source>
+        <ns0:target state="final">
+           Ўрнатиш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Controller/Admin/Improve/Design/ThemeController.php [Line:
+          477]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d59048f21fd887ad520398ce677be586" approved="yes">
+        <ns0:source>Learn more</ns0:source>
+        <ns0:target state="final">
+           Кўпроқ маълумот </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Customer/Blocks/showcase_card.html.twig
+          [Line: 35]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="49274687586eb8d893f65eac34a95fef" approved="yes">
+        <ns0:source>Learn more about debug mode</ns0:source>
+        <ns0:target state="final">
+           Отладка режими ҳақида кўпроқ маълумот </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/Error/error404.html.twig [Line: 76]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4ee29ca12c7d126654bd0e5275de6135" approved="yes">
+        <ns0:source>List</ns0:source>
+        <ns0:target state="final">
+           Рўйхат </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Twig/Layout/MenuBuilder.php [Line: 215]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f19dbf2edb3a0bd74b0524d960ff21eb" approved="yes">
+        <ns0:source>Load</ns0:source>
+        <ns0:target state="final">
+           Юклаш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/ImportDataConfiguration/Blocks/import_data_configuration.html.twig
+          [Line: 55]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7f090bbab1cc7f9c08bf4e54d932d3c0" approved="yes">
+        <ns0:source>Modify</ns0:source>
+        <ns0:target state="final">
+           Ўзгартириш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Improve/International/Translations/Blocks/modify_translations.html.twig
+          [Line: 58]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="faeb44014d2b370971666cf03fc3d31a" approved="yes">
+        <ns0:source>Next (arrow right)</ns0:source>
+        <ns0:target state="final">
+           Кейингиси (ўнгга) </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Image/ImageDropzoneType.php [Line:
+          126]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="03512622adb96b140e06e046addda1f0" approved="yes">
+        <ns0:source>Only selected carriers</ns0:source>
+        <ns0:target state="final">
+           Фақат танланган ташувчилар </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Shipping/ShippingType.php [Line:
+          122]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="dae8ace18bdcbcc6ae5aece263e14fe8" approved="yes">
+        <ns0:source>Options</ns0:source>
+        <ns0:target state="final">
+           Танловлар </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Twig/Layout/MenuBuilder.php [Line: 240]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="01fda57aa6c7e9f07f5aa36b108e95cb" approved="yes">
+        <ns0:source>Order by</ns0:source>
+        <ns0:target state="final">
+           Бўйича саралаш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Form/Admin/Improve/Shipping/Preferences/CarrierOptionsType.php [Line:
+          113]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="31fde7b05ac8952dacf4af8a704074ec" approved="yes">
+        <ns0:source>Preview</ns0:source>
+        <ns0:target state="final">
+           Кўриб чиқиш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/FooterType.php [Line: 182]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d5cce4256994565db2817227a42a6bd9" approved="yes">
+        <ns0:source>Previous (arrow left)</ns0:source>
+        <ns0:target state="final">
+           Олдинги (чапга) </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Image/ImageDropzoneType.php [Line:
+          125]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="daf51d7d9e10e6a469434ae548d9a173" approved="yes">
+        <ns0:source>Print out</ns0:source>
+        <ns0:target state="final">
+           Чоп этиш </ns0:target>
+        <ns0:note>File: admin-dev/themes/default/template/controllers/return/helpers/form/form.tpl
+          [Line: 43]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="43340e6cc4e88197d57f8d6d5ea50a46" approved="yes">
+        <ns0:source>Read more</ns0:source>
+        <ns0:target state="final">
+           Батафсил ўқиш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/TwigTemplateForm/prestashop_ui_kit_base.html.twig
+          [Line: 1277]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="aff98cd42460859e99447afb1831872a" approved="yes">
+        <ns0:source>Rearrange</ns0:source>
+        <ns0:target state="final">
+           Қайта жойлаштириш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Type/ReorderPositionsButtonType.php [Line: 47]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="63a6a88c066880c5ac42394a22803ca6" approved="yes">
+        <ns0:source>Refresh</ns0:source>
+        <ns0:target state="final">
+           Янгилаш </ns0:target>
+        <ns0:note>File: modules/dashtrends/views/templates/hook/dashboard_zone_two.tpl [Line: 39]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="258606ef5a3ed5cd7e39da08435adec0" approved="yes">
+        <ns0:source>Regenerate thumbnails</ns0:source>
+        <ns0:target state="final">
+           Миниатюраларни қайта яратиш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Improve/Design/ImageSettings/form-regenerate-thumbnails.html.twig
+          [Line: 54]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1063e38cb53d94d386f21227fcd84717" approved="yes">
+        <ns0:source>Remove</ns0:source>
+        <ns0:target state="final">
+           Олиб ташлаш </ns0:target>
+        <ns0:note>File: admin-dev/themes/default/template/controllers/tags/helpers/form/form.tpl [Line:
+          51]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="05fdc089c4c320832588a69475ff5e79" approved="yes">
+        <ns0:source>Replace selection</ns0:source>
+        <ns0:target state="final">
+           Танланганларни алмаштириш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Image/ImageDropzoneType.php [Line:
+          108]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="526d688f37a86d3c3f27d0c5016eb71d" approved="yes">
+        <ns0:source>Reset</ns0:source>
+        <ns0:target state="final">
+           Қайта тиклаш </ns0:target>
+        <ns0:note>File:
+          admin-dev/themes/default/template/controllers/tax_rules/helpers/list/list_header.tpl
+          [Line: 79]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2bd339d85ee3b33e513359ce781b60cc" approved="yes">
+        <ns0:source>Restore</ns0:source>
+        <ns0:target state="final">
+           Тиклаш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Improve/International/Currency/Blocks/form.html.twig
+          [Line: 48]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c9cc8cce247e49bae79f15173ce97354" approved="yes">
+        <ns0:source>Save</ns0:source>
+        <ns0:target state="final">
+           Сақлаш </ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 303]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f8825c9f08ff15b5ef6bc3a3898817e8" approved="yes">
+        <ns0:source>Save and preview</ns0:source>
+        <ns0:target state="final">
+           Сақлаш ва кўриб чиқиш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Improve/Design/Cms/Blocks/form.html.twig [Line:
+          58]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fe6a889f652bc87e0023c32d33592c25" approved="yes">
+        <ns0:source>Save and publish</ns0:source>
+        <ns0:target state="final">
+           Сақлаш ва нашр қилиш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Product/SpecificPrice/Blocks/list.html.twig
+          [Line: 101]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9ea67be453eaccf020697b4654fc021a" approved="yes">
+        <ns0:source>Save and stay</ns0:source>
+        <ns0:target state="final">
+           Сақлаш ва қолиш </ns0:target>
+        <ns0:note>File:
+          admin-dev/themes/default/template/controllers/translations/helpers/view/translation_modules.tpl
+          [Line: 152]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="baf47af13c027a9c747328bbfbcb9178" approved="yes">
+        <ns0:source>Save image settings</ns0:source>
+        <ns0:target state="final">
+           Расм созламаларини сақлаш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Image/ImageDropzoneType.php [Line:
+          118]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="13348442cc6a27032d2b4aa28b75a5d3" approved="yes">
+        <ns0:source>Search</ns0:source>
+        <ns0:target state="final">
+           Қидириш </ns0:target>
+        <ns0:note>File: admin-dev/themes/default/template/search_form.tpl [Line: 78]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="14b65dabcecbbcb0724ed1efe27c6335" approved="yes">
+        <ns0:source>Search ID</ns0:source>
+        <ns0:target state="final">
+           ID қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ZoneGridDefinitionFactory.php [Line: 133]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="56b533c60a6c6d0b172c4ba5ec971eeb" approved="yes">
+        <ns0:source>Search ISO code</ns0:source>
+        <ns0:target state="final">
+           ISO код қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/StateGridDefinitionFactory.php [Line: 197]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e3ff649d2ad58aafa4adee523917e380" approved="yes">
+        <ns0:source>Search address</ns0:source>
+        <ns0:target state="final">
+           Манзил қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/StoreGridDefinitionFactory.php [Line: 240]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="98b69092244c5a326046925eae941962" approved="yes">
+        <ns0:source>Search call prefix</ns0:source>
+        <ns0:target state="final">
+           Қўнғироқ префиксини қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/CountryGridDefinitionFactory.php [Line: 179]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="da6b6493b1cc2156ad63965bd59ca491" approved="yes">
+        <ns0:source>Search city</ns0:source>
+        <ns0:target state="final">
+           Шаҳар қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/StoreGridDefinitionFactory.php [Line: 249]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b87a1ee3c019ccff796304ffb8a83748" approved="yes">
+        <ns0:source>Search color</ns0:source>
+        <ns0:target state="final">
+           Ранг қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/AttributeGridDefinitionFactory.php [Line: 270]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="159b53bd16ff77184a5603620e54f761" approved="yes">
+        <ns0:source>Search company</ns0:source>
+        <ns0:target state="final">
+           Компания қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/OutstandingGridDefinitionFactory.php [Line:
+          227]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="288d3474d9261b2b11526a99b3bf98c2" approved="yes">
+        <ns0:source>Search country</ns0:source>
+        <ns0:target state="final">
+           Мамлакат қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/StoreGridDefinitionFactory.php [Line: 276]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6861d21ea3a14378d5fab68eb542c76f" approved="yes">
+        <ns0:source>Search customer</ns0:source>
+        <ns0:target state="final">
+           Мижоз қидириш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Type/CustomerSearchType.php [Line: 67]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="88e5d5ca0a8d1b109ce64897e3f5a1ad" approved="yes">
+        <ns0:source>Search description</ns0:source>
+        <ns0:target state="final">
+           Тавсиф қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/WebserviceKeyDefinitionFactory.php [Line: 157]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2459a02ecb2c655956ecb3e39068dc55" approved="yes">
+        <ns0:source>Search email</ns0:source>
+        <ns0:target state="final">
+           Электрон почта қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/EmployeeGridDefinitionFactory.php [Line: 198]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0354f1ccc8fd968237e03827e702eeb6" approved="yes">
+        <ns0:source>Search employee</ns0:source>
+        <ns0:target state="final">
+           Ходим қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/CustomerThreadGridDefinitionFactory.php [Line:
+          280]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fae5b9ebc97143da81b538acdc951c6e" approved="yes">
+        <ns0:source>Search file name</ns0:source>
+        <ns0:target state="final">
+           Файл номи қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/AttachmentGridDefinitionFactory.php [Line: 183]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3a6fc94863db8a7b9f85cceb4872e432" approved="yes">
+        <ns0:source>Search file size</ns0:source>
+        <ns0:target state="final">
+           Файл ҳажми қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/AttachmentGridDefinitionFactory.php [Line: 193]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e98936d7a5973d99a4b50b1f43400494" approved="yes">
+        <ns0:source>Search first name</ns0:source>
+        <ns0:target state="final">
+           Исм қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ManufacturerAddressGridDefinitionFactory.php
+          [Line: 180]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e480b018a3b81eb00b88d5bc11b78663" approved="yes">
+        <ns0:source>Search key</ns0:source>
+        <ns0:target state="final">
+           Калит қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/WebserviceKeyDefinitionFactory.php [Line: 147]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a77a2d34b4a09720e9848b4173c6ca71" approved="yes">
+        <ns0:source>Search language</ns0:source>
+        <ns0:target state="final">
+           Тил қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/CustomerThreadGridDefinitionFactory.php [Line:
+          262]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="402456650e9401a17e766d619ef691ec" approved="yes">
+        <ns0:source>Search last name</ns0:source>
+        <ns0:target state="final">
+           Фамилия қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ManufacturerAddressGridDefinitionFactory.php
+          [Line: 189]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0a437c4cc00815ee2f70116ebc0000d5" approved="yes">
+        <ns0:source>Search message</ns0:source>
+        <ns0:target state="final">
+           Хабар қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/OrderMessageGridDefinitionFactory.php [Line:
+          152]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="542f59279cd5d73dfbdb069ce0833b0a" approved="yes">
+        <ns0:source>Search name</ns0:source>
+        <ns0:target state="final">
+           Ном қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/TaxRulesGroupGridDefinitionFactory.php [Line:
+          156]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f4f9c70d6e447b42a202d6ed9aadc74d" approved="yes">
+        <ns0:source>Search order ID</ns0:source>
+        <ns0:target state="final">
+           Буюртма ID қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/MerchandiseReturnGridDefinitionFactory.php
+          [Line: 141]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="015762a0ffcfd7d3ad995dffb5c67e42" approved="yes">
+        <ns0:source>Search payment</ns0:source>
+        <ns0:target state="final">
+           Тўлов қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/OrderGridDefinitionFactory.php [Line: 339]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9d6abf0161fd44d3390037c48f84207a" approved="yes">
+        <ns0:source>Search position</ns0:source>
+        <ns0:target state="final">
+           Жойлашув қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/FeatureGridDefinitionFactory.php [Line: 213]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1b24f089e060676ad7ee2e3b3d3d6d5e" approved="yes">
+        <ns0:source>Search post code</ns0:source>
+        <ns0:target state="final">
+           Почта индекси қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ManufacturerAddressGridDefinitionFactory.php
+          [Line: 198]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d56b081f1e66fdf5130276c68d528780" approved="yes">
+        <ns0:source>Search reference</ns0:source>
+        <ns0:target state="final">
+           Маълумот қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/OrderGridDefinitionFactory.php [Line: 308]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8ac95de64bc03d0ada69a8118aa97a4a" approved="yes">
+        <ns0:source>Search template</ns0:source>
+        <ns0:target state="final">
+           Шаблон қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/OrderStatesGridDefinitionFactory.php [Line:
+          230]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8b82a7ba57cf0f052ea074b9d89abaa7" approved="yes">
+        <ns0:source>Search total</ns0:source>
+        <ns0:target state="final">
+           Жами қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/OrderGridDefinitionFactory.php [Line: 330]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2efb08b5105dc18a05b1233f11d9f1f9" approved="yes">
+        <ns0:source>Search value</ns0:source>
+        <ns0:target state="final">
+           Қиймат қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/FeatureValueGridDefinitionFactory.php [Line:
+          188]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cd208133859ae70cdceebef3a3b42988" approved="yes">
+        <ns0:source>Search zone</ns0:source>
+        <ns0:target state="final">
+           Зона қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ZoneGridDefinitionFactory.php [Line: 143]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a7e441ce13abaecceee27f5420ecdcd5" approved="yes">
+        <ns0:source>Search zones</ns0:source>
+        <ns0:target state="final">
+           Зоналар қидириш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/CountryGridDefinitionFactory.php [Line: 189]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="891ad007e2e9f2d55be6669cd9abc7a0" approved="yes">
+        <ns0:source>See more</ns0:source>
+        <ns0:target state="final">
+           Кўпроқ кўриш </ns0:target>
+        <ns0:note>File: admin-dev/themes/default/template/layout-ajax.tpl [Line: 84]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e0626222614bdee31951d84c64e5e9ff" approved="yes">
+        <ns0:source>Select</ns0:source>
+        <ns0:target state="final">
+           Танлаш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Order/Order/Blocks/View/Modal/update_customer_address_modal.html.twig
+          [Line: 56]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4c41e0bd957698b58100a5c687d757d9" approved="yes">
+        <ns0:source>Select all</ns0:source>
+        <ns0:target state="final">
+           Барчасини танлаш </ns0:target>
+        <ns0:note>File:
+          admin-dev/themes/default/template/controllers/tax_rules/helpers/list/list_footer.tpl
+          [Line: 37]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ac439041733dac56c24f57bffdd7ff98" approved="yes">
+        <ns0:source>Select all results (%combinations_number%)</ns0:source>
+        <ns0:target state="final">
+           Барча натижаларни танлаш (%combinations_number%) </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Product/FormTheme/combination_listing.html.twig
+          [Line: 85]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9fd1fd8420be3ace7cba8b711181345f" approved="yes">
+        <ns0:source>Select another address</ns0:source>
+        <ns0:target state="final">
+           Бошқа манзилни танлаш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Order/Order/Blocks/View/customer.html.twig
+          [Line: 147]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cc14223cb00cfa2ca0783b72890b1343" approved="yes">
+        <ns0:source>Select results on this page (%combinations_number%)</ns0:source>
+        <ns0:target state="final">
+           Шу саҳифадаги натижаларни танлаш (%combinations_number%) </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Product/FormTheme/combination_listing.html.twig
+          [Line: 75]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="94966d90747b97d1f0f206c98a8b1ac3" approved="yes">
+        <ns0:source>Send</ns0:source>
+        <ns0:target state="final">
+           Юбориш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/CustomerService/CustomerThread/Block/your_answer.html.twig
+          [Line: 60]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ea9cf7e47ff33b2be14e6dd07cbcefc6" approved="yes">
+        <ns0:source>Shipping</ns0:source>
+        <ns0:target state="final">
+           Етказиб бериш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Order/Order/Blocks/Create/shipping.html.twig
+          [Line: 27]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="498f79c4c5bbde77f1bceb6c86fd0f6d" approved="yes">
+        <ns0:source>Show</ns0:source>
+        <ns0:target state="final">
+           Кўрсатиш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/Improve/Design/positions.html.twig
+          [Line: 59]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="dbcd43f8ba2bafd1bccc57fe9c8b5d7b" approved="yes">
+        <ns0:source>Show SQL query</ns0:source>
+        <ns0:target state="final">
+           SQL сўровини кўрсатиш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Factory/FeatureValueGridFactory.php [Line: 197]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fe513725b21a16ced7d05b454e74a33e" approved="yes">
+        <ns0:source>Show or hide menu.</ns0:source>
+        <ns0:target state="final">
+           Менюни кўрсатиш ёки яшириш. </ns0:target>
+        <ns0:note>File: controllers/admin/AdminTabsController.php [Line: 187]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6b46ae48421828d9973deec5fa9aa0c3" approved="yes">
+        <ns0:source>Sort</ns0:source>
+        <ns0:target state="final">
+           Саралаш </ns0:target>
+        <ns0:note>File: modules/ps_categorytree/ps_categorytree.php [Line: 202]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="33d8042bd735c559cc3206f4bc99aedc" approved="yes">
+        <ns0:source>Sort by</ns0:source>
+        <ns0:target state="final">
+           Бўйича саралаш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/macros.html.twig [Line: 85]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="06f1ac65b0a6a548339a38b348e64d79" approved="yes">
+        <ns0:source>Sort order</ns0:source>
+        <ns0:target state="final">
+           Саралаш тартиби </ns0:target>
+        <ns0:note>File: modules/ps_categorytree/ps_categorytree.php [Line: 219]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6567238975275105f4e51e99ee3b4e17" approved="yes">
+        <ns0:source>Stop processing</ns0:source>
+        <ns0:target state="final">
+           Ишлов беришни тўхтатиш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 787]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f3b350b739134cb26b57ee8e5d9269b5" approved="yes">
+        <ns0:source>Toggle Fullscreen</ns0:source>
+        <ns0:target state="final">
+           Тўлиқ экранга ўтиш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Image/ImageDropzoneType.php [Line:
+          123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f2da6ec917773c24b879f1bc8e8f5da1" approved="yes">
+        <ns0:source>Translate emails</ns0:source>
+        <ns0:target state="final">
+           Электрон почталарни таржима қилиш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Improve/Design/MailTheme/Blocks/translate_mails_body_form.html.twig
+          [Line: 53]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f915a95e609bbd517a8a1e7bdcceef37" approved="yes">
+        <ns0:source>Try again</ns0:source>
+        <ns0:target state="final">
+           Яна уриниб кўринг </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Module/Includes/modal_import.html.twig [Line:
+          72]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9747d23c8cc358c5ef78c51e59cd6817" approved="yes">
+        <ns0:source>Uncheck All</ns0:source>
+        <ns0:target state="final">
+           Барчасидан белгини олиб ташлаш </ns0:target>
+        <ns0:note>File: classes/helper/Helper.php [Line: 154]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="13a3549902fb75af1df329df5f3b265a" approved="yes">
+        <ns0:source>Uncheck all</ns0:source>
+        <ns0:target state="final">
+           Барчасидан белгини олиб ташлаш </ns0:target>
+        <ns0:note>File: classes/helper/HelperTreeShops.php [Line: 145]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a27dfe771799a09fd55fea73286eb6ab" approved="yes">
+        <ns0:source>Uninstall</ns0:source>
+        <ns0:target state="final">
+           Ўчириш </ns0:target>
+        <ns0:note>File: admin-dev/themes/default/template/controllers/access/helpers/form/form.tpl
+          [Line: 579]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="46b816f573557a53c93ac78bbcfa9493" approved="yes">
+        <ns0:source>Unselect</ns0:source>
+        <ns0:target state="final">
+           Белгини олиб ташлаш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Product/FormTheme/categories.html.twig
+          [Line: 125]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="237c7b6874386141a095e321c9fdfd38" approved="yes">
+        <ns0:source>Unselect all</ns0:source>
+        <ns0:target state="final">
+           Барчасидан белгини олиб ташлаш </ns0:target>
+        <ns0:note>File:
+          admin-dev/themes/default/template/controllers/tax_rules/helpers/list/list_footer.tpl
+          [Line: 42]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="06933067aafd48425d67bcb01bba5cb6" approved="yes">
+        <ns0:source>Update</ns0:source>
+        <ns0:target state="final">
+           Янгилаш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Order/Order/Blocks/View/add_product_row.html.twig
+          [Line: 69]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f683581d3e75f05f9d9215f9b4696cef" approved="yes">
+        <ns0:source>Upgrade</ns0:source>
+        <ns0:target state="final">
+           Янгилаш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/Module/common.html.twig [Line: 42]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ad8783089f828b927473fb61d51940ec" approved="yes">
+        <ns0:source>Use</ns0:source>
+        <ns0:target state="final">
+           Фойдаланиш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/Blocks/import_file_history.html.twig
+          [Line: 78]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ad3d06d03d94223fa652babc913de686" approved="yes">
+        <ns0:source>Validate</ns0:source>
+        <ns0:target state="final">
+           Тасдиқлаш </ns0:target>
+        <ns0:note>File:
+          admin-dev/themes/default/template/controllers/carrier_wizard/helpers/view/view.tpl [Line:
+          33]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4351cfebe4b61d8aa5efa1d020710005" approved="yes">
+        <ns0:source>View</ns0:source>
+        <ns0:target state="final">
+           Кўриш </ns0:target>
+        <ns0:note>File: admin-dev/themes/default/template/controllers/customer_threads/message.tpl
+          [Line: 85]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2048fe880813217b00797eafa12e00a4" approved="yes">
+        <ns0:source>View %error_count% error logs</ns0:source>
+        <ns0:target state="final">
+           %error_count% та хатолар журналига қараш </ns0:target>
+        <ns0:note>File: src/Core/Grid/Definition/Factory/ProductGridDefinitionFactory.php [Line: 791]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="21c411dbe2b2a636f05d20fd4bfa8129" approved="yes">
+        <ns0:source>View customer details</ns0:source>
+        <ns0:target state="final">
+           Мижоз маълумотларини кўриш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Form/Admin/Sell/CustomerService/MerchandiseReturn/OrderReturnType.php
+          [Line: 74]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6e9783376d951cfd780e9fdb67a0f02c" approved="yes">
+        <ns0:source>View details</ns0:source>
+        <ns0:target state="final">
+           Батафсил кўриш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Order/Order/Blocks/View/customer.html.twig
+          [Line: 47]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f6ec431761aa6aa9f924c1797350ef45" approved="yes">
+        <ns0:source>View order details</ns0:source>
+        <ns0:target state="final">
+           Буюртма маълумотларини кўриш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Form/Admin/Sell/CustomerService/MerchandiseReturn/OrderReturnType.php
+          [Line: 83]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1dda0a32a88a31cac7f6b103ff13e2ac" approved="yes">
+        <ns0:source>View pack content</ns0:source>
+        <ns0:target state="final">
+           Комплект таркибини кўриш </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Order/Order/Blocks/View/product.html.twig
+          [Line: 182]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7347b01499b2a4023b8806e12212de6a" approved="yes">
+        <ns0:source>Zoom in/out</ns0:source>
+        <ns0:target state="final">
+           Яқинлаштириш/Узоқлаштириш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Image/ImageDropzoneType.php [Line:
+          124]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9b2aeabc134ca14881b47ba894aa11dc" approved="yes">
+        <ns0:source>Zoom on selection</ns0:source>
+        <ns0:target state="final">
+           Танланганга яқинлаштириш </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Image/ImageDropzoneType.php [Line:
+          128]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1bd8c3527fb82e905af2a841a7728275" approved="yes">
+        <ns0:source>[1]Manage default settings[/1]</ns0:source>
+        <ns0:target state="final">
+           [1]Андоза созламаларни бошқариш[/1] </ns0:target>
+        <ns0:note>File:
+          src/PrestaShopBundle/Form/Admin/Sell/Product/Pricing/ProductSpecificPricePriorityType.php
+          [Line: 86]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e9c7e4df74077626f7e42797c65273c4" approved="yes">
+        <ns0:source>and stay</ns0:source>
+        <ns0:target state="final">
+           ва қолиш </ns0:target>
+        <ns0:note>File: admin-dev/themes/default/template/footer_toolbar.tpl [Line: 120]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

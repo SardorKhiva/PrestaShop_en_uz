@@ -1,0 +1,627 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Admin.Shopparameters.Help.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="96f090b06e329e3d192c0ea3701f8cb5" approved="yes">
+        <ns0:source>%group_name% - All persons who created an account on this site.</ns0:source>
+        <ns0:target state="final">% Group_name% - ushbu saytda hisob yaratgan barcha shaxslar.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminGroupsController.php [Line: 668]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5125d0fd7b81fee95b7e4b7689a878a9" approved="yes">
+        <ns0:source>%group_name% - All persons who placed an order through Guest Checkout.</ns0:source>
+        <ns0:target state="final">% Group_name% - mehmonni tekshirish orqali buyurtma bergan barcha shaxslar.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminGroupsController.php [Line: 667]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d38245fbe312b2dafef8450b67e94f50" approved="yes">
+        <ns0:source>%group_name% - All persons without a customer account or customers that are not logged in.</ns0:source>
+        <ns0:target state="final">% Group_name% - barcha shaxslarsiz mijozlar hisobisiz yoki tizimga kirmagan mijozlarsiz.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminGroupsController.php [Line: 666]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="79c06fd4269a36582767dc4525699148" approved="yes">
+        <ns0:source>A short description of your shop.</ns0:source>
+        <ns0:target state="final">Do'koningizning qisqacha tavsifi.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/Configure/ShopParameters/TrafficSeo/Meta/Blocks/form.html.twig [Line: 59]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e0cf416b39580f321e4641721698560f" approved="yes">
+        <ns0:source>Activate or deactivate B2B mode. When this option is enabled, B2B features will be made available.</ns0:source>
+        <ns0:target state="final">B2B rejimini faollashtirish yoki o'chirish. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/CustomerPreferences/GeneralType.php [Line: 102]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4b7f36059725914c3abe3fe69a42d860" approved="yes">
+        <ns0:source>Advised for European merchants to be legally compliant (eg: Delivered within 3-4 days)</ns0:source>
+        <ns0:target state="final">Evropa savdogarlari qonuniy ravishda mos keladi (masalan: 3-4 kun ichida etkazib beriladi)</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/StockType.php [Line: 166]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="29474c2b0b3e4d053abd526ed118b420" approved="yes">
+        <ns0:source>Advised for European merchants to be legally compliant (eg: Delivered within 5-7 days)</ns0:source>
+        <ns0:target state="final">Evropa savdogarlari qonuniy ravishda mos keladi (masalan: 5-7 kun ichida etkazib beriladi)</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/StockType.php [Line: 187]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b9716d3d87447a2275318bf88ced7bf8" approved="yes">
+        <ns0:source>After a customer logs in, you can recall and display the content of his/her last shopping cart.</ns0:source>
+        <ns0:target state="final">Mijoz tizimga kirgandan so'ng, siz oxirgi xarid qilish savatining tarkibini eslab, namoyish qilishingiz mumkin.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/CustomerPreferences/GeneralType.php [Line: 54]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4db650b0232001140675125d740191be" approved="yes">
+        <ns0:source>Allow IP addresses to access the store, even in maintenance mode. Use a comma to separate them (e.g. 42.24.4.2,127.0.0.1,99.98.97.96).</ns0:source>
+        <ns0:target state="final">IP manzillariga, hatto texnik xizmat rejimida do'konga kirishiga ruxsat berish. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/General/MaintenanceType.php [Line: 111]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e7c9a42ec01114dcd98e47bb1cb1ace6" approved="yes">
+        <ns0:source>Allow guest visitors to place an order without registering.</ns0:source>
+        <ns0:target state="final">Mehmonga tashrif buyuruvchilarga ro'yxatdan o'tishsiz buyurtma berishga ruxsat bering.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderPreferences/GeneralType.php [Line: 93]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4f70bd9998bb35643fa3dfc88d6a6373" approved="yes">
+        <ns0:source>Allow iframes on text fields like product description. We recommend that you leave this option disabled.</ns0:source>
+        <ns0:target state="final">Mahrammalarni mahsulot tavsifi kabi matn maydonlarida ruxsat bering. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/General/PreferencesType.php [Line: 130]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a5fa9ffd3ddf89fe263675358032e7fb" approved="yes">
+        <ns0:source>Automatically apply this value as a discount on all products for members of this customer group.</ns0:source>
+        <ns0:target state="final">Ushbu qiymatni ushbu mijozlar guruhiga a'zo bo'lgan barcha mahsulotlar uchun chegirma sifatida avtomatik ravishda qo'llang.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminGroupsController.php [Line: 378]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5ed533875d7388ffdbb60818e9596bdc" approved="yes">
+        <ns0:source>Automatically updates the shipping costs when you edit an order.</ns0:source>
+        <ns0:target state="final">Buyurtmani tahrirlashda etkazib berish xarajatlarini avtomatik ravishda yangilaydi.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderPreferences/GeneralType.php [Line: 113]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1122eba5946331d2709712f64fa1d66b" approved="yes">
+        <ns0:source>By default, if you search "book", you will have "book", "bookcase" and "bookend".</ns0:source>
+        <ns0:target state="final">Odatiy holga ko'ra, agar siz "kitob" ni qidirsangiz, sizda "kitob", "kitob pochkasi" va "kitoblar" bo'ladi.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 140]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b5e585ab39ea18b6354e53370bfe7472" approved="yes">
+        <ns0:source>By default, the "%add_to_cart_label%" button is hidden when a product is unavailable. You can choose to have it displayed in all cases.</ns0:source>
+        <ns0:target state="final">Odatiy bo'lib, "% Qo'shimcha qo'shish%%" tugmasi mahsulot mavjud bo'lmaganda yashiringan. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/StockType.php [Line: 104]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b080303b551112c7b9dcdf6a21051f42" approved="yes">
+        <ns0:source>By default, the fuzzy search is enabled. It means spelling errors are allowed, e.g. you can search for "bird" with words like "burd", "bard" or "beerd".</ns0:source>
+        <ns0:target state="final">Odatiy bo'lib, loyqa qidiruv yoqilgan. </ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 168]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a5cb89e5bcb48c0708ee6837a5944d3e" approved="yes">
+        <ns0:source>By default, to search for “blouse”, you have to enter “blous”, “blo”, etc (beginning of the word) – but not “lous” (within the word).</ns0:source>
+        <ns0:target state="final">Odatiy bo'lib, "bluzka" ni qidirish uchun siz "BLOB", "BLO" va boshqalar (so'zning boshlanishi) - "so'zning boshlanishi" (so'z ichida).</ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 112]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f0f7416fad0a9c9fc3163cabe68393c1" approved="yes">
+        <ns0:source>By selecting associated categories, you are choosing to share the categories between shops. Once associated between shops, any alteration of this category will impact every shop.</ns0:source>
+        <ns0:target state="final">O'xshash toifalarni tanlash orqali siz do'konlar orasidagi toifalarni baham ko'rishni tanlaysiz. </ns0:target>
+        <ns0:note>File: controllers/admin/AdminShopController.php [Line: 573]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bd92437d0543aa142ccea7c021c9efe9" approved="yes">
+        <ns0:source>Catalog mode disables the shopping cart on your store. Visitors will be able to browse your products catalog, but not buy them.</ns0:source>
+        <ns0:target state="final">Katalog rejimi do'koningizdagi Savatni o'chiradi. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/GeneralType.php [Line: 74]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="38cb366ab3534fefcbc7d051a3b122fd" approved="yes">
+        <ns0:source>Choose the page which contains your store's terms and conditions of use.</ns0:source>
+        <ns0:target state="final">Choose the page which contains your store's terms and conditions.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderPreferences/GeneralType.php [Line: 133]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7ba34b929c8241268ab5eac35a772ab1" approved="yes">
+        <ns0:source>Clean the HTML content on text fields. We recommend that you leave this option enabled.</ns0:source>
+        <ns0:target state="final">Matn maydonlarida HTML tarkibini tozalang. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/General/PreferencesType.php [Line: 140]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9cd9efd3eb168071eb0a199972c54aab" approved="yes">
+        <ns0:source>Contact name (e.g. Customer Support).</ns0:source>
+        <ns0:target state="final">Kontakt nomi (E.G. mijozlarni qo'llab-quvvatlash).</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/Contact/ContactType.php [Line: 87]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="eaf74fe1658ada757063c8ddc4381ef9" approved="yes">
+        <ns0:source>Customers in this group can view prices.</ns0:source>
+        <ns0:target state="final">Ushbu guruhdagi mijozlar narxlarni ko'rishlari mumkin.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminGroupsController.php [Line: 420]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="777ca35e6f4ddd56c7b8c16d8f74ad13" approved="yes">
+        <ns0:source>Delivered within 3-4 days</ns0:source>
+        <ns0:target state="final">3-4 kun ichida etkazib berildi</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/StockType.php [Line: 176]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="02746d0355a6c94c9ca770302e9da1ca" approved="yes">
+        <ns0:source>Delivered within 5-7 days</ns0:source>
+        <ns0:target state="final">5-7 kun ichida etkazib berildi</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/StockType.php [Line: 197]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8690429442758955469bd5eb14c3db72" approved="yes">
+        <ns0:source>Disable the option to allow customers to reorder in one click from the order history page (required in some European countries).</ns0:source>
+        <ns0:target state="final">Mijozlarga buyurtma tarixi sahifasidan bir marta bosish uchun buyurtma berish imkoniyatini o'chiring (ba'zi Evropa mamlakatlarida talab qilinadi).</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderPreferences/GeneralType.php [Line: 99]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="39e61e5c1261f090e3c56f494a315f07" approved="yes">
+        <ns0:source>Disabling this option will require exact spelling for the search to match results.</ns0:source>
+        <ns0:target state="final">Ushbu parametrni o'chirib qo'yish natijalarni izohlash uchun qidiruv uchun aniq imlo kerak bo'ladi.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 173]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="541fbadd38ba459b4257b5822e9d0518" approved="yes">
+        <ns0:source>Display a customized message when the store is disabled.</ns0:source>
+        <ns0:target state="final">Do'kon o'chirilganda, maxsus xabarni namoyish eting.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/General/MaintenanceType.php [Line: 131]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="406fff3ade73ad2eb4c4fefa8a1c2702" approved="yes">
+        <ns0:source>Display an overview of the addresses, shipping method and cart just before the order button (required in some European countries).</ns0:source>
+        <ns0:target state="final">Display a summary of all relevant order data (payment method, adresses, dispatch and cart) above the order button.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderPreferences/GeneralType.php [Line: 87]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="69b3bcd0dba13c9f1188ab86480afca4" approved="yes">
+        <ns0:source>Display or not the birth date field.</ns0:source>
+        <ns0:target state="final">Ko'rilgan sana maydonini namoyish eting yoki emas.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/CustomerPreferences/GeneralType.php [Line: 113]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3bc07e4ecf0660962221cf030b935d9d" approved="yes">
+        <ns0:source>Display or not the partner offers tick box, to receive offers from the store's partners.</ns0:source>
+        <ns0:target state="final">Optional check box for affiliate links</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/CustomerPreferences/GeneralType.php [Line: 124]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bbaceb858ee14af2da60e07d63fd8678" approved="yes">
+        <ns0:source>Display product prices when in catalog mode.</ns0:source>
+        <ns0:target state="final">Katalog rejimida mahsulot narxlarini ko'rsatish.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/GeneralType.php [Line: 82]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="91440687d19da0f6c7d96d9a5b3f1dec" approved="yes">
+        <ns0:source>Display the "%add_to_cart_label%" button when a product has combinations</ns0:source>
+        <ns0:target state="final">Mahsulot kombinatsiyasi bo'lganida "% Qo'shimcha qo'shish%%" tugmasini ko'rsating</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/PageType.php [Line: 56]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d42de30e9e03274c5c83bd6ce5c27a6f" approved="yes">
+        <ns0:source>Displayed in emails sent to customers.</ns0:source>
+        <ns0:target state="final">Mijozlarga yuborilgan elektron pochta xabarlarida ko'rsatilgan.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStoresController.php [Line: 468]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3d034f43e44ee495a11005507185a0a0" approved="yes">
+        <ns0:source>Email template for both .html and .txt.</ns0:source>
+        <ns0:target state="final">Ikkalasi uchun elektron pochta shabloni .HTML va .Txt.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderStates/OrderStateType.php [Line: 231]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="daedf9c5c8f38ac4cf641f3fb3e1bdc4" approved="yes">
+        <ns0:source>Emails will be sent to this address.</ns0:source>
+        <ns0:target state="final">Elektron pochta xabarlari ushbu manzilga yuboriladi.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/Contact/ContactType.php [Line: 114]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2324c421f8c5376051c024f15232cd80" approved="yes">
+        <ns0:source>Enable approximate string matching.</ns0:source>
+        <ns0:target state="final">Taxminan satr mosligini yoqish.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 179]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0678cf17f202cb7fd14d79054a2e628c" approved="yes">
+        <ns0:source>Enable best sellers page on your front office even when its respective module is disabled.</ns0:source>
+        <ns0:target state="final">O'zingizning old ofisingizda eng mos modul o'chirilgan bo'lsa ham, eng yaxshi sotuvchilar sahifasini yoqing.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/General/PreferencesType.php [Line: 194]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8e17743ca02e7c24310531d34d0c89ff" approved="yes">
+        <ns0:source>Enable brands page on your front office even when its module is disabled.</ns0:source>
+        <ns0:target state="final">O'zingizning modul o'chirilgan bo'lsa ham, markalarni sahifangizga yoqing.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/General/PreferencesType.php [Line: 186]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c4474326e7d8129b7c04ada10f34f5b1" approved="yes">
+        <ns0:source>Enable more precise search with the end of the word.</ns0:source>
+        <ns0:target state="final">So'z oxirida aniqroq qidirish.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 151]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a1202480ddcd8665114515ca380c0e5b" approved="yes">
+        <ns0:source>Enable or disable token in the Front Office to improve PrestaShop's security.</ns0:source>
+        <ns0:target state="final">Prestrashop xavfsizligini yaxshilash uchun old ofisda belgilash yoki o'chirish.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/General/PreferencesType.php [Line: 120]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9110055bdc92744713baa237b26f8ac7" approved="yes">
+        <ns0:source>Enable search within a whole word, rather than from its beginning only.</ns0:source>
+        <ns0:target state="final">Qidiruvdan ko'ra emas, balki to'liq so'z ichida qidiruvni yoqing.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7c6efc73556c295515e6f3c2129eee32" approved="yes">
+        <ns0:source>Enable suppliers page on your front office even when its module is disabled.</ns0:source>
+        <ns0:target state="final">O'zingizning modul o'chirilgan bo'lsa ham, oldingi ofisingizda etkazib beruvchilar sahifasini yoqing.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/General/PreferencesType.php [Line: 178]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="12399d580627a1a5889cdc44e6e48b5a" approved="yes">
+        <ns0:source>Enable the automatic indexing of products. If you enable this feature, the products will be indexed in the search automatically when they are saved. If the feature is disabled, you will have to index products manually by using the links provided in the field set.</ns0:source>
+        <ns0:target state="final">Mahsulotlarni avtomatik indeksatsiyalashni yoqing. </ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 97]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="74be75bfd118a0c7a3df9308c45f44bb" approved="yes">
+        <ns0:source>Enable this option if you want to activate by default all your manually created new products.</ns0:source>
+        <ns0:target state="final">Agar siz odatiy ravishda yangi mahsulotlar bilan yangilangan yangi mahsulotlar bilan faollashtirmoqchi bo'lsangiz, ushbu parametrni yoqing.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/GeneralType.php [Line: 166]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3c0127b2ac978b5ebf97533cee742da0" approved="yes">
+        <ns0:source>Enable this option if you want to allow accented characters in your friendly URLs. You should only activate this option if you are using non-Latin characters; for all the Latin charsets, your SEO will be better without this option.</ns0:source>
+        <ns0:target state="final">Agar siz do'stlaringizdagi xujumchilarga xujumlarni amalga oshirishni xohlasangiz, ushbu parametrni yoqing. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/TrafficSeo/Meta/SetUpUrlType.php [Line: 122]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6d6348525df68625d9758d6d071ac505" approved="yes">
+        <ns0:source>Enable this option if you want to display your product's attributes in its meta title.</ns0:source>
+        <ns0:target state="final">Agar siz o'z mahsulotingizning xususiyatlarini Mebra unvoniga ko'rsatmoqchi bo'lsangiz, ushbu parametrni yoqing.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/TrafficSeo/Meta/SEOOptionsType.php [Line: 52]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7dcc0875a9e200be4d760155c09c2945" approved="yes">
+        <ns0:source>Enable this option only if you have problems with URL rewriting.</ns0:source>
+        <ns0:target state="final">Agar siz URL-ni qayta yozishda muammolaringiz bo'lsa, ushbu parametrni yoqing.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/TrafficSeo/Meta/SetUpUrlType.php [Line: 143]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3ff4fabe93bbb10c32a27c54ea13a5e1" approved="yes">
+        <ns0:source>Enable this option only if your server allows URL rewriting (recommended).</ns0:source>
+        <ns0:target state="final">Ushbu parametrni faqat sizning serveringiz URL-ni qayta yozishga imkon bersa (tavsiya etiladi).</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/TrafficSeo/Meta/SetUpUrlType.php [Line: 93]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="786471035f60ea5955fd93f6998e8637" approved="yes">
+        <ns0:source>Enter each alias separated by a comma (e.g. 'prestshop,preztashop,prestasohp').</ns0:source>
+        <ns0:target state="final">Vergul tomonidan ajratilgan har bir taxallusni kiriting (E.G. '"PrestShop, Prestasoxp").</ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 417]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1561fa99e3814c72f5206ab48b472335" approved="yes">
+        <ns0:source>Follow [1]this link[/1] to edit the shop name used on the front office.</ns0:source>
+        <ns0:target state="final">Old ofisda ishlatiladigan do'kon nomini tahrirlash uchun [1] ushbu havolani [1]</ns0:target>
+        <ns0:note>File: controllers/admin/AdminShopController.php [Line: 440]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="99de37a1ed381af8c01ccb18f70b1427" approved="yes">
+        <ns0:source>For instance, "contacts" for http://example.com/shop/contacts to redirect to http://example.com/shop/contact-form.php</ns0:source>
+        <ns0:target state="final">Masalan, http://example.com/shop/contacts uchun "Kontaktlar" http://example.com/shop/contact-form.php</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/Configure/ShopParameters/TrafficSeo/Meta/Blocks/form.html.twig [Line: 69]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="88851f53412ccb796508fd5f48e7a44f" approved="yes">
+        <ns0:source>Forbidden characters: &lt;&gt;;=#{}</ns0:source>
+        <ns0:target state="final">Taqiqlangan belgilar: &lt;&gt;; = # {}</ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 418]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="21e445ba767d4fd41332b6eceab2be1a" approved="yes">
+        <ns0:source>How prices are displayed in the order summary for this customer group.</ns0:source>
+        <ns0:target state="final">Ushbu mijozlar guruhi uchun narxlarning xulosasi qanday ko'rsatilgan.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminGroupsController.php [Line: 385]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fc216bdfbaab3c5e3e87c70720110a08" approved="yes">
+        <ns0:source>How to calculate quantity discounts.</ns0:source>
+        <ns0:target state="final">Qancha chegirmalarni qanday hisoblash kerak.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/GeneralType.php [Line: 121]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e607353e02cd0a8928344d8761ddb245" approved="yes">
+        <ns0:source>If a customer meets multiple conditions, specific prices will be applied in this order of priority, unless a different order has been set for a particular product.</ns0:source>
+        <ns0:target state="final">Agar mijoz bir nechta shartlarga javob bersa, agar biron bir mahsulot uchun boshqa buyurtma o'rnatilmagan bo'lsa, aniq narxlar qo'llaniladi.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/GeneralType.php [Line: 177]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8bd1967f496dd2a0dd64dae32a3bc6e5" approved="yes">
+        <ns0:source>If an attribute is not available in every product combination, it will not be displayed.</ns0:source>
+        <ns0:target state="final">Agar har bir mahsulot kombinatida atribut mavjud bo'lmasa, u ko'rsatilmaydi.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/StockType.php [Line: 82]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0f28459fa87b1b3ce6e8b17932f08c3a" approved="yes">
+        <ns0:source>If enabled, all messages will be saved in the "Customer Service" page under the "Customer" menu.</ns0:source>
+        <ns0:target state="final">Agar yoqilgan bo'lsa, barcha xabarlar "Mijoz" menyusi ostida "Mijozlarga xizmat ko'rsatish" sahifasida saqlanadi.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/Contact/ContactType.php [Line: 127]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a3a0f3b2f4c12d1c11b9916c8c10c48c" approved="yes">
+        <ns0:source>If you want to enable SSL on all the pages of your shop, activate the "Enable on all the pages" option below.</ns0:source>
+        <ns0:target state="final">If you want to enable SSL on all the pages of your store, activate the "Enable on all the pages" option below.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/Configure/ShopParameters/preferences.html.twig [Line: 53]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="aec8651b033be4d4056785d43763d7ca" approved="yes">
+        <ns0:source>Image height in pixels. Enter "0" to use the original size.</ns0:source>
+        <ns0:target state="final">Rasm balandligi pikselda. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/CustomerPreferences/TitleType.php [Line: 94]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="62c7ceb6de5c4d39e49c9762af6ddb4d" approved="yes">
+        <ns0:source>Image width in pixels. Enter "0" to use the original size.</ns0:source>
+        <ns0:target state="final">Rasm kengligi pikselda. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/CustomerPreferences/TitleType.php [Line: 83]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fcebe56087b9373f15514831184fa572" approved="yes">
+        <ns0:source>In stock</ns0:source>
+        <ns0:target state="final">Omborda mavjud; sotuvda mavjud</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/StockType.php [Line: 124]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f9aa0af5fdadc92504092774a0afb472" approved="yes">
+        <ns0:source>In the volume discount table on the product page, display the discounted unit price instead of the unit discount. E.g. If you sell a product for $10 with a discount of $2 from 3 items purchased, the discounted unit price ($8) will be displayed instead of the unit discount ($2).</ns0:source>
+        <ns0:target state="final">Mahsulot sahifasida chegirma jadvalida jihoz chegirma o'rniga diskontsiyalashtirilgan birlik narxini ko'rsating. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/PageType.php [Line: 102]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6252c0f2c2ed83b7b06dfca86d4650bb" approved="yes">
+        <ns0:source>Invalid characters:</ns0:source>
+        <ns0:target state="final">Noto'g'ri belgilar:</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/Configure/ShopParameters/TrafficSeo/Meta/Blocks/form.html.twig [Line: 60]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a4bb440d400f4dc30f148b44d08680b4" approved="yes">
+        <ns0:source>Invalid characters: numbers and</ns0:source>
+        <ns0:target state="final">Noto'g'ri belgilar: raqamlar va</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderStates/OrderStateType.php [Line: 124]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4acdb94f4cbc425ad20d457ffa1d81c1" approved="yes">
+        <ns0:source>It allows you to delay shipping if your customers request it.</ns0:source>
+        <ns0:target state="final">Agar sizning mijozlaringiz buni talab qilsa, bu sizga etkazib berishni kechiktirishga imkon beradi.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderPreferences/GeneralType.php [Line: 121]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0e665a9cf278d49f43c4bb4cb9a7c29f" approved="yes">
+        <ns0:source>It checks if the searched term is contained in the indexed word. This may be resource-consuming.</ns0:source>
+        <ns0:target state="final">Tekshirilgan atama indekslangan so'zda mavjudligini tekshiradi. </ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 128]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="efb6bc8d1ee1c5527d494ba15ee3109d" approved="yes">
+        <ns0:source>It checks if the searched term is the exact end of the indexed word.</ns0:source>
+        <ns0:target state="final">Tekshirilgan atama indekslangan so'zning aniq tugashi ekanligini tekshiradi.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 156]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="59a84d54ad58aa4bea8aeacd11e47ab2" approved="yes">
+        <ns0:source>Minimum time required between two requests for a password reset.</ns0:source>
+        <ns0:target state="final">Parolni tiklash uchun ikkita so'rov orasida talab qilinadigan minimal vaqt.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/CustomerPreferences/GeneralType.php [Line: 90]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="219985722a429b6aaceef7d363e6a565" approved="yes">
+        <ns0:source>Name of the related page.</ns0:source>
+        <ns0:target state="final">Tegishli sahifa nomi.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/Configure/ShopParameters/TrafficSeo/Meta/Blocks/form.html.twig [Line: 45]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c7a5c6872a29383d6ab0db08e6b40e15" approved="yes">
+        <ns0:source>Need to hide prices for all groups? Save time, enable catalog mode in Product Settings instead.</ns0:source>
+        <ns0:target state="final">Barcha guruhlar uchun narxlarni yashirish kerakmi? </ns0:target>
+        <ns0:note>File: controllers/admin/AdminGroupsController.php [Line: 421]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6e39e91b64484f1b075287486b74a9a2" approved="yes">
+        <ns0:source>Note that the label will be displayed only if backorders are denied.</ns0:source>
+        <ns0:target state="final">E'tibor bering, yorliq faqat orqa tarafdorlar rad etilgan bo'lsa, ko'rsatiladi.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/StockType.php [Line: 208]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a4b432b49016cf0de70c747fde4f815b" approved="yes">
+        <ns0:source>Note that this option is resource-consuming: the more you search, the longer it takes.</ns0:source>
+        <ns0:target state="final">E'tibor bering, ushbu parametr resursni iste'mol qilish: qanchalik ko'p qidirsangiz, u qancha ko'p kerak bo'ladi.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 192]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="189091e5d4ecc3ebd81c491695fe0f0b" approved="yes">
+        <ns0:source>Number of products displayed per page. Default is 12</ns0:source>
+        <ns0:target state="final">Har bir sahifada ko'rsatiladigan mahsulotlar soni. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/PaginationType.php [Line: 52]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bdd3f1e97760014483e852ca58e8f3c1" approved="yes">
+        <ns0:source>On backorder</ns0:source>
+        <ns0:target state="final">Orqagisi</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/StockType.php [Line: 139]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7aa534250fe76a40d96078a07b6f44e8" approved="yes">
+        <ns0:source>Only letters and hyphens are allowed.</ns0:source>
+        <ns0:target state="final">Faqat harflar va defissga ruxsat beriladi.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/Configure/ShopParameters/TrafficSeo/Meta/Blocks/form.html.twig [Line: 70]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f0fe1aebeace842330fb048126151e06" approved="yes">
+        <ns0:source>Only letters, numbers and underscores ("_") are allowed.</ns0:source>
+        <ns0:target state="final">Faqat harflar, raqamlar va pastki chiziqlar ("_") ruxsat etiladi.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderStates/OrderStateType.php [Line: 230]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6392d16e9ae94967fe13716b69e1d0b2" approved="yes">
+        <ns0:source>Only words fewer or equal to this maximum length will be searched.</ns0:source>
+        <ns0:target state="final">Faqatgina ushbu maksimal uzunlikdagi so'zlar qidiriladi.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 222]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="645115aba5ef431a04da95c746477544" approved="yes">
+        <ns0:source>Only words this size or larger will be indexed.</ns0:source>
+        <ns0:target state="final">Faqat bu o'lcham yoki kattaroq so'zlar indekslanadi.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 243]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="83b262520a65657b95fd686817c56a09" approved="yes">
+        <ns0:source>Order status (e.g. 'Pending').</ns0:source>
+        <ns0:target state="final">Buyurtma holati (E.G. 'kutilayotgan').</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderStates/OrderStateType.php [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b55197a49e8c4cd8c314bc2aa39d6feb" approved="yes">
+        <ns0:source>Out of stock</ns0:source>
+        <ns0:target state="final">Sotuvda yo'q</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/StockType.php [Line: 154]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2c2666c9eee818342b0aff77dda51990" approved="yes">
+        <ns0:source>Please enter the index words separated by a "|".</ns0:source>
+        <ns0:target state="final">Iltimos, "| |" tomonidan ajratilgan indeks so'zlarini kiriting.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 255]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a2ce271cf6d8afe81168fbfc4ccb492c" approved="yes">
+        <ns0:source>PrestaShop has three default customer groups:</ns0:source>
+        <ns0:target state="final">Prestashopda uchta standart mijoz guruhlari mavjud:</ns0:target>
+        <ns0:note>File: controllers/admin/AdminGroupsController.php [Line: 670]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bafe5bb026d9d3315199aec22c1be853" approved="yes">
+        <ns0:source>Remember to regenerate email templates in [1]Design &gt; Email theme[/1] after enabling or disabling this feature.</ns0:source>
+        <ns0:target state="final">Ushbu xususiyatni yoqib yuborganingizdan so'ng [1] elektron pochta manzilini [1] elektron pochta manzilini [1] mavzuni qayta tiklashni unutmang.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderPreferences/GiftOptionsType.php [Line: 103]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fff92cdf417b8a468af180474057a575" approved="yes">
+        <ns0:source>Require customers to accept or decline terms of service before processing an order.</ns0:source>
+        <ns0:target state="final">Buyurtmani qayta ishlashdan oldin mijozlar xizmat ko'rsatish shartlarini qabul qilish yoki rad etishni talab qiladi.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderPreferences/GeneralType.php [Line: 127]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="01d2aac5d20787a1e873f2bdc79b514a" approved="yes">
+        <ns0:source>Search this word instead.</ns0:source>
+        <ns0:target state="final">Bu so'zni o'rniga qidiring.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 426]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4c80d371ca1a14e173c5480ee32f1c90" approved="yes">
+        <ns0:source>Send an email with a summary of the account information after registration.</ns0:source>
+        <ns0:target state="final">Ro'yxatdan o'tgandan keyin hisob ma'lumotlari haqida qisqacha ma'lumot bilan elektron pochta xabarini yuboring.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/CustomerPreferences/GeneralType.php [Line: 65]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f2e28db133063334eb23fad936947493" approved="yes">
+        <ns0:source>Set a price for gift wrapping.</ns0:source>
+        <ns0:target state="final">Sovg'a o'rash uchun narxni o'rnating.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderPreferences/GiftOptionsType.php [Line: 115]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3993942430a9f4e82e50b2c39048d6b6" approved="yes">
+        <ns0:source>Set a tax for gift wrapping.</ns0:source>
+        <ns0:target state="final">Sovg'a o'rash uchun soliqni o'rnating.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderPreferences/GiftOptionsType.php [Line: 125]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9175b705bec9604985209d1f2d88c785" approved="yes">
+        <ns0:source>Set to "0" to disable this feature.</ns0:source>
+        <ns0:target state="final">Ushbu xususiyatni o'chirish uchun "0" ga o'rnatiladi.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/StockType.php [Line: 93]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="96b2f955774aee5f11e61646b7d5ae43" approved="yes">
+        <ns0:source>Set to 0 to disable this feature.</ns0:source>
+        <ns0:target state="final">Ushbu xususiyatni o'chirish uchun 0 ga o'rnating.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderPreferences/GeneralType.php [Line: 105]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="49aaf34d99febc7c13881d121288cd8a" approved="yes">
+        <ns0:source>Shop registration information (e.g. SIRET or RCS).</ns0:source>
+        <ns0:target state="final">Do'konni ro'yxatga olish to'g'risidagi ma'lumot (masalan, Siret yoki RCS).</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStoresController.php [Line: 475]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9e9ad9fb2adc8da0aaec808b3d4e73e4" approved="yes">
+        <ns0:source>Some of PrestaShop's features might not work correctly with a specific configuration of Apache's mod_security module. We recommend to turn it off.</ns0:source>
+        <ns0:target state="final">Prestashopning ba'zi xususiyatlari Apache mod_secatecatsion modulining o'ziga xos konfiguratsiyasi bilan to'g'ri ishlamasligi mumkin. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/TrafficSeo/Meta/SetUpUrlType.php [Line: 151]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="75dfe702391b0e2cb38a1df614b40fb8" approved="yes">
+        <ns0:source>Some themes allow your customers to add a product to their cart directly from the product list. You may want to deactivate this feature if a product has combinations, requiring your customers to check product details and choose one of the options.</ns0:source>
+        <ns0:target state="final">Ba'zi mavzular mijozlaringizga mahsulotlar ro'yxatidan to'g'ridan-to'g'ri savatga mahsulot qo'shish imkonini beradi. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/PageType.php [Line: 66]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="00b963b1cb1aad2142ae67ce65329944" approved="yes">
+        <ns0:source>Status will be highlighted in this color. HTML colors only.</ns0:source>
+        <ns0:target state="final">Rasm ushbu rangda ajratiladi. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderStates/OrderStateType.php [Line: 161]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b950eb0054205bc67aa88899eadded22" approved="yes">
+        <ns0:source>Storefront picture.</ns0:source>
+        <ns0:target state="final">Do'kon rasmlari.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStoresController.php [Line: 288]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f8aacaf7661fefb62d929d691b6bcfbe" approved="yes">
+        <ns0:source>Suggest recycled packaging to customer.</ns0:source>
+        <ns0:target state="final">Xaridorga qayta ishlangan qadoqni taklif qiling.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderPreferences/GiftOptionsType.php [Line: 135]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e3e0c764f81f1a3677d59aa238fddd14" approved="yes">
+        <ns0:source>The group defined for your identified guest customers (used in guest checkout).</ns0:source>
+        <ns0:target state="final">Guruhingiz aniqlangan mehmon mijozlari uchun aniqlanadi (mehmonni tekshirishda ishlatiladi).</ns0:target>
+        <ns0:note>File: controllers/admin/AdminGroupsController.php [Line: 119]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e820b12959b64dfff397100db68cd951" approved="yes">
+        <ns0:source>The group defined for your identified registered customers.</ns0:source>
+        <ns0:target state="final">Guruhingiz belgilangan ro'yxatdan o'tgan mijozlar uchun belgilanadi.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminGroupsController.php [Line: 127]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0822f76515fa1d9ce38504176cb23bae" approved="yes">
+        <ns0:source>The group defined for your un-identified visitors.</ns0:source>
+        <ns0:target state="final">Guruh sizning noma'lum tashrif buyuruvchilaringiz uchun belgilangan.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminGroupsController.php [Line: 111]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3d1ffb24b2e1b1381ca7da9a9b5dd97a" approved="yes">
+        <ns0:source>The multistore feature allows you to manage several front offices from a single back office. If this feature is enabled, a Multistore page is available in the Advanced Parameters menu.</ns0:source>
+        <ns0:target state="final">Multistor xususiyat bir nechta oldingi ofislarni bitta orqa ofisdan boshqarishga imkon beradi. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/General/PreferencesType.php [Line: 203]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c18179baaeadd4a2fc27fafd3d6f40b1" approved="yes">
+        <ns0:source>The order in which products are displayed in the product list.</ns0:source>
+        <ns0:target state="final">Mahsulotlar ro'yxatida mahsulotlar ko'rsatilgan tartib.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/PaginationType.php [Line: 61]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1a9a8cbb0899db011b7fec6df3326aa7" approved="yes">
+        <ns0:source>The order status will be set to "On backorder" for new orders containing products that are out of stock.</ns0:source>
+        <ns0:target state="final">Buyurtma holatida aktsiya bo'lmagan mahsulotlarni o'z ichiga olgan yangi buyurtmalar uchun "Orqaga qaytarish" ga o'rnatiladi.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderPreferences/GeneralType.php [Line: 142]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5c85aec638229f60a035c7a6ab3623c8" approved="yes">
+        <ns0:source>This field does not refer to the shop name visible in the front office.</ns0:source>
+        <ns0:target state="final">Ushbu maydon old ofisda ko'rinadigan do'kon nomiga murojaat qilmaydi.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminShopController.php [Line: 439]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fce5f624e66bd2e2f0296fc3bd2a8f64" approved="yes">
+        <ns0:source>This is the root category of the store that you've created. To define a new root category for your store, [1]please click here[/1].</ns0:source>
+        <ns0:target state="final">Bu siz yaratgan do'konning ildiz toifasi. </ns0:target>
+        <ns0:note>File: controllers/admin/AdminShopController.php [Line: 518]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2b610a936a358875e6f5a01564a3a0e6" approved="yes">
+        <ns0:source>This parameter will only be used if the fuzzy search is activated: the lower the value, the more tolerant your search will be.</ns0:source>
+        <ns0:target state="final">Ushbu parametr faqat loyqa qidirish faollashtirilgan bo'lsa, shunchalik pastroq, toqqa chidamli, toqatingiz ko'proq bo'ladi.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 227]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="14bc1d17bbcf8fb45debf11fb7c5f80b" approved="yes">
+        <ns0:source>Title of this page.</ns0:source>
+        <ns0:target state="final">Ushbu sahifaning sarlavhasi.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/Configure/ShopParameters/TrafficSeo/Meta/Blocks/form.html.twig [Line: 49]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0210e7a00cf2cd3cca0e4d7ed3bdf86f" approved="yes">
+        <ns0:source>To add tags, click in the field, write something, and then press the "Enter" key.</ns0:source>
+        <ns0:target state="final">Teglarni qo'shish uchun maydonni bosing, biror narsani yozing, so'ngra "Kirish" tugmachasini bosing.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Sell/Supplier/SupplierType.php [Line: 120]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4253b29d6b167dac066027993398716e" approved="yes">
+        <ns0:source>To hide prices for a specific group, go to [1]Customer Settings &gt; Groups[/1].</ns0:source>
+        <ns0:target state="final">Muayyan guruh uchun narxlarni yashirish uchun Mijoz sozlamalari&gt; Guruhlar [/ 1] ga o'ting.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/GeneralType.php [Line: 85]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6a9bb0bb3f61904834f4f436bbcaa1d2" approved="yes">
+        <ns0:source>URL rewriting (mod_rewrite) is not active on your server, or it is not possible to check your server configuration. If you want to use Friendly URLs, you must activate this mod.</ns0:source>
+        <ns0:target state="final">URL-ni qayta yozish (mod_rewrit) sizning serveringizda faol emas yoki server konfiguratsiyasini tekshirish mumkin emas. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/TrafficSeo/Meta/SetUpUrlType.php [Line: 100]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a9c2e14555131d68a4ac37b604ee52a8" approved="yes">
+        <ns0:source>Upload an icon from your computer (File type: .gif, suggested size: 16x16).</ns0:source>
+        <ns0:target state="final">Iconni kompyuteringizdan yuklang (fayl turi: .gif, tavsiya etilgan hajmi: 16x16).</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/OrderStates/OrderStateType.php [Line: 156]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="122941b469f97a0c0750a62126fba6cd" approved="yes">
+        <ns0:source>We recommend that you deactivate your store while performing maintenance. Note that it will not disable the webservice.</ns0:source>
+        <ns0:target state="final">Xavfsiz ishlash paytida do'koningizni o'chirib qo'yganingizni tavsiya etamiz. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/General/MaintenanceType.php [Line: 81]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a8de200ee3200616262682ff488ce2f3" approved="yes">
+        <ns0:source>When enabled, admins will access the store front office without storing their IP.</ns0:source>
+        <ns0:target state="final">Agar yoqilgan bo'lsa, ma'murlar do'kon old ofisiga o'z IP-ni saqlashsiz kirish huquqiga ega bo'ladilar.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/General/MaintenanceType.php [Line: 94]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8f5320453e91fe37d7b5704c92f4f243" approved="yes">
+        <ns0:source>When enabled, friendly URL will be updated on every name change for offline products only.</ns0:source>
+        <ns0:target state="final">Agar yoqilgan bo'lsa, faqat oflayn mahsulotlar o'zgarishi bo'yicha har bir nomi o'zgarishi bo'yicha yangilanadi.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/GeneralType.php [Line: 138]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f45ed1483cf46972b5f225656c9c8991" approved="yes">
+        <ns0:source>Whether or not to display this store.</ns0:source>
+        <ns0:target state="final">Ushbu do'konni namoyish qilmaslik yoki bo'lmasligi kerak.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStoresController.php [Line: 279]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d2e38e24e467d35cc5881e083e05b823" approved="yes">
+        <ns0:source>With this option enabled, it also gives the good result if you search for “lous”, “ouse”, or anything contained in the word.</ns0:source>
+        <ns0:target state="final">Ushbu parametr bilan yoqilgan bo'lsa, shuningdek, "lous", "erni", "erni" qidirsangiz yoki so'zma-so'z mavjud bo'lgan narsani qidirsangiz yaxshi natija beradi.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 117]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0b1d71ac92f27198d2bd1e6cd49cec1b" approved="yes">
+        <ns0:source>With this option enabled, it only gives one result “book”, as exact end of the indexed word is matching.</ns0:source>
+        <ns0:target state="final">Ushbu parametr bilan yoqilgan, bu faqat bitta "kitob" ni keltirib chiqaradi, chunki indekslangan so'zning aniq tugashi bilan mos keladi.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminSearchConfController.php [Line: 145]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="71958504714b867b7f6f00f43b9c9bd0" approved="yes">
+        <ns0:source>You can choose among 6 different ways of rounding prices. "Round up away from zero ..." is the recommended behavior.</ns0:source>
+        <ns0:target state="final">Siz yaxlitlash narxlarining 6 xil usullarini tanlashingiz mumkin. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/General/PreferencesType.php [Line: 157]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2b116a3c74c816d853b7d86abf838ebb" approved="yes">
+        <ns0:source>You can choose when to round prices: either on each item, each line or the total (of an invoice, for example).</ns0:source>
+        <ns0:target state="final">Siz dumaloq narxlarda qachon: har bir elementda, har bir satrda yoki umumiy (masalan, hisob-fakturaning umumiy) tanlashingiz mumkin.</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/General/PreferencesType.php [Line: 170]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f53c8ac6acc0017629736d6d0ccd935c" approved="yes">
+        <ns0:source>You can specify the default behavior for all disabled products. The product page can display a "Discontinued" message or an error page. You can also specify which HTTP response is sent to users. This can be set specifically for each product.</ns0:source>
+        <ns0:target state="final">Siz barcha nogironlar uchun odatiy xatti-harakatni belgilashingiz mumkin. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/GeneralType.php [Line: 188]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="92aaf3cf7e8f1434886a8887e102391b" approved="yes">
+        <ns0:source>You can't edit the shop group because the current shop belongs to a group with the "share" option enabled.</ns0:source>
+        <ns0:target state="final">You can't edit the store group because the current store belongs to a group with the "share" option enabled.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminShopController.php [Line: 508]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="744c64016466dfc0166c805ee96446e4" approved="yes">
+        <ns0:source>[1]Make[/1] sure partner offers are not set as required in the [2]Customers[/2] section of the back office before disabling them. Otherwise, new customers won't be able to create an account and [1]proceed[/1] to checkout.</ns0:source>
+        <ns0:target state="final">[1] [/ 1] Ishonch takliflari ularni o'chirishdan oldin [/ 2] (/ 2) bo'limida [2] rusumdagi [/ 2] bo'limida talab qilinganidek o'rnatilmagan. </ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Resources/views/Admin/Configure/ShopParameters/Blocks/customer_preferences_general.html.twig [Line: 40]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2593c7ce3ff937293feb1e61c152e551" approved="yes">
+        <ns0:source>characters</ns0:source>
+        <ns0:target state="final">belgilar</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/ProductPreferences/GeneralType.php [Line: 113]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e734ed12d2c2026532f66e0ebeedfc8c" approved="yes">
+        <ns0:source>e.g. 10:00AM - 9:30PM</ns0:source>
+        <ns0:target state="final">E.G. </ns0:target>
+        <ns0:note>File: admin-dev/themes/default/template/controllers/stores/helpers/form/form.tpl [Line: 67]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

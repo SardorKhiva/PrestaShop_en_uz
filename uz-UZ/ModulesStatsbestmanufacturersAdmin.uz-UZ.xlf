@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Statsbestmanufacturers.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="db6a532890a0d1a32fd31b77ca71f3d4" approved="yes">
+        <ns0:source>Best brands</ns0:source>
+        <ns0:target state="final">Eng yaxshi brendlar</ns0:target>
+        <ns0:note>File: modules/statsbestmanufacturers/statsbestmanufacturers.php [Line: 79]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4209302f83157a9a457c510becbe84a1" approved="yes">
+        <ns0:source>Enrich your stats: add a list of the best-selling brands to your dashboard.</ns0:source>
+        <ns0:target state="final">Statistikangizni boyiting: Sizning boshqaruv panelingizga eng ko'p sotiladigan brendlarning ro'yxatini qo'shing.</ns0:target>
+        <ns0:note>File: modules/statsbestmanufacturers/statsbestmanufacturers.php [Line: 80]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ea067eb37801c5aab1a1c685eb97d601" approved="yes">
+        <ns0:source>Total paid</ns0:source>
+        <ns0:target state="final">Jami to'langan</ns0:target>
+        <ns0:note>File: modules/statsbestmanufacturers/statsbestmanufacturers.php [Line: 72]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

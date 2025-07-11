@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Emailsubscription.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="7e3a51a56ddd2846e21c33f05e0aea6f" approved="yes">
+        <ns0:source>All customers</ns0:source>
+        <ns0:target state="final">Barcha mijozlar</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1180]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="847b0223c73ac0fec0d9df6539c7cad6" approved="yes">
+        <ns0:source>All subscribers</ns0:source>
+        <ns0:target state="final">All Subscribers</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1161]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="396c88991101b5ca362932952293d291" approved="yes">
+        <ns0:source>Are you sure that you want to delete all of your contacts?</ns0:source>
+        <ns0:target state="final">Sizning barcha kontaktlaringizni yo'q qilmoqchi ekanligingizga ishonchingiz komilmi?</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 100]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e4369fb2bfc3fea17ea362d1eb9e53c4" approved="yes">
+        <ns0:source>Customers can subscribe to your newsletter when registering, or by entering their email in the newsletter form.</ns0:source>
+        <ns0:target state="final">Mijozlar ro'yxatga olishda yoki elektron pochtasini xabarnoma shaklida kiritish paytida sizning xabarnomangizga obuna bo'lishlari mumkin.</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1155]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5353d769bec6eb3977ef36a3d8021682" approved="yes">
+        <ns0:source>Customers' country</ns0:source>
+        <ns0:target state="final">Mijozlar mamlakati</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1140]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="48e3d5f66961b621c78f709afcd7d437" approved="yes">
+        <ns0:source>Download the file</ns0:source>
+        <ns0:target state="final">Faylni yuklab oling</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1317]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="375afa60efcc1d48300bd339cb8154b0" approved="yes">
+        <ns0:source>Email address to search</ns0:source>
+        <ns0:target state="final">Qidirish uchun elektron pochta manzili</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1232]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b40866b115d74009183e06fc86b5c014" approved="yes">
+        <ns0:source>Error: Write access limited</ns0:source>
+        <ns0:target state="final">Xato: kirish cheklangan</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1402]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e347582d22a4ba3c822de504b23d4704" approved="yes">
+        <ns0:source>Example: contact@prestashop.com or @prestashop.com</ns0:source>
+        <ns0:target state="final">Masalan: conerce@prestashop.com yoki @ pestashop.com</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1235]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f1c0e2889f04c8333beb7f4d7f87ad23" approved="yes">
+        <ns0:source>Export customers' addresses</ns0:source>
+        <ns0:target state="final">Mijozlarning manzillarini eksport qilish</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1134]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="521f7e76a7d4f9e50c50bb945559b942" approved="yes">
+        <ns0:source>Filter customers by country.</ns0:source>
+        <ns0:target state="final">Mijozlarning mamlakat bo'yicha filtrlash.</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1141]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3c450a9c3b3d890e8e7ab06ed3de2c27" approved="yes">
+        <ns0:source>Filter customers who have agreed to receive your partners' offers or not.</ns0:source>
+        <ns0:target state="final">O'z sheriklaringizning takliflarini qabul qilishga rozi bo'lgan yoki yo'qligini tasdiqlovchi hujjatlarni filtrlang.</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1173]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1b09c341aa487e26dac94d2467b7f7e3" approved="yes">
+        <ns0:source>Filter customers who have subscribed to the newsletter or not, and who have an account or not.</ns0:source>
+        <ns0:target state="final">Axborot byulleteniga yoki yo'q bo'lgan va hisob qaydnomasiga ega bo'lgan yoki yo'q bo'lgan mijozlar tomonidan filtrlash.</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1154]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="20d956f54e022848a3977b02d8498f78" approved="yes">
+        <ns0:source>Iso language</ns0:source>
+        <ns0:target state="final">ISO language</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 292]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="37ffc12cc52151379284a1ce98959855" approved="yes">
+        <ns0:source>Keep in touch with your customers the way you want, add a form to the homepage of your store and allow all the curious to subscribe to your newsletter.</ns0:source>
+        <ns0:target state="final">O'zingizning mijozlaringiz bilan o'zingiz xohlagan tarzda aloqada bo'ling, do'koningizning bosh sahifasiga shakl qo'shing va barcha qiziquvchan narsalarni sizning axborot byulleteningizga obuna bo'lishiga yo'l qo'ying.</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 99]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1d612b943b8f4792bff603384a46e5f1" approved="yes">
+        <ns0:source>Leave blank to disable by default.</ns0:source>
+        <ns0:target state="final">Odatiy tarzda o'chirish uchun bo'sh qoldiring.</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1091]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7328d85830cd590d040882106846e28d" approved="yes">
+        <ns0:source>Newsletter conditions</ns0:source>
+        <ns0:target state="final">Yangiliklar shartlari</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1081]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3a1205098d0a13a9c41a8d538fd6a34a" approved="yes">
+        <ns0:source>Newsletter registrations</ns0:source>
+        <ns0:target state="final">Yangiliklarni ro'yxatdan o'tkazish</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 308]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2198f293f5e1e95dddeff819fbca0975" approved="yes">
+        <ns0:source>Newsletter subscribers</ns0:source>
+        <ns0:target state="final">Abonentlar Abonentlar</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1153]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7bf7f18afabb5122fa68fbab617e509b" approved="yes">
+        <ns0:source>Newsletter subscription</ns0:source>
+        <ns0:target state="final">Axborot byulleteni obuna</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 98]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d2bea8f0552d424dcb7180b873eb7b3a" approved="yes">
+        <ns0:source>Newsletter subscription: no email to delete, this customer has not registered.</ns0:source>
+        <ns0:target state="final">Yangiliklar obunasi: o'chirish uchun elektron pochta xabarlari yo'q, bu mijoz ro'yxatdan o'tmagan.</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1461]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6915ab8f41e7f6f7805fd3f94117804a" approved="yes">
+        <ns0:source>Newsletter subscription: no email to export, this customer has not registered.</ns0:source>
+        <ns0:target state="final">Axborot byulleteniga obuna: Eksport uchun elektron pochta xabarlari yo'q, bu mijoz ro'yxatdan o'tmagan.</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1473]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="82e5e0bc0f9c776c98253d569c111c0f" approved="yes">
+        <ns0:source>No customers found with these filters!</ns0:source>
+        <ns0:target state="final">Ushbu filtrlar bilan hech bir mijoz topilmadi!</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1303]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="87b0ca57db642f4e7780174a6abdc37d" approved="yes">
+        <ns0:source>No result found!</ns0:source>
+        <ns0:target state="final">Natija topilmadi!</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1329]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="011d8c5d94f729f013963d856cd78745" approved="yes">
+        <ns0:source>Non-subscribers</ns0:source>
+        <ns0:target state="final">Gavda</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1164]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2760982525dd5028d13b0d4f6abcfa59" approved="yes">
+        <ns0:source>Partner offers non-subscribers</ns0:source>
+        <ns0:target state="final">Partner offers not accepted</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1182]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3c094542e33d2d21a27a0f0f1be1acaf" approved="yes">
+        <ns0:source>Partner offers subscribers</ns0:source>
+        <ns0:target state="final">Partner offers accepted</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1181]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="511e5032ffddf444de90c630fac63567" approved="yes">
+        <ns0:source>Partner offers subscribers have agreed to receive your partners' offers.</ns0:source>
+        <ns0:target state="final">Opt-in subscribers who have agreed to receive your partners' offers.</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1174]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f6df4ad6dc4798f26d1f2460eef4f2e9" approved="yes">
+        <ns0:source>Search for addresses</ns0:source>
+        <ns0:target state="final">Manzillarni qidirish</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1226]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="808c7457c768423c5651cbf676d9f6d7" approved="yes">
+        <ns0:source>Subscribed</ns0:source>
+        <ns0:target state="final">Obuna qilingan</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 286]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ec59738d441f28011a81e62bdcea6200" approved="yes">
+        <ns0:source>Subscribed on</ns0:source>
+        <ns0:target state="final">Obuna</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 296]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a307579714b75082f3f8734971b125cd" approved="yes">
+        <ns0:source>Subscribers with account</ns0:source>
+        <ns0:target state="final">Hisob qaydnomasi bo'lgan abonentlar</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1162]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d0da5609e4aebc5d532de97511a5a34a" approved="yes">
+        <ns0:source>Subscribers without account</ns0:source>
+        <ns0:target state="final">Hisobsiz abonentlar</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1163]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="644ecc2486a059ca16b001a77909bf40" approved="yes">
+        <ns0:source>The .CSV file has been successfully exported: %d customers found.</ns0:source>
+        <ns0:target state="final">.CSV fayli muvaffaqiyatli eksport qilindi:% D mijozlari topildi.</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1315]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="23467d023d8767effca98a537a6a0622" approved="yes">
+        <ns0:source>This text will be displayed beneath the newsletter subscribe button.</ns0:source>
+        <ns0:target state="final">Ushbu matn yangiliknomasi ostida aks etadi Subscr.</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1087]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4182c8f19d40c7ca236a5f4f83faeb6b" approved="yes">
+        <ns0:source>Unsubscribe</ns0:source>
+        <ns0:target state="final">Obunani bekor qiling</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 360]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="dca37b874cf34bd5ebcf1c2fdc59a8b4" approved="yes">
+        <ns0:source>WARNING: When opening this .csv file with Excel, choose UTF-8 encoding to avoid strange characters.</ns0:source>
+        <ns0:target state="final">Ogohlantirish: Ushbu eng katta belgilardan qochish uchun UTF-8 kodlashini tanlang.</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1322]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="506e58042922bff5bd753dc612e84f5b" approved="yes">
+        <ns0:source>Welcome voucher code</ns0:source>
+        <ns0:target state="final">Xush kelibsiz vaucher kodi</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1074]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b37f32d509cf5aabe806b16791588aa3" approved="yes">
+        <ns0:source>Would you like to send a confirmation email after subscription?</ns0:source>
+        <ns0:target state="final">Obunadan keyin tasdiqlash elektron pochtasini yuborishni xohlaysizmi?</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1057]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="54d2f1bab16b550e32395a7e6edb8de5" approved="yes">
+        <ns0:source>Would you like to send a verification email after subscription?</ns0:source>
+        <ns0:target state="final">Obunadan so'ng tasdiqlash elektron pochtasini yuborishni xohlaysizmi?</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 1040]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

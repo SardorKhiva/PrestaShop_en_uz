@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Statscarrier.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="2e6774abc54cb13cef2c5bfd5a2cb463" approved="yes">
+        <ns0:source>Carrier distribution</ns0:source>
+        <ns0:target state="final">Tashuvchi tarqatish</ns0:target>
+        <ns0:note>File: modules/statscarrier/statscarrier.php [Line: 46]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d2297e4ef285a4dd7c1a60873bfcea38" approved="yes">
+        <ns0:source>Enrich your stats, add a pie chart illustrating your carriers’ distribution.</ns0:source>
+        <ns0:target state="final">Statistikangizni boyiting, tashuvchilarning taqsimotini namoyish etadigan pirog jadvalini qo'shing.</ns0:target>
+        <ns0:note>File: modules/statscarrier/statscarrier.php [Line: 47]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ae916988f1944283efa2968808a71287" approved="yes">
+        <ns0:source>No valid orders have been received for this period.</ns0:source>
+        <ns0:target state="final">Ushbu davrda tegishli buyurtmalar olinmadi.</ns0:target>
+        <ns0:note>File: modules/statscarrier/statscarrier.php [Line: 103]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d5b9d0daaf017332f1f8188ab2a3f802" approved="yes">
+        <ns0:source>Percentage of orders listed by carrier.</ns0:source>
+        <ns0:target state="final">Tashuvchi tomonidan sanab o'tilgan buyruqlarning foizi.</ns0:target>
+        <ns0:note>File: modules/statscarrier/statscarrier.php [Line: 126]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ff61af405aa570a9000e6ba2da39857a" approved="yes">
+        <ns0:source>This graph represents the carrier distribution for your orders. You can also narrow the focus of the graph to display distribution for a particular order status.</ns0:source>
+        <ns0:target state="final">Ushbu grafika sizning buyurtmangizni buyurtmalarni tarqatishni anglatadi. </ns0:target>
+        <ns0:note>File: modules/statscarrier/statscarrier.php [Line: 90]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

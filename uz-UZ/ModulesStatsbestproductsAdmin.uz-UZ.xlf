@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Statsbestproducts.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="8c4d7af5f578693f9a6cf391e912ee33" approved="yes">
+        <ns0:source>An empty record-set was returned.</ns0:source>
+        <ns0:target state="final">Bo'sh yozuvlar to'plami qaytarildi.</ns0:target>
+        <ns0:note>File: modules/statsbestproducts/statsbestproducts.php [Line: 53]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="950cf49f8ca529be64c924f16fcb5404" approved="yes">
+        <ns0:source>Best-selling products</ns0:source>
+        <ns0:target state="final">Eng ko'p sotiladigan mahsulotlar</ns0:target>
+        <ns0:note>File: modules/statsbestproducts/statsbestproducts.php [Line: 113]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="27c423a9423760b083519223b600f24a" approved="yes">
+        <ns0:source>Enrich your stats with a small list of your best-sellers to better know your customers.</ns0:source>
+        <ns0:target state="final">O'z mijozlaringizni yaxshiroq bilish uchun o'z statistikangizni eng yaxshi sotuvchilaringiz kichik ro'yxati bilan boyiting.</ns0:target>
+        <ns0:note>File: modules/statsbestproducts/statsbestproducts.php [Line: 114]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7664a37e0cc56aaf39aebf2edbd3f98e" approved="yes">
+        <ns0:source>Page views</ns0:source>
+        <ns0:target state="final">Sahifalarni ko'rish</ns0:target>
+        <ns0:note>File: modules/statsbestproducts/statsbestproducts.php [Line: 95]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6771f2d557a34bd89ea7abc92a0a069c" approved="yes">
+        <ns0:source>Price sold</ns0:source>
+        <ns0:target state="final">Sotilgan narx</ns0:target>
+        <ns0:note>File: modules/statsbestproducts/statsbestproducts.php [Line: 77]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="25f4b31e8f3baec8b2f266e05af88943" approved="yes">
+        <ns0:source>Quantity sold in a day</ns0:source>
+        <ns0:target state="final">Bir kunda sotiladigan miqdor</ns0:target>
+        <ns0:note>File: modules/statsbestproducts/statsbestproducts.php [Line: 89]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>
