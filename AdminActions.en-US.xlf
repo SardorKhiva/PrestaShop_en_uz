@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file original="Admin.Actions.xlf" source-language="en" target-language="en" datatype="plaintext">
+  <file original="Admin.Actions.xlf" source-language="en" target-language="uz" datatype="plaintext">
     <body>
       <trans-unit id="5cf5bf2c9fc4975745fbad4e88fdf2c0" approved="yes">
         <source>%error_count% errors occurred. You can download the logs for future reference.</source>
