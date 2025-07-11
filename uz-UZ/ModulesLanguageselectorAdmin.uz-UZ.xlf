@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Languageselector.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="758d266d26e272d172c4684835dfc92e" approved="yes">
+        <ns0:source>Go international and display a language selector in the header of your store so that customers can shop in their own language.</ns0:source>
+        <ns0:target state="final">Xalqaro tashrif buyuring va do'koningiz sarlavhasi sarlavhasi ostidagi tilning sarlavhasi bilan namoyish etiladi, shunda mijozlar o'z tillarida xarid qilishlari mumkin.</ns0:target>
+        <ns0:note>File: modules/ps_languageselector/ps_languageselector.php [Line: 52]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d33f69bfa67e20063a8905c923d9cf59" approved="yes">
+        <ns0:source>Language selector block</ns0:source>
+        <ns0:target state="final">Tilni o'zgartirish bloki</ns0:target>
+        <ns0:note>File: modules/ps_languageselector/ps_languageselector.php [Line: 51]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

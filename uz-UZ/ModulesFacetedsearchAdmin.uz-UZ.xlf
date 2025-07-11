@@ -1,0 +1,602 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Facetedsearch.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="b3786b970611c1a3809dd51b630812a7" approved="yes">
+        <ns0:source>"%s" is not a valid url</ns0:source>
+        <ns0:target state="final">"% s" yaroqsiz URL emas</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 1382]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5d27fef01a54790de11db21f1ed47892" approved="yes">
+        <ns0:source>%s at least, or you will have to edit the translation files manually.</ns0:source>
+        <ns0:target state="final">% s kamida yoki siz tarjima fayllarini qo'lda tahrirlashingiz kerak bo'ladi.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_partials/messages.tpl [Line: 41]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bab956f96196bebabbfb693f920b1bc1" approved="yes">
+        <ns0:source>(experimental)</ns0:source>
+        <ns0:target state="final">(eksperimental)</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 1751]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="56fc8142961f1f3e9f9ec0c178881b69" approved="yes">
+        <ns0:source>(in progress)</ns0:source>
+        <ns0:target state="final">(jarayonda)</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 315]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7cf7d150dd287df0a8e17eeb4cf2161d" approved="yes">
+        <ns0:source>(in progress, %s products price to index)</ns0:source>
+        <ns0:target state="final">(Prognozda,% S Mahsulotlar indeks narxi)</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 322]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="16349835364cf839e6670b0de7da6362" approved="yes">
+        <ns0:source>A nightly rebuild is recommended.</ns0:source>
+        <ns0:target state="final">Kechqurun qayta qurish tavsiya etiladi.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 47]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="06df33001c1d7187fdd81ea1f5b277aa" approved="yes">
+        <ns0:source>Actions</ns0:source>
+        <ns0:target state="final">Harakatlar</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 63]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="964f08f089bd198a3b5433045510556b" approved="yes">
+        <ns0:source>Add missing products to price index:</ns0:source>
+        <ns0:target state="final">Narx indeksiga yo'qolgan mahsulotlarni qo'shing:</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 38]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ae2b83a081959fff7ab2e96f4ce972d1" approved="yes">
+        <ns0:source>Add new template</ns0:source>
+        <ns0:target state="final">Yangi shablon qo'shing</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 107]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="788a474b0e55d612b3d500743c6251a0" approved="yes">
+        <ns0:source>Attribute group: %name% (%count% attribute)</ns0:source>
+        <ns0:target state="final">Atributlar guruhi:% nomi% (% hisoblangan% atribut)</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/view.tpl [Line: 119]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="db6b86d05039c4f657a28647f8eb5140" approved="yes">
+        <ns0:source>Attribute group: %name% (%count% attributes)</ns0:source>
+        <ns0:target state="final">Atributi guruhi:% ning %% (% O'lchov% Axborot)</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/view.tpl [Line: 110]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="414301b329318b3e916c5b91b0ca9126" approved="yes">
+        <ns0:source>Attribute indexing failed</ns0:source>
+        <ns0:target state="final">Attribut indeksi bajarilmadi</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 319]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="49afa0d9ad5c1f8bf5413b9dc8a252c9" approved="yes">
+        <ns0:source>Attribute indexing finished</ns0:source>
+        <ns0:target state="final">Atribut indeksi tugadi</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 317]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bd7929bc6bed5d8ec99db715a980ba04" approved="yes">
+        <ns0:source>Best sales</ns0:source>
+        <ns0:target state="final">Eng yaxshi savdo</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 1743]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fc11f4442332d8b86f01335df9d28444" approved="yes">
+        <ns0:source>Build attributes and features indexes</ns0:source>
+        <ns0:target state="final">Atributlar va xususiyatlar indekslarini tuzing</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 30]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="78587049e12fb4f6b12e2bb045f2880a" approved="yes">
+        <ns0:source>Categories selection is disabled because you have no categories or you are in a "all shops" context.</ns0:source>
+        <ns0:target state="final">Kategoriyalar tanlov o'chirilgan, chunki sizda toifalar mavjud emas yoki "barcha do'konlar" kontekstida.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_partials/categories-tree.tpl [Line: 26]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5d9632c49fb1586eed7123afe2bd806f" approved="yes">
+        <ns0:source>Categories used for this template:</ns0:source>
+        <ns0:target state="final">Ushbu shablon uchun ishlatiladigan toifalar:</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_partials/categories-tree.tpl [Line: 20]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3adbdb3ac060038aa0e6e6c138ef9873" approved="yes">
+        <ns0:source>Category</ns0:source>
+        <ns0:target state="final">Tili</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 1727]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="dc668816c4d715e1021b44a4823924a4" approved="yes">
+        <ns0:source>Category filter depth</ns0:source>
+        <ns0:target state="final">Kategoriya filtrining chuqurligi</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 203]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4f8222964f9a317cef99dddc23a121bd" approved="yes">
+        <ns0:source>Checkbox</ns0:source>
+        <ns0:target state="final">Katakcha</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/view.tpl [Line: 199]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c2d0bf5ad42279c519cdcb4a94eb46b6" approved="yes">
+        <ns0:source>Choose shop association:</ns0:source>
+        <ns0:target state="final">Do'konlar uyushmasini tanlang:</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_partials/shops.tpl [Line: 21]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="79c0d6cba080dc90b01c887064c9fc2f" approved="yes">
+        <ns0:source>Clear cache</ns0:source>
+        <ns0:target state="final">Keshni tozalash</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 31]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f7f19392da30e81c3abf433ce7b8ca38" approved="yes">
+        <ns0:source>Created on</ns0:source>
+        <ns0:target state="final">Yaratilgan</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 62]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b4f8e8e66907c50c52c0ad3bd31e29b0" approved="yes">
+        <ns0:source>Default filter template for new categories</ns0:source>
+        <ns0:target state="final">Yangi toifalar uchun standart filtr shabloni</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 288]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="eb0728df77683ac0f7210ed0d4a18d62" approved="yes">
+        <ns0:source>Do you really want to delete this filter template?</ns0:source>
+        <ns0:target state="final">Siz haqiqatan ham ushbu filtr shablonini yo'q qilmoqchimisiz?</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 87]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5204077231fc7164e2269e96b584dd95" approved="yes">
+        <ns0:source>Drop-down list</ns0:source>
+        <ns0:target state="final">Ochishlar ro'yxati</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/view.tpl [Line: 201]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6a84ae1d689983a9cc5fb6676eb46279" approved="yes">
+        <ns0:source>Effective only if category pages are selected above.</ns0:source>
+        <ns0:target state="final">A customer account has already been created from this guest account. Please sign in.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_partials/categories-tree.tpl [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2b2aaeeb1d226ef5566bfb781c66ffbd" approved="yes">
+        <ns0:source>Enable cache system</ns0:source>
+        <ns0:target state="final">Kesh tizimini yoqing</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 115]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2829d57ed813ec86c807b7dde4fe140c" approved="yes">
+        <ns0:source>Enable or disable display of matching products after filters. Disabling this won't bring any performance benefit, because matching products need to be calculated anyway.</ns0:source>
+        <ns0:target state="final">Filtrdan keyin mos keladigan mahsulotlarni yoqish yoki o'chirish. </ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 153]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="86c8e8e4e43a8e6d27907e9cde0b3a71" approved="yes">
+        <ns0:source>Enable this, if you want to display products from subcategories, even if they are not specifically assigned to the currently browsed category.</ns0:source>
+        <ns0:target state="final">Bunga, agar siz mahsulotlarni quyi kategoriya uchun maxsus berilmagan bo'lsa ham, mahsulotni namoyish qilishni xohlasangiz ham yoqing.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 175]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d67b7992a94709663ce72ce9c1606597" approved="yes">
+        <ns0:source>Faceted search</ns0:source>
+        <ns0:target state="final">Facted qidiruv</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 107]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cadad7b648bb2b1d3f22421b00a14fd2" approved="yes">
+        <ns0:source>Feature: %name% (%count% value)</ns0:source>
+        <ns0:target state="final">Xususiyat:% nomi% (% Hisob% qiymat)</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/view.tpl [Line: 178]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4127fb33c1db9597f3c881ae057f1370" approved="yes">
+        <ns0:source>Feature: %name% (%count% values)</ns0:source>
+        <ns0:target state="final">Xususiyat:% nomi% (% Hisob% qiymat)</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/view.tpl [Line: 169]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="379d3973e10dfd90c475060f31b9ae74" approved="yes">
+        <ns0:source>Filter result limit:</ns0:source>
+        <ns0:target state="final">Filtr natijalari chekchasi:</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/view.tpl [Line: 190]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="284fd1ee8a33e84e08699ba0bbc44943" approved="yes">
+        <ns0:source>Filter style:</ns0:source>
+        <ns0:target state="final">Filtr uslubi:</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/view.tpl [Line: 196]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0d07af70081a2421e2b2972609d699db" approved="yes">
+        <ns0:source>Filter template deleted, categories updated (reverted to default Filter template).</ns0:source>
+        <ns0:target state="final">Filtr Tablaka o'chirildi, toifalar yangilangan (Standart filtr shabloniga qaytarildi).</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 734]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ccc12c5568381293a27db0232877937b" approved="yes">
+        <ns0:source>Filter template name required (cannot be empty)</ns0:source>
+        <ns0:target state="final">Filtr shablon nomi talab qilinadi (bo'sh bo'lishi mumkin emas)</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 606]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="491f46aa6101560e9f1e0d55a063231b" approved="yes">
+        <ns0:source>Filter template not found</ns0:source>
+        <ns0:target state="final">Filtr shablon topilmadi</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 766]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2b998534020532daa37c8948b41f3116" approved="yes">
+        <ns0:source>Filter your catalog to help visitors picture the category tree and browse your store easily.</ns0:source>
+        <ns0:target state="final">Katalogingizni filtrlash uchun Turkalaringni filtrlash uchun tashrif buyuruvchilar toifadagi daraxt daraxtining daraxtini tasvirlab oling va do'koningizni osonlikcha ko'rib chiqing.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 108]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="dc83eb2d8601743d8111c5150b93fc71" approved="yes">
+        <ns0:source>Filters templates</ns0:source>
+        <ns0:target state="final">Filtrlar shablonlari</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 52]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="60266302eeda2ac9775c3a2036ae25ca" approved="yes">
+        <ns0:source>Filters:</ns0:source>
+        <ns0:target state="final">Filtrlar:</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/view.tpl [Line: 36]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2707341ee97a7c74914e0d59adbcf5ab" approved="yes">
+        <ns0:source>Flush block cache:</ns0:source>
+        <ns0:target state="final">Blok keshlari:</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 44]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9e80bb018eeeced7e38da900e5f47135" approved="yes">
+        <ns0:source>If you want to automatically assign a filter template to new categories, select it here.</ns0:source>
+        <ns0:target state="final">Agar siz avtomatik ravishda filtr shablonini yangi toifalar uchun tayinlashni istasangiz, uni shu erda tanlang.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 298]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5e2420d2318025812dc3e231ddb66b0b" approved="yes">
+        <ns0:source>Index all missing prices</ns0:source>
+        <ns0:target state="final">Barcha bedarak narxlar indeksi</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 28]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0bcff42b5aed2b0e4501ed178e4f2510" approved="yes">
+        <ns0:source>Indexable</ns0:source>
+        <ns0:target state="final">Indekslanadigan</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/hook/feature_form.tpl [Line: 78]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="df2bbc994d10995dcffdf96dbb7acbb1" approved="yes">
+        <ns0:source>Indexes and caches</ns0:source>
+        <ns0:target state="final">Indekslar va keshlar</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 22]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ad3e7eb269d8ba0ac388267627f45b5a" approved="yes">
+        <ns0:source>Indexing is in progress. Please do not leave this page</ns0:source>
+        <ns0:target state="final">Indekslash ishlari olib borilmoqda. </ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="28034a200e932f22b324a4dda1bb9f64" approved="yes">
+        <ns0:source>Invalid characters: &lt;&gt;;=#{}_</ns0:source>
+        <ns0:target state="final">Noto'g'ri belgilar: &lt;&gt;; # {{{{_</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/hook/feature_value_form.tpl [Line: 21]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ce9bd6e7a7bfa2fa2d9e43bc4fcfeb8a" approved="yes">
+        <ns0:source>List of ranges</ns0:source>
+        <ns0:target state="final">Rasmlar ro'yxati</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/view.tpl [Line: 72]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8524de963f07201e5c086830d370797f" approved="yes">
+        <ns0:source>Loading...</ns0:source>
+        <ns0:target state="final">Yuklash ...</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 323]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c0bd7654d5b278e65f21cf4e9153fdb4" approved="yes">
+        <ns0:source>Manufacturer</ns0:source>
+        <ns0:target state="final">Ishlab chiqaruvchi</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 1731]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9e11e4b371570340ca07913bc4783a7a" approved="yes">
+        <ns0:source>Meta title</ns0:source>
+        <ns0:target state="final">Meta sarlavhasi</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/src/Form/FeatureValue/FormModifier.php [Line: 95]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="32d2e6cd4bb1719c572ef470a3a525b6" approved="yes">
+        <ns0:source>My template %s</ns0:source>
+        <ns0:target state="final">Mening shablonim% s</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 1233]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a3868119dc6858db57127fd26e6f9656" approved="yes">
+        <ns0:source>My template - %s</ns0:source>
+        <ns0:target state="final">Shablonim -% s</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 857]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="51e17eed0057675de4bde1b34206bb12" approved="yes">
+        <ns0:source>New filters template</ns0:source>
+        <ns0:target state="final">Yangi filtrlar shablon</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/view.tpl [Line: 23]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9ff0635f5737513b1a6f559ac2bff745" approved="yes">
+        <ns0:source>New products</ns0:source>
+        <ns0:target state="final">Yangi mahsulotlar</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 1739]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="058eeeba77f547f8a9a295a0efd4f6cd" approved="yes">
+        <ns0:source>No filter template found.</ns0:source>
+        <ns0:target state="final">Filtr shablon topilmadi.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 103]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="af605ea55ee39e54c444f217e346048f" approved="yes">
+        <ns0:source>No limit</ns0:source>
+        <ns0:target state="final">Chegara yo'q</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_functions/show_limit.tpl [Line: 23]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4284fda63513b7da70b5d8f032900580" approved="yes">
+        <ns0:source>Only as a reminder</ns0:source>
+        <ns0:target state="final">Faqat eslatma sifatida</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_partials/header.tpl [Line: 23]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bd8da101b4d007b536f36eadc7f686e7" approved="yes">
+        <ns0:source>Pages using this template:</ns0:source>
+        <ns0:target state="final">Ushbu shablondan foydalangan sahifalar:</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_partials/controllers.tpl [Line: 20]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="308c1cf98be9973142833c9a9dbbc2ef" approved="yes">
+        <ns0:source>Please ask your hosting provider to increase the Suhosin limit to</ns0:source>
+        <ns0:target state="final">Iltimos, hosting provayderingizdan Suxtin cheklovini oshirishni so'rang</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_partials/messages.tpl [Line: 35]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6e709babf4b5a0ed4194ad5240e1be2c" approved="yes">
+        <ns0:source>Please ask your hosting provider to increase this limit to</ns0:source>
+        <ns0:target state="final">Iltimos, hosting provayderingizdan ushbu cheklovni oshiring</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_partials/messages.tpl [Line: 39]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b55143bb1f46af4207ea4b5eb8e844ed" approved="yes">
+        <ns0:source>Price indexing failed</ns0:source>
+        <ns0:target state="final">Narxlarni indekslash amalga oshmadi</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 321]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fa059e7a64ab37fe21b01a220b6c073f" approved="yes">
+        <ns0:source>Price indexing finished</ns0:source>
+        <ns0:target state="final">Narxlarni indekslash tugadi</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 320]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6de5d0b17afc50642850ff9486934f87" approved="yes">
+        <ns0:source>Prices drop</ns0:source>
+        <ns0:target state="final">Narxlar tushiriladi</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 1747]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e581c019fe5c1b2aa8dfa18d93f88d13" approved="yes">
+        <ns0:source>Product brand filter</ns0:source>
+        <ns0:target state="final">Mahsulotlar brend filtri</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/add.tpl [Line: 187]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="048c1728a0a6cf36f56c9dcdd23d8a14" approved="yes">
+        <ns0:source>Product condition filter</ns0:source>
+        <ns0:target state="final">Mahsulot holati filtri</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/add.tpl [Line: 156]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4e0e25a7f0ffc6adce58b7fd3412cd35" approved="yes">
+        <ns0:source>Product extras filter</ns0:source>
+        <ns0:target state="final">Mahsulotlarni filtrlash</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/add.tpl [Line: 127]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0649bb392812f99ff6b0e2ba160675fa" approved="yes">
+        <ns0:source>Product price filter (slider)</ns0:source>
+        <ns0:target state="final">Mahsulot narxi filtri (slayder)</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/add.tpl [Line: 242]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cd50ff1c5332f9920acf8173c4aab425" approved="yes">
+        <ns0:source>Product stock filter</ns0:source>
+        <ns0:target state="final">Mahsulotni filtrlash</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/add.tpl [Line: 95]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cc72ed9534a489b5d2e5882735bf1364" approved="yes">
+        <ns0:source>Product weight filter (slider)</ns0:source>
+        <ns0:target state="final">Mahsulotning og'irligi filtri (slayder)</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/add.tpl [Line: 218]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="07a9ca8c8228dd3399141e228034fedf" approved="yes">
+        <ns0:source>Radio button</ns0:source>
+        <ns0:target state="final">Radio tugmasi</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/view.tpl [Line: 200]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="203b4e9a5b29bb6ed5aeb6d0692941ce" approved="yes">
+        <ns0:source>Rebuild attribute index:</ns0:source>
+        <ns0:target state="final">Attributsiya indeksi:</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 42]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9612e005e96ad32b8830be4d0377e7e6" approved="yes">
+        <ns0:source>Rebuild entire price index</ns0:source>
+        <ns0:target state="final">Butun narx indeksini qayta qurish</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d5da9a4cccaf88f37b2e097a9d34a836" approved="yes">
+        <ns0:source>Rebuild price index:</ns0:source>
+        <ns0:target state="final">Narxlar indeksi:</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 40]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="13348442cc6a27032d2b4aa28b75a5d3" approved="yes">
+        <ns0:source>Search</ns0:source>
+        <ns0:target state="final">Qidirish</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 1751]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fe016d3b990c2a9dd72ab6b45892f2ae" approved="yes">
+        <ns0:source>Settings saved successfully</ns0:source>
+        <ns0:target state="final">Sozlamalar muvaffaqiyatli saqlandi</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 719]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ee61c015043c79c1370fc14980dd27b9" approved="yes">
+        <ns0:source>Show products from subcategories</ns0:source>
+        <ns0:target state="final">Mahsulotlarni quyma doiralardan ko'rsating</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 159]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="dea2248d77db1c9f755f80ca9f874be8" approved="yes">
+        <ns0:source>Show products only from default category</ns0:source>
+        <ns0:target state="final">Faqat standart toifada mahsulotlarni namoyish eting</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 181]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8531c73de81b9ed94322dda7cf947daa" approved="yes">
+        <ns0:source>Show the number of matching products</ns0:source>
+        <ns0:target state="final">Mos keladigan mahsulotlar sonini ko'rsating</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 137]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="459ae4ae4d73f1ed176e5fc8aa3af312" approved="yes">
+        <ns0:source>Show unavailable, out of stock last</ns0:source>
+        <ns0:target state="final">Noto'g'ri, aktsiyalardan tashqarida</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 249]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cfbc982f8fb7a0cc3abb3c85c795ab41" approved="yes">
+        <ns0:source>Sub-categories filter</ns0:source>
+        <ns0:target state="final">Quyi toifalar filtri</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/add.tpl [Line: 63]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ec136b444eede3bc85639fac0dd06229" approved="yes">
+        <ns0:source>Supplier</ns0:source>
+        <ns0:target state="final">Etkazib beruvchi</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 1735]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1adb03626a4e0c1aaa27bf37f0f1096b" approved="yes">
+        <ns0:source>Switch this off only if your theme does not use Jquery UI slider. It is recommended to keep it on when using classic theme.</ns0:source>
+        <ns0:target state="final">Switch this off only if your theme does not use jQuery UI slider. It is recommended to keep it on when using classic theme.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 282]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f8263d99054a4cdb3428196f078fa212" approved="yes">
+        <ns0:source>Template name:</ns0:source>
+        <ns0:target state="final">Andoza nomi:</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_partials/header.tpl [Line: 20]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ee59f74265cd7f85d0ad30206a1a89b0" approved="yes">
+        <ns0:source>This group will allow user to select a color</ns0:source>
+        <ns0:target state="final">Ushbu guruh foydalanuvchiga rangni tanlash imkoniyatini beradi</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/view.tpl [Line: 129]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5466dc891d678f772cc36162753e92fa" approved="yes">
+        <ns0:source>This option caches filtering blocks, so the module does not have to query for matching products all the time. The cache is invalidated on every modification on your store. If you encounter some incosistencies, disable this cache or make sure to flush it if needed.</ns0:source>
+        <ns0:target state="final">Ushbu parametr keshlar filtrlash bloklari, shuning uchun modul har doim mos mahsulotlar uchun so'rovga ega emas. </ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 131]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="917b770ceaad28f806736a648ff6e0d6" approved="yes">
+        <ns0:source>This option controls the behavior of category filter block - how deep children of the currently browsed category you want to display? The default value is 1 - only the direct children. Use 0 for unlimited depth.</ns0:source>
+        <ns0:target state="final">Ushbu parametr kategoriya filtrining xatti-harakatlarini boshqaradi - Siz ko'rib chiqishni xohlaysizmi? </ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 209]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="29da3cb8b65298a3e88f5041e9fb9761" approved="yes">
+        <ns0:source>Total filters: %s</ns0:source>
+        <ns0:target state="final">Umumiy filtrlar:% s</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/view.tpl [Line: 42]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e6b391a8d2c4d45902a23a8b6585703d" approved="yes">
+        <ns0:source>URL</ns0:source>
+        <ns0:target state="final">URL</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/hook/feature_value_form.tpl [Line: 21]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9ea5bab5df9a3f3abaa64951daf07e9b" approved="yes">
+        <ns0:source>URL indexing failed</ns0:source>
+        <ns0:target state="final">URL indeksining bajarilmadi</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 318]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8c83a87ac8ee57d9bcd79d1aa9243bc0" approved="yes">
+        <ns0:source>URL indexing finished</ns0:source>
+        <ns0:target state="final">URL indeksini tugatgan</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 316]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2e465237d27547eb60889256909234e7" approved="yes">
+        <ns0:source>Use Jquery UI slider</ns0:source>
+        <ns0:target state="final">JQuerer UI slayderidan foydalaning</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 266]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="30b1f6f4369e3d0f7a0d50b5cb96aabd" approved="yes">
+        <ns0:source>Use rounding to filter price</ns0:source>
+        <ns0:target state="final">Filtr narxiga yaxlitlashdan foydalaning</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 232]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3e652bd299bb3ee3d458c0dcc7fd706e" approved="yes">
+        <ns0:source>Use tax to filter price</ns0:source>
+        <ns0:target state="final">Filtr narxiga soliqdan foydalaning</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 215]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4e495bf87859dbd3914919cccea139e2" approved="yes">
+        <ns0:source>Use this attribute in URL generated by the Faceted Search module.</ns0:source>
+        <ns0:target state="final">Facted qidiruv moduli tomonidan yaratilgan URL manzilidan foydalaning.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/hook/feature_form.tpl [Line: 93]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5ad040870ae5ccaeb2d57e4d052163a4" approved="yes">
+        <ns0:source>Warning! Your PHP configuration limits the maximum number of fields allowed in a form:</ns0:source>
+        <ns0:target state="final">Ogohlantirish! </ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_partials/messages.tpl [Line: 37]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1f0f8b59397f34d499b181297714713a" approved="yes">
+        <ns0:source>Warning! Your hosting provider is using the Suhosin patch for PHP, which limits the maximum number of fields allowed in a form:</ns0:source>
+        <ns0:target state="final">Ogohlantirish! </ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_partials/messages.tpl [Line: 31]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7ee2f2da463bebd7507e3e0a39de6e99" approved="yes">
+        <ns0:source>We recommend to set regular cron tasks to manage the indexes and cache on daily/weekly basis.</ns0:source>
+        <ns0:target state="final">Kuniga / haftalik indeks va keshni boshqarish uchun oddiy kron vazifalarni o'rnatishni tavsiya etamiz.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 36]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e919c0dcca631198a18993158182c96b" approved="yes">
+        <ns0:source>When the Faceted Search module is enabled, you can get more detailed URLs by choosing the word that best represent this attribute. By default, PrestaShop uses the attribute's name, but you can change that setting using this field.</ns0:source>
+        <ns0:target state="final">Facted qidiruv moduli yoqilganda siz ushbu atributni eng yaxshi ifodalaydigan so'zni tanlash orqali batafsil URL manzillarni olishingiz mumkin. </ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/hook/attribute_group_form.tpl [Line: 44]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b0aefa9a5ca20f89372b37c2c35c1d4b" approved="yes">
+        <ns0:source>When the Faceted Search module is enabled, you can get more detailed URLs by choosing the word that best represent this feature's value. By default, PrestaShop uses the value's name, but you can change that setting using this field.</ns0:source>
+        <ns0:target state="final">Facted qidiruv moduli yoqilganda, ushbu xususiyatning qiymatini eng yaxshi ifodalaydigan so'zni tanlash orqali batafsil URL manzillarni olishingiz mumkin. </ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/hook/feature_value_form.tpl [Line: 44]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="81e6451dad5734120899da86f7da4e4e" approved="yes">
+        <ns0:source>When the Faceted Search module is enabled, you can get more detailed URLs by choosing the word that best represent this feature. By default, PrestaShop uses the feature's name, but you can change that setting using this field.</ns0:source>
+        <ns0:target state="final">Facted qidiruv moduli yoqilganda, ushbu xususiyatni eng yaxshi ifodalaydigan so'zni tanlash orqali batafsil URL manzillarini olishingiz mumkin. </ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/hook/feature_form.tpl [Line: 44]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="988d04f25d03c7753f5e4752a9397e79" approved="yes">
+        <ns0:source>When the Faceted Search module is enabled, you can get more detailed page titles by choosing the word that best represent this attribute. By default, PrestaShop uses the attribute's name, but you can change that setting using this field.</ns0:source>
+        <ns0:target state="final">Facted qidiruv moduli yoqilganda, ushbu atributni eng yaxshi ifodalaydigan so'zni tanlash orqali batafsil sahifalar sarlavhasini olishingiz mumkin. </ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/hook/attribute_group_form.tpl [Line: 72]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0e6de50c32b9b10fd375ee52090b7f3e" approved="yes">
+        <ns0:source>When the Faceted Search module is enabled, you can get more detailed page titles by choosing the word that best represent this feature's value. By default, PrestaShop uses the value's name, but you can change that setting using this field.</ns0:source>
+        <ns0:target state="final">Facted qidiruv moduli yoqilganda, ushbu xususiyatning qiymatini eng yaxshi ifodalaydigan so'zni tanlash orqali batafsil sahifalar sarlavhasini olishingiz mumkin. </ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/hook/feature_value_form.tpl [Line: 72]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="78b4c0278638dd0fd4b29a05895d7891" approved="yes">
+        <ns0:source>When the Faceted Search module is enabled, you can get more detailed page titles by choosing the word that best represent this feature. By default, PrestaShop uses the feature's name, but you can change that setting using this field.</ns0:source>
+        <ns0:target state="final">Facetlangan qidiruv moduli yoqilganda, ushbu xususiyatni eng yaxshi ifodalaydigan so'zni tanlash orqali batafsil sahifalar sarlavhasini olishingiz mumkin. </ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/hook/feature_form.tpl [Line: 72]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="75c30ac5e33d08c8cc95c5933c2cf543" approved="yes">
+        <ns0:source>Works only if "Show products from subcategories" is off.</ns0:source>
+        <ns0:target state="final">Faqat "SBCTGuctumiyalardan mahsulotlarni ko'rsatish" bo'lsa, faqat ishlaydi.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 197]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="88ec58dbbe7a8b727200696cfca4df3d" approved="yes">
+        <ns0:source>You can drag and drop filters to adjust position</ns0:source>
+        <ns0:target state="final">Siz pozitsiyani sozlash uchun filtrlarni sudrab olib tashlashingiz mumkin</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/view.tpl [Line: 36]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="18c6120643596bd2626f3b0720b1df3a" approved="yes">
+        <ns0:source>You must select at least one category</ns0:source>
+        <ns0:target state="final">Siz kamida bitta toifani tanlashingiz kerak</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 325]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d4513f10f8edb4426a5723738e129861" approved="yes">
+        <ns0:source>You must select at least one category if you want to use this filter template on category pages.</ns0:source>
+        <ns0:target state="final">Agar siz ushbu filtr shablonidan toifalar toifadagi shablonidan foydalanmoqchi bo'lsangiz, kamida bitta toifani tanlashingiz kerak.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 610]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="dc3f85827350641490287c65c0c4ddf8" approved="yes">
+        <ns0:source>You must select at least one filter</ns0:source>
+        <ns0:target state="final">Siz kamida bitta filtrni tanlashingiz kerak</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_partials/footer.tpl [Line: 31]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="de9bebfdc6b9fc0ea050a478f27cbb92" approved="yes">
+        <ns0:source>You must select at least one page</ns0:source>
+        <ns0:target state="final">Siz kamida bitta sahifani tanlashingiz kerak</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 326]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9461ef0a8f8a2adbb3fa8ea0fda9949d" approved="yes">
+        <ns0:source>You must select at least one page.</ns0:source>
+        <ns0:target state="final">Siz kamida bitta sahifani tanlashingiz kerak.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 608]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="eb9c805f7590679f0742ba0ea0a3e77f" approved="yes">
+        <ns0:source>You selected -All categories-: all existing filter templates will be deleted. Is it OK?</ns0:source>
+        <ns0:target state="final">Siz tanlab yuborgansiz -: Mavjud barcha filtr shablonlari o'chiriladi. </ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/manage.tpl [Line: 324]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="817c37b9c1f5cd4a450dad384e63e6c7" approved="yes">
+        <ns0:source>Your filter</ns0:source>
+        <ns0:target state="final">Sizning filtringiz</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 696]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5607dc45ebdfc0baaab64d944aa88f47" approved="yes">
+        <ns0:source>for max_input_vars.</ns0:source>
+        <ns0:target state="final">Maks_Input_vares uchun.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_partials/messages.tpl [Line: 38]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9df9f71b2fc62b0ce48cbb8cb5671ee6" approved="yes">
+        <ns0:source>for suhosin.post.max_vars.</ns0:source>
+        <ns0:target state="final">Suhosin.post.mx_vares.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_partials/messages.tpl [Line: 33]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="961e2bc7e3f570a3209546330de84a00" approved="yes">
+        <ns0:source>for suhosin.request.max_vars.</ns0:source>
+        <ns0:target state="final">Suuhosin.request.max_vares.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/views/templates/admin/_partials/messages.tpl [Line: 34]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7ccab4d8de5d6b9bb61e99c7bba343ab" approved="yes">
+        <ns0:source>was added successfully.</ns0:source>
+        <ns0:target state="final">muvaffaqiyatli qo'shildi.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 701]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3185cefd67b575e582063148e4f15860" approved="yes">
+        <ns0:source>was updated successfully.</ns0:source>
+        <ns0:target state="final">muvaffaqiyatli yangilandi.</ns0:target>
+        <ns0:note>File: modules/ps_facetedsearch/ps_facetedsearch.php [Line: 700]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

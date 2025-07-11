@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Faviconnotificationbo.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="df47b138ef38d036367dd40804eaf281" approved="yes">
+        <ns0:source>Display notifications in the browser tab for:</ns0:source>
+        <ns0:target state="final">Brauzer yorlig'idagi xabarlarni ko'rsatish:</ns0:target>
+        <ns0:note>File: modules/ps_faviconnotificationbo/controllers/admin/AdminConfigureFaviconBoController.php [Line: 33]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a1f7ca4c81696cde8be394c3c00b13f8" approved="yes">
+        <ns0:source>Get notified directly on your browser tab each time you get a new order, customer or message.</ns0:source>
+        <ns0:target state="final">To'g'ridan-to'g'ri yangi buyurtma, mijoz yoki xabarni olganingizda, to'g'ridan-to'g'ri brauzeringiz yorlig'iga xabar bering.</ns0:target>
+        <ns0:note>File: modules/ps_faviconnotificationbo/ps_faviconnotificationbo.php [Line: 49]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="39f955a983e02682aeecdf0c94854c9b" approved="yes">
+        <ns0:source>New orders</ns0:source>
+        <ns0:target state="final">Yangi buyurtmalar</ns0:target>
+        <ns0:note>File: modules/ps_faviconnotificationbo/controllers/admin/AdminConfigureFaviconBoController.php [Line: 37]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d836b5e952dee5c17b2168ee86ebe8e6" approved="yes">
+        <ns0:source>Notification background color</ns0:source>
+        <ns0:target state="final">Xabarnoma fon rangi</ns0:target>
+        <ns0:note>File: modules/ps_faviconnotificationbo/controllers/admin/AdminConfigureFaviconBoController.php [Line: 55]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="edfc54b8273bf6358f53c1bbcfdd8fd0" approved="yes">
+        <ns0:source>Notification text color</ns0:source>
+        <ns0:target state="final">Xabarnoma matn rangi</ns0:target>
+        <ns0:note>File: modules/ps_faviconnotificationbo/controllers/admin/AdminConfigureFaviconBoController.php [Line: 61]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="87cc29282288a147a6c6a8fca50ba414" approved="yes">
+        <ns0:source>Order Notifications on the Favicon</ns0:source>
+        <ns0:target state="final">Favikonda bildirishnomalar</ns0:target>
+        <ns0:note>File: modules/ps_faviconnotificationbo/ps_faviconnotificationbo.php [Line: 48]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

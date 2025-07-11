@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Emails.Subject.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="26fabd8660373b86b9288dd72fd40e13" approved="yes">
+        <ns0:source>An answer to your message is available #ct%thread_id% #tc%thread_token%</ns0:source>
+        <ns0:target state="final">An answer to your message no. ct%thread_id% is available (thread ID tc%thread_token%)</ns0:target>
+        <ns0:note>File: src/Core/Domain/CustomerService/CommandHandler/ReplyToCustomerThreadHandler.php [Line: 155]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="732f1aa49f17856ff55a5aa0a88374d9" approved="yes">
+        <ns0:source>Email verification</ns0:source>
+        <ns0:target state="final">Elektron pochta tekshiruvi</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 869]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4f55e8d67e33d354a5273eb87c903980" approved="yes">
+        <ns0:source>Fwd: Customer message</ns0:source>
+        <ns0:target state="final">Fwd: Mijoz xabari</ns0:target>
+        <ns0:note>File: src/Core/Domain/CustomerService/CommandHandler/ForwardCustomerThreadHandler.php [Line: 175]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a218495ad30949e8ea1f64a261e37463" approved="yes">
+        <ns0:source>Import complete</ns0:source>
+        <ns0:target state="final">Import yakunlandi</ns0:target>
+        <ns0:note>File: controllers/admin/AdminImportController.php [Line: 4203]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="caedcb9e2005bf6e522cf4536a1885bd" approved="yes">
+        <ns0:source>Log: You have a new alert from your shop</ns0:source>
+        <ns0:target state="final">Log: You have a new alert from your store</ns0:target>
+        <ns0:note>File: classes/PrestaShopLogger.php [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="381fc38b470ed543424afbd43f224453" approved="yes">
+        <ns0:source>Message from a customer</ns0:source>
+        <ns0:target state="final">Xaridordan xabar</ns0:target>
+        <ns0:note>File: controllers/front/OrderDetailController.php [Line: 114]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9e03c4150db1c72add84ba520ee589aa" approved="yes">
+        <ns0:source>Message from contact form</ns0:source>
+        <ns0:target state="final">Kontakt shaklidan xabar</ns0:target>
+        <ns0:note>File: modules/contactform/contactform.php [Line: 601]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="10e7889bf2e6fd95e25936d2c11e92be" approved="yes">
+        <ns0:source>New credit slip regarding your order</ns0:source>
+        <ns0:target state="final">Buyurtma bo'yicha yangi kredit slip</ns0:target>
+        <ns0:note>File: src/Adapter/Order/Refund/OrderSlipCreator.php [Line: 132]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="abe01af80b6bc9f1fa34feaa068336b2" approved="yes">
+        <ns0:source>New message regarding your order</ns0:source>
+        <ns0:target state="final">Buyurtma bo'yicha yangi xabar</ns0:target>
+        <ns0:note>File: src/Core/Domain/CustomerService/CommandHandler/AddOrderCustomerMessageHandler.php [Line: 250]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="da252605cef71a041c0dadaeeb2aa0f4" approved="yes">
+        <ns0:source>New order : #%d - %s</ns0:source>
+        <ns0:target state="final">Yangi buyurtma: #% d -% s</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 591]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2e784bf96d0f1ce249b6f60ec195179d" approved="yes">
+        <ns0:source>New return from order #%d - %s</ns0:source>
+        <ns0:target state="final">#% D -% s buyurtmadan yangi qaytish</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1008]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b360ddde7a5a70304c005e45e141cf9d" approved="yes">
+        <ns0:source>New voucher for your order #%s</ns0:source>
+        <ns0:target state="final">#% S buyurtmangiz uchun yangi vaucher</ns0:target>
+        <ns0:note>File: src/Adapter/Order/Refund/VoucherGenerator.php [Line: 150]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fca7e8d1c86db11246e429e40aa10c81" approved="yes">
+        <ns0:source>New voucher for your order %s</ns0:source>
+        <ns0:target state="final">% S buyurtmangiz uchun yangi vaucher</ns0:target>
+        <ns0:note>File: classes/PaymentModule.php [Line: 1227]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="efabbb0eb84d3c8e487a72e879953673" approved="yes">
+        <ns0:source>Newsletter confirmation</ns0:source>
+        <ns0:target state="final">Axborot byulleteni tasdiqlash</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 830]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a95bc59685fb4546de3884a5fbe474ea" approved="yes">
+        <ns0:source>Newsletter voucher</ns0:source>
+        <ns0:target state="final">Yangiliklar vaucher</ns0:target>
+        <ns0:note>File: modules/ps_emailsubscription/ps_emailsubscription.php [Line: 795]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fb077ecba55e5552916bde26d8b9e794" approved="yes">
+        <ns0:source>Order confirmation</ns0:source>
+        <ns0:target state="final">Buyurtma tasdiqlash</ns0:target>
+        <ns0:note>File: classes/PaymentModule.php [Line: 721]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="87405e011a2c4166bb685336827fbe81" approved="yes">
+        <ns0:source>Package in transit</ns0:source>
+        <ns0:target state="final">Tranzit paket</ns0:target>
+        <ns0:note>File: classes/order/OrderCarrier.php [Line: 155]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="61afad00abe3639b3ead655a1e8696d9" approved="yes">
+        <ns0:source>Password query confirmation</ns0:source>
+        <ns0:target state="final">Parol so'rovini tasdiqlash</ns0:target>
+        <ns0:note>File: controllers/front/PasswordController.php [Line: 107]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cad374f43e79ca774b2e8e00dcd8b842" approved="yes">
+        <ns0:source>Process the payment of your order</ns0:source>
+        <ns0:target state="final">Buyurtmani to'lash</ns0:target>
+        <ns0:note>File: src/Adapter/Order/CommandHandler/SendProcessOrderEmailHandler.php [Line: 157]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="923524e0ff0364df2987d3b8269f03d1" approved="yes">
+        <ns0:source>Product available</ns0:source>
+        <ns0:target state="final">Mahsulot mavjud</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/MailAlert.php [Line: 206]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="644f9c907ef5a8315916bd1e2f61f783" approved="yes">
+        <ns0:source>Product out of stock</ns0:source>
+        <ns0:target state="final">Mahsulot zaxirasi yo'q</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 696]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2eed868f1c9e7e2cd302334fd7885e35" approved="yes">
+        <ns0:source>Stock coverage</ns0:source>
+        <ns0:target state="final">Fond qamrovi</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 835]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3cf100d3725155b75779945680651f3d" approved="yes">
+        <ns0:source>The virtual product that you bought is available for download</ns0:source>
+        <ns0:target state="final">Siz sotib olgan virtual mahsulot yuklab olish uchun mavjud</ns0:target>
+        <ns0:note>File: classes/order/OrderHistory.php [Line: 181]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9a843f20677a52ca79af903123147af0" approved="yes">
+        <ns0:source>Welcome!</ns0:source>
+        <ns0:target state="final">Xush kelibsiz!</ns0:target>
+        <ns0:note>File: classes/Customer.php [Line: 1278]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="32e8a8d9ed872f16d6dae0dc5fd4bb71" approved="yes">
+        <ns0:source>Your guest account has been transformed into a customer account</ns0:source>
+        <ns0:target state="final">Your guest account was converted to a customer account</ns0:target>
+        <ns0:note>File: classes/Customer.php [Line: 1294]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d40cb87db94e750405e7b20a8a043d81" approved="yes">
+        <ns0:source>Your message has been correctly sent</ns0:source>
+        <ns0:target state="final">Sizning xabaringiz to'g'ri yuborilgan</ns0:target>
+        <ns0:note>File: modules/contactform/contactform.php [Line: 636]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="55c19f9aec68a1a320cbeba663f1e4c0" approved="yes">
+        <ns0:source>Your message has been correctly sent #ct%thread_id% #tc%thread_token%</ns0:source>
+        <ns0:target state="final">Your message no. ct%thread_id% has been correctly sent (thread ID tc%thread_token%)</ns0:target>
+        <ns0:note>File: modules/contactform/contactform.php [Line: 630]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c5f4622e4a63b41e7c0ddc100583ee6b" approved="yes">
+        <ns0:source>Your new password</ns0:source>
+        <ns0:target state="final">Sizning yangi parolingiz</ns0:target>
+        <ns0:note>File: src/PrestaShopBundle/Security/Admin/EmployeePasswordResetter.php [Line: 165]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9fcf30e719f10629a4a7f951cfbbf2d0" approved="yes">
+        <ns0:source>Your order has been changed</ns0:source>
+        <ns0:target state="final">Sizning buyurtmangiz o'zgartirildi</ns0:target>
+        <ns0:note>File: modules/ps_emailalerts/ps_emailalerts.php [Line: 1061]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f2328a3f139e31d53016f94ea9477124" approved="yes">
+        <ns0:source>Your order return status has changed</ns0:source>
+        <ns0:target state="final">Sizning buyurtmangizni qaytarish holati o'zgartirildi</ns0:target>
+        <ns0:note>File: controllers/admin/AdminReturnController.php [Line: 275]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

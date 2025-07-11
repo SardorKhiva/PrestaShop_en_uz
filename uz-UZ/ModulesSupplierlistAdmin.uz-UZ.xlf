@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Supplierlist.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="8a6b2ba351be03fc5cd039e39985733b" approved="yes">
+        <ns0:source>Display your suppliers on your catalog and allow visitors to filter their search by supplier.</ns0:source>
+        <ns0:target state="final">Katalogingizdagi etkazib beruvchilarni ko'rsating va tashrif buyuruvchilarga etkazib beruvchi tomonidan qidirishni filtrlashga ruxsat bering.</ns0:target>
+        <ns0:note>File: modules/ps_supplierlist/ps_supplierlist.php [Line: 59]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="85ab0c0d250e58397e95c96277a3f8e3" approved="yes">
+        <ns0:source>Invalid number of elements.</ns0:source>
+        <ns0:target state="final">Noto'g'ri elementlar.</ns0:target>
+        <ns0:note>File: modules/ps_supplierlist/ps_supplierlist.php [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2eef734f174a02ae3d7aaafefeeedb42" approved="yes">
+        <ns0:source>Number of elements to display</ns0:source>
+        <ns0:target state="final">Ko'rsatiladigan elementlar soni</ns0:target>
+        <ns0:note>File: modules/ps_supplierlist/ps_supplierlist.php [Line: 200]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9b52fcf71a5cc28e580f9f8b247ee912" approved="yes">
+        <ns0:source>Only apply in plain-text mode</ns0:source>
+        <ns0:target state="final">Faqat oddiy matn rejimida qo'llaniladi</ns0:target>
+        <ns0:note>File: modules/ps_supplierlist/ps_supplierlist.php [Line: 201]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="914b0cd4e4aa7cba84a3fd47b880fd2a" approved="yes">
+        <ns0:source>Please activate at least one type of list.</ns0:source>
+        <ns0:target state="final">Iltimos, kamida bitta turdagi ro'yxatni faollashtiring.</ns0:target>
+        <ns0:note>File: modules/ps_supplierlist/ps_supplierlist.php [Line: 129]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a2d2d31f18e471c272f14c46cee789cd" approved="yes">
+        <ns0:source>Supplier list</ns0:source>
+        <ns0:target state="final">Yetkazib beruvchilar ro'yxati</ns0:target>
+        <ns0:note>File: modules/ps_supplierlist/ps_supplierlist.php [Line: 54]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="afabc99b211a08e3b5fd912cc3fdfc17" approved="yes">
+        <ns0:source>Type of display</ns0:source>
+        <ns0:target state="final">Displey turi</ns0:target>
+        <ns0:note>File: modules/ps_supplierlist/ps_supplierlist.php [Line: 180]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b0fa976774d2acf72f9c62e9ab73de38" approved="yes">
+        <ns0:source>Use a drop-down list</ns0:source>
+        <ns0:target state="final">Ochishlar ro'yxatidan foydalaning</ns0:target>
+        <ns0:note>File: modules/ps_supplierlist/ps_supplierlist.php [Line: 191]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bfdff752293014f11f17122c92909ad5" approved="yes">
+        <ns0:source>Use a plain-text list</ns0:source>
+        <ns0:target state="final">Oddiy-matnli ro'yxatdan foydalaning</ns0:target>
+        <ns0:note>File: modules/ps_supplierlist/ps_supplierlist.php [Line: 187]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

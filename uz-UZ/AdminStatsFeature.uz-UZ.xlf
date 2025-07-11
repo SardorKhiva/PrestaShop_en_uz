@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Admin.Stats.Feature.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="d48e7c1fd584c90dad7cd24e8f65be6d" approved="yes">
+        <ns0:source>%average% hours</ns0:source>
+        <ns0:target state="final">%average% соат</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStatsController.php [Line: 757]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9aee5f7903fbed5f7d715e4011961b59" approved="yes">
+        <ns0:source>%d%% %s</ns0:source>
+        <ns0:target state="final">% d %%% s</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStatsController.php [Line: 846]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a0e9b94006c36be97ce9fa908fdff7d8" approved="yes">
+        <ns0:source>%percentage%% Female Customers</ns0:source>
+        <ns0:target state="final">%percentage%% Аёл мижозлар</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStatsController.php [Line: 724]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7870d39845089cddec99f55bef4ca3bb" approved="yes">
+        <ns0:source>%percentage%% Male Customers</ns0:source>
+        <ns0:target state="final">%percentage%% Эркак мижозлар</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStatsController.php [Line: 726]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="70f3bf1ba6a40018f2b5139e4721bae1" approved="yes">
+        <ns0:source>%percentage%% Neutral Customers</ns0:source>
+        <ns0:target state="final">%percentage%% Нейтрал мижозлар</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStatsController.php [Line: 728]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ac72cc56077f4fcf5c0fd3d6e0902264" approved="yes">
+        <ns0:source>%value% years</ns0:source>
+        <ns0:target state="final">%value% йил</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStatsController.php [Line: 740]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bbe8aef37d99eeb6f34a17f939ffa6f0" approved="yes">
+        <ns0:source>%value%% of your Catalog</ns0:source>
+        <ns0:target state="final">Каталогингизнинг %value%%</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStatsController.php [Line: 705]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d79de24a931cdfd25615c068f1f2765a" approved="yes">
+        <ns0:source>No category</ns0:source>
+        <ns0:target state="final">Категория йўқ</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStatsController.php [Line: 947]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="82ad4f0be97f8f36d31e2540aacb155d" approved="yes">
+        <ns0:source>No customers</ns0:source>
+        <ns0:target state="final">Мижозлар йўқ</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStatsController.php [Line: 722]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="08cfa7751d1812e961560f623e082aba" approved="yes">
+        <ns0:source>No orders</ns0:source>
+        <ns0:target state="final">Буйрутмалар йўқ</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStatsController.php [Line: 842]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="452a7601dbc6f2c38aa89e68bda8b603" approved="yes">
+        <ns0:source>Stats</ns0:source>
+        <ns0:target state="final">Статистика</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStatsTabController.php [Line: 47]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

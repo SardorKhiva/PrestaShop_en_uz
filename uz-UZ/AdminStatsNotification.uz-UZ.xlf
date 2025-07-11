@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Admin.Stats.Notification.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="8290fb626ffacf21450997f25967efeb" approved="yes">
+        <ns0:source>Module not found</ns0:source>
+        <ns0:target state="final">Modul topilmadi</ns0:target>
+        <ns0:note>File: admin-dev/themes/default/template/controllers/stats/stats.tpl [Line: 31]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9f8ba2077f4e7338b68934afe22b4ad9" approved="yes">
+        <ns0:source>Please select a module from the left column.</ns0:source>
+        <ns0:target state="final">Iltimos, chap ustundan modulni tanlang.</ns0:target>
+        <ns0:note>File: admin-dev/themes/default/template/controllers/stats/stats.tpl [Line: 34]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="afa9e719ed5259554b0647d035eaecb8" approved="yes">
+        <ns0:source>The specified date is invalid.</ns0:source>
+        <ns0:target state="final">Belgilangan sana noto'g'ri.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStatsTabController.php [Line: 247]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

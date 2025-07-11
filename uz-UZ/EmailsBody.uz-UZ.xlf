@@ -1,0 +1,1317 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Emails.Body.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="44aa13304026bb46ad79f4151f16634a" approved="yes">
+        <ns0:source>(waiting for validation)</ns0:source>
+        <ns0:target state="final">(Tasdiqlashni kutish)</ns0:target>
+        <ns0:note>File: classes/PaymentModule.php [Line: 683]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="96dad7f0d711c3408786ba1ee05402b3" approved="yes">
+        <ns0:source>&lt;a href="{shop_url}"&gt;{shop_name}&lt;/a&gt; powered by &lt;a href="{prestashop_url}"&gt;PrestaShop™&lt;/a&gt;</ns0:source>
+        <ns0:target state="final">&lt;a href = "{stop_url}" &gt;/a&gt; "{Prestashashop_url}" {Prestashashop_url} "" {Prestashop_url} "</ns0:target>
+        <ns0:note>File: mails/themes/classic/components/footer.html.twig [Line: 6]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c44669ebfaeb42d8895e332f6199688e" approved="yes">
+        <ns0:source>A credit slip has been generated in your name for order with the reference [1]{order_name}[/1].</ns0:source>
+        <ns0:target state="final">Kreditli slip sizning nomingiz bilan ma'lumotnomada [1] {buyurtma_name} [/ 1] deb nomlangan.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/credit_slip.html.twig [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="abc81c0d865925584b1269c996d7b297" approved="yes">
+        <ns0:source>A new order has been generated on your behalf.</ns0:source>
+        <ns0:target state="final">Sizning nomingizdan yangi buyurtma yaratildi.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/backoffice_order.html.twig [Line: 87]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ea1fc6431869b331e6db01a2f6ca921f" approved="yes">
+        <ns0:source>A new order was placed on [1]{shop_name}[/1] by the following customer:</ns0:source>
+        <ns0:target state="final">[1] {Dop_name} [/ 1] da yangi buyurtma o'rnatildi:</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/new_order.html.twig [Line: 30]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6881c1c321e65a31d35137f960022cf7" approved="yes">
+        <ns0:source>A new order was placed on {shop_name} by the following customer: {firstname} {lastname} ({email})</ns0:source>
+        <ns0:target state="final">YANGI Mijozga yangi buyurtma berilgan: {firsty} {{Elektron pochta})</ns0:target>
+        <ns0:note>File: mails/themes/classic/modules/ps_emailalerts/new_order.html.twig [Line: 14]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6e27b373aa04d07be7c5a65bbd9f45ed" approved="yes">
+        <ns0:source>A voucher has been created in your name as a result of your order with the reference [1]{order_name}[/1].</ns0:source>
+        <ns0:target state="final">Sizning nomingizdagi vaucher sizning buyurtmangiz bilan sizning buyurtmangiz bilan to'ldirilganidek yaratilgan [1] {buyurtma_name} [/ 1].</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/voucher.html.twig [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="08bd40c7543007ad06e4fce31618f6ec" approved="yes">
+        <ns0:source>Account</ns0:source>
+        <ns0:target state="final">Hisob</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/account.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="20a650d87733bd5895c979de29864a73" approved="yes">
+        <ns0:source>Account details:</ns0:source>
+        <ns0:target state="final">Hisob ma'lumotlari:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/bankwire.html.twig [Line: 221]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="21e4851289ecc91b65023c2563344aa7" approved="yes">
+        <ns0:source>Account owner:</ns0:source>
+        <ns0:target state="final">Hisob egasi:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/bankwire.html.twig [Line: 214]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="def00214a95442dc7899951abd9a6104" approved="yes">
+        <ns0:source>Always keep your account details safe.</ns0:source>
+        <ns0:target state="final">Har doim hisob qaydnomangizni xavfsiz saqlang.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/account.html.twig [Line: 205]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6702a6e3bc2dce95c3e3b61fe578f29c" approved="yes">
+        <ns0:source>Amount:</ns0:source>
+        <ns0:target state="final">Miqdor:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/cheque.html.twig [Line: 207]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="53659d236625358b98797389fd2504fa" approved="yes">
+        <ns0:source>Attached file:</ns0:source>
+        <ns0:target state="final">Biriktirilgan fayl:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/contact_form.html.twig [Line: 107]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d698e777b19f6f487ae0490950174fde" approved="yes">
+        <ns0:source>Awaiting check payment</ns0:source>
+        <ns0:target state="final">Chek to'lovni kutish</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/cheque.html.twig [Line: 25]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0664188509e5edc8daac0d8c80bc05b3" approved="yes">
+        <ns0:source>Awaiting payment by check</ns0:source>
+        <ns0:target state="final">Chek orqali to'lovni kutish</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/cheque.html.twig [Line: 95]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9b33ea5c9409a67cb6e1f6bc3f0828f0" approved="yes">
+        <ns0:source>Awaiting wire payment</ns0:source>
+        <ns0:target state="final">Sim to'lovini kutish</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/bankwire.html.twig [Line: 25]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fb08925252dd912f564413fb5109eb06" approved="yes">
+        <ns0:source>Back Office Order</ns0:source>
+        <ns0:target state="final">Orqa ofis buyurtma</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/backoffice_order.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="312d898d92d8ba90499ef0dac27270be" approved="yes">
+        <ns0:source>Bank address:</ns0:source>
+        <ns0:target state="final">Bank manzili:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/bankwire.html.twig [Line: 226]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="35b4b09d5d0686ec5c2e2cc9f3d9039c" approved="yes">
+        <ns0:source>Bankwire</ns0:source>
+        <ns0:target state="final">Bankvir</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/bankwire.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1fbc7e5f1b92c7ec072397b59a0bb5da" approved="yes">
+        <ns0:source>Billing address</ns0:source>
+        <ns0:target state="final">To'lovchi; to'lovni qabul qiladigan manzil</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/return_slip.html.twig [Line: 230]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="914419aa32f04011357d3b604a86d7eb" approved="yes">
+        <ns0:source>Carrier</ns0:source>
+        <ns0:target state="final">Tashuvchi</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/new_order.html.twig [Line: 250]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f8617a92ba0a0a4eabee724eab7c9f48" approved="yes">
+        <ns0:source>Carrier:</ns0:source>
+        <ns0:target state="final">Tashuvchi:</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/new_order.html.twig [Line: 286]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7601ee5e7968d91a7b4f099f4b4b84d0" approved="yes">
+        <ns0:source>Change your password regularly.</ns0:source>
+        <ns0:target state="final">Parolni muntazam ravishda o'zgartiring.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/account.html.twig [Line: 215]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="060bf2d587991d8f090a1309b285291c" approved="yes">
+        <ns0:source>Check</ns0:source>
+        <ns0:target state="final">Tekshirmoq</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/cheque.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9964a987c88f49c4be016b1af2801403" approved="yes">
+        <ns0:source>Click on the following link to set up your password:</ns0:source>
+        <ns0:target state="final">Parolni o'rnatish uchun quyidagi havolani bosing:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/guest_to_customer.html.twig [Line: 129]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fb0e8fc6b59dac729bb483b2c617adf2" approved="yes">
+        <ns0:source>Click on the following link to visit the product page and order it:</ns0:source>
+        <ns0:target state="final">Mahsulot sahifasiga tashrif buyurish uchun quyidagi havolani bosing va uni buyurtma qiling:</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/customer_qty.html.twig [Line: 128]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="87a8bbd45aa2890a2929c07d49fa64f1" approved="yes">
+        <ns0:source>Confirmation of password request on {shop_name}</ns0:source>
+        <ns0:target state="final">Parol so'rovini tasdiqlash {do'kon_name}</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/password_query.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1a81759353d36dbd31059fc261af0aa2" approved="yes">
+        <ns0:source>Congratulations!</ns0:source>
+        <ns0:target state="final">Tabriklaymiz!</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/new_order.html.twig [Line: 23]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3008c9316cf28c5f439bbcc2e43b2e3e" approved="yes">
+        <ns0:source>Congratulations, your guest account for [1]{shop_name}[/1] has been turned into a customer account!</ns0:source>
+        <ns0:target state="final">Tabriklaymiz, mening shaxsiy hisob qaydnomangiz [1] {Shop_name} [/ 1] mijoz hisob qaydnomasiga aylantirildi!</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/guest_to_customer.html.twig [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bbaff12800505b22a853e8b7f4eb6a22" approved="yes">
+        <ns0:source>Contact</ns0:source>
+        <ns0:target state="final">Aloqa qilmoq</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/contact.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3f65d6e17a11466983fd177702cf6a71" approved="yes">
+        <ns0:source>Contact Form</ns0:source>
+        <ns0:target state="final">Kontakt shakli</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/contact_form.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f53e8d0e97c47ce70ca9c5eaa08a00d0" approved="yes">
+        <ns0:source>Credit Slip</ns0:source>
+        <ns0:target state="final">Kredit slip</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/credit_slip.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cf3bae95c5f6023d5a10fe415b205a45" approved="yes">
+        <ns0:source>Credit slip</ns0:source>
+        <ns0:target state="final">Kredit slip</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/credit_slip.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="72dbe899c04eb3875b29b5b274340dac" approved="yes">
+        <ns0:source>Credit slip created</ns0:source>
+        <ns0:target state="final">Kreditli slip yaratildi</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/credit_slip.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="81899e9a62d3f952e81d5f72437470f9" approved="yes">
+        <ns0:source>Current stock cover:</ns0:source>
+        <ns0:target state="final">Hozirgi fond qopqog'i:</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/productcoverage.html.twig [Line: 93]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="482757e4afa747b69445ed1bfa8ea542" approved="yes">
+        <ns0:source>Customer Email Address:</ns0:source>
+        <ns0:target state="final">Mijoz elektron pochta manzili:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/contact.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="583b02c0b2f05171037b58c186a5461d" approved="yes">
+        <ns0:source>Customer Quantity</ns0:source>
+        <ns0:target state="final">Mijoz miqdori</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/customer_qty.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c413b39ac8eea02ebfbee487d1d9ea16" approved="yes">
+        <ns0:source>Customer Service - Discussion Forwarded</ns0:source>
+        <ns0:target state="final">Mijozlarga xizmat ko'rsatish - yo'naltirilgan muhokama</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/forward_msg.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4086969566e95f6b4479c3263def42d4" approved="yes">
+        <ns0:source>Customer email address:</ns0:source>
+        <ns0:target state="final">Mijoz elektron pochta manzili:</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/contact.html.twig [Line: 22]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5c1cc11c191c9a0f32d16439618ed3bb" approved="yes">
+        <ns0:source>Customer message:</ns0:source>
+        <ns0:target state="final">Mijoz xabari:</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/return_slip.html.twig [Line: 270]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8595a98bbe6d6b0e3b9b0681b3b4aa71" approved="yes">
+        <ns0:source>Customer service - Forwarded discussion</ns0:source>
+        <ns0:target state="final">Mijozlarga xizmat ko'rsatish - yo'naltiriladigan munozara</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/forward_msg.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5eea367ea73b909880393bd1ae79fc67" approved="yes">
+        <ns0:source>Customer:</ns0:source>
+        <ns0:target state="final">Xaridor:</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/return_slip.html.twig [Line: 135]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="af0f5bdc5be121b9307687aeeae38c17" approved="yes">
+        <ns0:source>Delivery address</ns0:source>
+        <ns0:target state="final">Yetkazib berish manzili</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/return_slip.html.twig [Line: 214]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9d5bf15117441a1b52eb1f0808e4aad3" approved="yes">
+        <ns0:source>Discounts</ns0:source>
+        <ns0:target state="final">Chegirmalar</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/new_order.html.twig [Line: 190]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a9854b516855755f7a9246d781d4f57b" approved="yes">
+        <ns0:source>Discussion history:</ns0:source>
+        <ns0:target state="final">Munozara tarixi:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/forward_msg.html.twig [Line: 128]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c4e48432bc1c131388456f9fca605baf" approved="yes">
+        <ns0:source>Download products</ns0:source>
+        <ns0:target state="final">Mahsulotlarni yuklab oling</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/download_product.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2df994fe4798f819768c87824ec15ced" approved="yes">
+        <ns0:source>Email address:</ns0:source>
+        <ns0:target state="final">E-pochta manzili:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/guest_to_customer.html.twig [Line: 128]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a3b24a2a75c846bdf0bc8449746a8637" approved="yes">
+        <ns0:source>Employee password</ns0:source>
+        <ns0:target state="final">Xodim paroli</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/employee_password.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="668a8d8d7ffe5da112b266e46b79b685" approved="yes">
+        <ns0:source>First name:</ns0:source>
+        <ns0:target state="final">Ism:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/employee_password.html.twig [Line: 128]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="459ea98b5f18960e8c26da4754208f75" approved="yes">
+        <ns0:source>Forward message</ns0:source>
+        <ns0:target state="final">Oldinga xabar</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/forward_msg.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="41c1d61bfff3fc9b1fd8f195061b8caa" approved="yes">
+        <ns0:source>Gift-wrapping</ns0:source>
+        <ns0:target state="final">Yeyish</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/new_order.html.twig [Line: 196]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c03924df23d22785084b06a548ca9976" approved="yes">
+        <ns0:source>Go to your customer account to learn more about it.</ns0:source>
+        <ns0:target state="final">Bu haqda ko'proq ma'lumot olish uchun mijozlar hisobingizga o'ting.</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/order_changed.html.twig [Line: 128]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="61a517de529038e441a1f6ada3f5a196" approved="yes">
+        <ns0:source>Good news, this item is back in stock!</ns0:source>
+        <ns0:target state="final">Yaxshi yangiliklar, bu mahsulot yana zaxirada!</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/customer_qty.html.twig [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="016878df57341f82e0702d9259bfb7d8" approved="yes">
+        <ns0:source>Guest to customer</ns0:source>
+        <ns0:target state="final">Mijozga mehmon</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/guest_to_customer.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8b1a9953c4611296a827abf8c47804d7" approved="yes">
+        <ns0:source>Hello</ns0:source>
+        <ns0:target state="final">Salom</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/test.html.twig [Line: 6]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b6592595266708e46d1d420ab7153213" approved="yes">
+        <ns0:source>Here are the bank details for your check:</ns0:source>
+        <ns0:target state="final">Sizning chekingiz uchun bank rekvizitlari:</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/cheque.html.twig [Line: 53]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fc1ae3c1dd1d9d9a44da719fa9966f0e" approved="yes">
+        <ns0:source>Here are the bank details for your transfer:</ns0:source>
+        <ns0:target state="final">Sizning transferingiz uchun bank rekvizitlari:</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/bankwire.html.twig [Line: 53]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d5b14d16c4008efddbee79cb56af5455" approved="yes">
+        <ns0:source>Here are your login details:</ns0:source>
+        <ns0:target state="final">Kirish ma'lumotlaringiz:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/account.html.twig [Line: 130]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8afe3c369cb4d2e723edabf14b8d8db8" approved="yes">
+        <ns0:source>Here is a test [1]email[/1] from your shop.</ns0:source>
+        <ns0:target state="final">Mana, do'koningizdan sinov [1] elektron pochta [1] elektron pochta [/ 1].</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/test.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="abe1585bf97403d8a9a01a272183585a" approved="yes">
+        <ns0:source>Here is the code of your voucher:</ns0:source>
+        <ns0:target state="final">Bu erda sizning vaucheringiz kodlami:</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/voucher_new.html.twig [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="10766e013f1b6a5cbc249604bb7fc286" approved="yes">
+        <ns0:source>Here is the information you need for your check:</ns0:source>
+        <ns0:target state="final">Bu erda sizga kerak bo'lgan ma'lumotlar:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/cheque.html.twig [Line: 201]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="920fcf4696dd1caa2d08eae6ebc8d29a" approved="yes">
+        <ns0:source>Here is the information you need for your transfer:</ns0:source>
+        <ns0:target state="final">Bu erda siz pul o'tkazishingiz uchun kerak bo'lgan ma'lumotlar:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/bankwire.html.twig [Line: 201]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0b937cfeb30c586cd659a58173bd37c7" approved="yes">
+        <ns0:source>Here is your identification information on [1]{shop_name}[/1]</ns0:source>
+        <ns0:target state="final">Mana sizning identifikatsiya ma'lumotingiz [1] {Damp_name} [/ 1]</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/employee_password.html.twig [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7cfb9d536fcd7aa70c333e8e73b287e2" approved="yes">
+        <ns0:source>Here is your login email address:</ns0:source>
+        <ns0:target state="final">Sizning kirish elektron pochta manzilingiz:</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/account.html.twig [Line: 30]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="af4667c3d9a39bfa5ce658080730210a" approved="yes">
+        <ns0:source>Here is your new voucher code:</ns0:source>
+        <ns0:target state="final">Bu erda sizning yangi vaucher kodi:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/voucher_new.html.twig [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e2fa64dedc8a3422d409cbe4eebd19bb" approved="yes">
+        <ns0:source>Here is your personal login information for [1]{shop_name}[/1]:</ns0:source>
+        <ns0:target state="final">Mana, shaxsiy kirish ma'lumotingiz [1] {Dampon_name} [/ 1]:</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/employee_password.html.twig [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="02fef144b687c453c4a1ae7c4e3e150b" approved="yes">
+        <ns0:source>Here is your personal login information for {shop_name}</ns0:source>
+        <ns0:target state="final">Mana {do'kon do'koningiz uchun shaxsiy kirish ma'lumotingiz</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/employee_password.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="31ee1241ee08294dfc2ca85698fda2a1" approved="yes">
+        <ns0:source>Hi {firstname} {lastname},</ns0:source>
+        <ns0:target state="final">Salom {firsty} {familyam},</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/order_changed.html.twig [Line: 23]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bb372ddf88ad8fcc480f7a8599a92abc" approved="yes">
+        <ns0:source>Hi,</ns0:source>
+        <ns0:target state="final">Salom,</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailsubscription/newsletter_voucher.html.twig [Line: 23]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a6ec75fcb2240ccd4ea29549ee413885" approved="yes">
+        <ns0:source>If you can read this, it means the test is successful!</ns0:source>
+        <ns0:target state="final">Agar siz buni o'qiy olsangiz, bu sinov muvaffaqiyatli ekanligini anglatadi!</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/test.html.twig [Line: 93]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="79986d6ab2382663070d8cd7e31f2287" approved="yes">
+        <ns0:source>If you can read this, the test was successful!</ns0:source>
+        <ns0:target state="final">Agar buni o'qiy olsangiz, test muvaffaqiyatli bo'ldi!</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/test.html.twig [Line: 17]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0b0df2fff267640acf7f0d03a9b90aa6" approved="yes">
+        <ns0:source>If you did not make this request, just ignore this email.</ns0:source>
+        <ns0:target state="final">Agar siz ushbu so'rovni amalga oshirmagan bo'lsangiz, shunchaki ushbu elektron pochtani e'tiborsiz qoldiring.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/password_query.html.twig [Line: 164]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a1985adc2a7be8af1d6beafa7527c062" approved="yes">
+        <ns0:source>If you have a guest account, you can follow your order via the &lt;a href="{guest_tracking_url}" target="_blank"&gt;%guest_tracking_label%&lt;/a&gt; section on our shop.</ns0:source>
+        <ns0:target state="final">Agar sizda mehmon hisob qaydnomangiz bo'lsa, siz &lt;a href = "{guest_tracking_url}" maqsadingiz orqali buyurtmangizga amal qilishingiz mumkin.</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/order_changed.html.twig [Line: 159]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="72d6d7a1885885bb55a565fd1070581a" approved="yes">
+        <ns0:source>Import</ns0:source>
+        <ns0:target state="final">Import qilmoq</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/import.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a218495ad30949e8ea1f64a261e37463" approved="yes">
+        <ns0:source>Import complete</ns0:source>
+        <ns0:target state="final">Import yakunlandi</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/import.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="23e7f4b70281e1293a4985626589aeee" approved="yes">
+        <ns0:source>Import finished</ns0:source>
+        <ns0:target state="final">Import tugadi</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/import.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d70650ce5612f05bfe75c1962fa1e519" approved="yes">
+        <ns0:source>Important Security Tips:</ns0:source>
+        <ns0:target state="final">Xavfsizlik bo'yicha maslahatlar:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/account.html.twig [Line: 170]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bdf92bd43402eeabaaa7e643e30607c1" approved="yes">
+        <ns0:source>In order to confirm this action, click on the following link:</ns0:source>
+        <ns0:target state="final">Ushbu harakatni tasdiqlash uchun quyidagi havolani bosing:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/password_query.html.twig [Line: 133]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7e4e256f10a59674290c89dd1bba1312" approved="yes">
+        <ns0:source>In order to reply, click on the following link: &lt;a href="{link}" target="_blank"&gt;{link}&lt;/a&gt;</ns0:source>
+        <ns0:target state="final">Javob berish uchun quyidagi havolani bosing: &lt;a href = "{{{{{{{{{{_ BUYN"&gt; {Link} &lt;/a&gt;</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/reply_msg.html.twig [Line: 124]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="95d1732a1f5200c8e176bea0a5562804" approved="yes">
+        <ns0:source>In order to reply, please use the following link: &lt;a href="{link}"&gt;{link}&lt;/a&gt;</ns0:source>
+        <ns0:target state="final">In order to reply, please use the following link: &lt;a href="{link}"&gt;{link}&lt;/a&gt;</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/reply_msg.html.twig [Line: 25]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bba6345ca09bf0e21cb502bc6d960cde" approved="yes">
+        <ns0:source>In order to use it, just copy/paste this code during check out.</ns0:source>
+        <ns0:target state="final">Uni ishlatish uchun ushbu kodni tekshirish paytida nusxa oling / joylashtiring.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/voucher_new.html.twig [Line: 128]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7ec4f8b296984ffe6ea829b7e1743577" approved="yes">
+        <ns0:source>In transit</ns0:source>
+        <ns0:target state="final">Yo'lda</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/in_transit.html.twig [Line: 93]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5c9412907a7aabeea3491fafec5c082e" approved="yes">
+        <ns0:source>Including total tax</ns0:source>
+        <ns0:target state="final">Jami soliq</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/new_order.html.twig [Line: 208]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e25d137c27dca2618629678d2df71113" approved="yes">
+        <ns0:source>Item(s) out of stock</ns0:source>
+        <ns0:target state="final">(S) zaxiradan tashqarida</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/outofstock.html.twig [Line: 25]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="be5e0b5d50d48b049bd0f7b57cd163f9" approved="yes">
+        <ns0:source>Last name:</ns0:source>
+        <ns0:target state="final">Familiya:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/employee_password.html.twig [Line: 135]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0f170325fe7cbbbd2be4d705b277650e" approved="yes">
+        <ns0:source>Log Alert</ns0:source>
+        <ns0:target state="final">Jurnalni ogohlantirish</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/log_alert.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="381fc38b470ed543424afbd43f224453" approved="yes">
+        <ns0:source>Message from a customer</ns0:source>
+        <ns0:target state="final">Xaridordan xabar</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/order_customer_comment.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a1cee0a898793ad5101154ac97984d8a" approved="yes">
+        <ns0:source>Message from a {shop_name} customer</ns0:source>
+        <ns0:target state="final">A {Shop_name} Xaridordan xabar</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/contact.html.twig [Line: 23]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c744bfa52ba85ff901bab4ed9319978e" approved="yes">
+        <ns0:source>Message from customer</ns0:source>
+        <ns0:target state="final">Xaridordan xabar</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/order_customer_comment.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2769d37f4eb00f2c9b940ee928f1b426" approved="yes">
+        <ns0:source>Message from {shop_name}</ns0:source>
+        <ns0:target state="final">{Do'kon_name} dan xabar}</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/order_merchant_comment.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="940663fd4428d2c86f9a4780b6574028" approved="yes">
+        <ns0:source>Message:</ns0:source>
+        <ns0:target state="final">Xabar:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/order_merchant_comment.html.twig [Line: 158]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1559b55f6ea1de9f9b8826e9be306e6f" approved="yes">
+        <ns0:source>Never disclose your login details to anyone.</ns0:source>
+        <ns0:target state="final">Hech qachon kirish ma'lumotlarini hech kimga oshkor qilmang.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/account.html.twig [Line: 210]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6810a1cc40329a394b9d73b5f8dac744" approved="yes">
+        <ns0:source>New Order</ns0:source>
+        <ns0:target state="final">Yangi buyurtma</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/new_order.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="223e2a86894ef6ae6d9a96b2d4f53acf" approved="yes">
+        <ns0:source>New alert message saved</ns0:source>
+        <ns0:target state="final">Yangi ogohlantirish xabari saqlandi</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/log_alert.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ffb7e666a70151215b4c55c6268d7d72" approved="yes">
+        <ns0:source>Newsletter</ns0:source>
+        <ns0:target state="final">Axborot byulleteni</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/newsletter.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c9a257051d205ce3d0f4078b53dd4512" approved="yes">
+        <ns0:source>Newsletter Confirmation</ns0:source>
+        <ns0:target state="final">Axborot byulleteni tasdiqlash</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailsubscription/newsletter_conf.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="32e00ed1f8f1062378ba2c47ac75de9d" approved="yes">
+        <ns0:source>Newsletter Verification</ns0:source>
+        <ns0:target state="final">Axborot byulleteni tekshirish</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailsubscription/newsletter_verif.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2eb58792075fb4bea9ad03b6da20ec05" approved="yes">
+        <ns0:source>Newsletter Voucher</ns0:source>
+        <ns0:target state="final">Yangiliklar vaucher</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailsubscription/newsletter_voucher.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7bf7f18afabb5122fa68fbab617e509b" approved="yes">
+        <ns0:source>Newsletter subscription</ns0:source>
+        <ns0:target state="final">Axborot byulleteni obuna</ns0:target>
+        <ns0:note>File: mails/themes/classic/modules/ps_emailsubscription/newsletter_voucher.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c1ebb17bfd89ea960194a6162b299cda" approved="yes">
+        <ns0:source>Order ID #:</ns0:source>
+        <ns0:target state="final">Buyurtma id *:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/contact_form.html.twig [Line: 93]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="af6c5b694abbb964eec098febaa5d31d" approved="yes">
+        <ns0:source>Order ID {order_name}</ns0:source>
+        <ns0:target state="final">Buyurtma ID {buyurtma_name}</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/order_changed.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="83fa39a28a4d159061c408fbd6a249e7" approved="yes">
+        <ns0:source>Order ID:</ns0:source>
+        <ns0:target state="final">Buyurtma ID:</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/contact_form.html.twig [Line: 23]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3baf03ed2980c9f339731f052c12b37d" approved="yes">
+        <ns0:source>Order canceled</ns0:source>
+        <ns0:target state="final">Buyurtma bekor qilindi</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/order_canceled.html.twig [Line: 87]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ac32eb3619340a6b6aff41d9797665d4" approved="yes">
+        <ns0:source>Order changed</ns0:source>
+        <ns0:target state="final">Buyurtma o'zgartirildi</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/order_changed.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fb077ecba55e5552916bde26d8b9e794" approved="yes">
+        <ns0:source>Order confirmation</ns0:source>
+        <ns0:target state="final">Buyurtma tasdiqlash</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/order_conf.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fa44c7d88039cc2a3caf05195e1e45bb" approved="yes">
+        <ns0:source>Order customer comment</ns0:source>
+        <ns0:target state="final">Mijozning sharhiga buyurtma bering</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/order_customer_comment.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f5d74ea75357b5e139854c14f8e24fe3" approved="yes">
+        <ns0:source>Order details</ns0:source>
+        <ns0:target state="final">Buyurtma tafsilotlari</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/new_order.html.twig [Line: 95]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6eaf1dae59f88437851d95f504f9cb3c" approved="yes">
+        <ns0:source>Order edited</ns0:source>
+        <ns0:target state="final">Buyurtma tahrirlangan</ns0:target>
+        <ns0:note>File: mails/themes/classic/modules/ps_emailalerts/order_changed.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="371e76fdc916e1fc3818f6b96dee5219" approved="yes">
+        <ns0:source>Order merchant comment</ns0:source>
+        <ns0:target state="final">Savdogar sharhlash</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/order_merchant_comment.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b913dabf84a2fbeb711e6873210228b7" approved="yes">
+        <ns0:source>Order reference:</ns0:source>
+        <ns0:target state="final">Buyurtma ma'lumotnomasi:</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/order_customer_comment.html.twig [Line: 31]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3bc517b4a402645da419438914f481c6" approved="yes">
+        <ns0:source>Order return #{id_order_return} - Update</ns0:source>
+        <ns0:target state="final"># {Id_order_return} - yangilanish</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/order_return_state.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d28c38eafee0f9e02256b284275603f9" approved="yes">
+        <ns0:source>Order return state</ns0:source>
+        <ns0:target state="final">Buyurtmani qaytarish holati</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/order_return_state.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="008400d8db73946ba53b2d7f091eb845" approved="yes">
+        <ns0:source>Order {order_name}</ns0:source>
+        <ns0:target state="final">Buyurtma {buyurtma_name}</ns0:target>
+        <ns0:note>File: mails/themes/classic/modules/ps_emailalerts/order_changed.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2ca3deb5cd68fa9119b285804fab572f" approved="yes">
+        <ns0:source>Order:</ns0:source>
+        <ns0:target state="final">Buyurtma:</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/return_slip.html.twig [Line: 130]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b55197a49e8c4cd8c314bc2aa39d6feb" approved="yes">
+        <ns0:source>Out of stock</ns0:source>
+        <ns0:target state="final">Sotuvda yo'q</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/outofstock.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="dc647eb65e6711e155375218212b3964" approved="yes">
+        <ns0:source>Password</ns0:source>
+        <ns0:target state="final">Parol</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/password.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="de148dcf9a5a0f2de3a65c36f9991f42" approved="yes">
+        <ns0:source>Password Query</ns0:source>
+        <ns0:target state="final">Parol so'rovi</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/password_query.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="280f51a8705636bd7e7ba595529411d4" approved="yes">
+        <ns0:source>Password reset request for {shop_name}</ns0:source>
+        <ns0:target state="final">Parolni tiklash uchun so'rov {do'kon_name} uchun so'rovni tiklash</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/password_query.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1c3bd8f6bd066270354607c08f930baf" approved="yes">
+        <ns0:source>Payable to the order of:</ns0:source>
+        <ns0:target state="final">Buyurtmaga to'lanishi kerak:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/cheque.html.twig [Line: 214]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c453a4b8e8d98e82f35b67f433e3b4da" approved="yes">
+        <ns0:source>Payment</ns0:source>
+        <ns0:target state="final">To'lov</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/payment.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b06c5ecc37b9cd61a0cab0534ed1f15d" approved="yes">
+        <ns0:source>Payment Error</ns0:source>
+        <ns0:target state="final">To'lov xatosi</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/payment_error.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1e97d97a923eaddd810e056c828e99ea" approved="yes">
+        <ns0:source>Payment error</ns0:source>
+        <ns0:target state="final">To'lov xatosi</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/payment_error.html.twig [Line: 87]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8f4dccd9e6900a3bbae488901ba81ce5" approved="yes">
+        <ns0:source>Payment method: bank wire</ns0:source>
+        <ns0:target state="final">To'lov usuli: bank simlari</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/bankwire.html.twig [Line: 165]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6a9e91ee7fe91c99fc2b5915a2555a57" approved="yes">
+        <ns0:source>Payment method: check</ns0:source>
+        <ns0:target state="final">To'lov usuli: chek</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/cheque.html.twig [Line: 165]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6daabaab43cdbd67346ae71828b1710c" approved="yes">
+        <ns0:source>Payment processed</ns0:source>
+        <ns0:target state="final">To'lov qayta ishlangan</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/payment.html.twig [Line: 25]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3dd0be333980f0b0f0895cdb6322d117" approved="yes">
+        <ns0:source>Payment processing error</ns0:source>
+        <ns0:target state="final">To'lovni qayta ishlash xatosi</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/payment_error.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a0e8e26f6f9354192425b9a23227a5ba" approved="yes">
+        <ns0:source>Payment:</ns0:source>
+        <ns0:target state="final">To'lov:</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/new_order.html.twig [Line: 291]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e59458c2ad3850466357a1cd342adc51" approved="yes">
+        <ns0:source>Pending payment</ns0:source>
+        <ns0:target state="final">To'lash kutilmoqda</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/bankwire.html.twig [Line: 95]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="101f2450ccefbd344b37971c5d27f96d" approved="yes">
+        <ns0:source>Placed on</ns0:source>
+        <ns0:target state="final">Joylashtirilgan</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/return_slip.html.twig [Line: 130]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="49bea2c7e271e5cd440a295dd6fadc72" approved="yes">
+        <ns0:source>Please be careful when sharing these login details with others.</ns0:source>
+        <ns0:target state="final">Iltimos, ushbu kirish ma'lumotlarini boshqalar bilan baham ko'rganda ehtiyot bo'ling.</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/guest_to_customer.html.twig [Line: 47]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2ddbd3a9b06eadccdea8e1b372830d69" approved="yes">
+        <ns0:source>Please do not reply directly to this email, we will not receive it.</ns0:source>
+        <ns0:target state="final">Iltimos, ushbu elektron pochtaga to'g'ridan-to'g'ri javob bermang, biz uni qabul qilmaymiz.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/reply_msg.html.twig [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bfa8b60dbfd44914f8cf61b57c641784" approved="yes">
+        <ns0:source>Please go on &lt;a href="{order_link}"&gt;{order_link}&lt;/a&gt; to complete the payment.</ns0:source>
+        <ns0:target state="final">Iltimos, to'lovni yakunlash uchun &lt;a href = "{buyurtma_link}" {buyurtma_LINK} &lt;/a&gt; to'lovni yakunlang.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/backoffice_order.html.twig [Line: 122]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bffeb374bf71938ffc4faa42afbf1679" approved="yes">
+        <ns0:source>Please go on &lt;a href="{order_link}"&gt;{order_link}&lt;/a&gt; to finalize the payment.</ns0:source>
+        <ns0:target state="final">Iltimos, &lt;a href = "{buyurtma_link}" {buyurtma_LINK} &lt;/a&gt; to'lovni yakunlang.</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/backoffice_order.html.twig [Line: 25]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8f1fb2295c4289bae9fc26549b4b45f2" approved="yes">
+        <ns0:source>Please mail your check to:</ns0:source>
+        <ns0:target state="final">Iltimos, chekingizni yuboring:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/cheque.html.twig [Line: 221]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="09ce893cc7228918df5657665b899249" approved="yes">
+        <ns0:source>Please note that this will change your current password.</ns0:source>
+        <ns0:target state="final">E'tibor bering, bu sizning joriy parolingizni o'zgartiradi.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/password_query.html.twig [Line: 128]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b8f05e3501f419f9f7ec08026a9342be" approved="yes">
+        <ns0:source>Please specify your order reference in the bankwire description.</ns0:source>
+        <ns0:target state="final">Bankwire tavsifida buyurtmani ko'rsating.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/bankwire.html.twig [Line: 231]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9a5f09cf66e692efdae493ce4c9aa64f" approved="yes">
+        <ns0:source>Preparation</ns0:source>
+        <ns0:target state="final">Tayyorgarlik</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/preparation.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="643562a9ae7099c8aabfdc93478db117" approved="yes">
+        <ns0:source>Processing</ns0:source>
+        <ns0:target state="final">Qayta ishlash</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/preparation.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6ae0cf64b3eeb821a73550fab5ea13bd" approved="yes">
+        <ns0:source>Processing order</ns0:source>
+        <ns0:target state="final">Qayta ishlash tartibi</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/preparation.html.twig [Line: 87]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="deb10517653c255364175796ace3553f" approved="yes">
+        <ns0:source>Product</ns0:source>
+        <ns0:target state="final">Mahsulot</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/return_slip.html.twig [Line: 174]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fdf4e97dcf4ad98512050ab60cf91bc3" approved="yes">
+        <ns0:source>Product coverage</ns0:source>
+        <ns0:target state="final">Mahsulot qamrovi</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/productcoverage.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="644f9c907ef5a8315916bd1e2f61f783" approved="yes">
+        <ns0:source>Product out of stock</ns0:source>
+        <ns0:target state="final">Mahsulot zaxirasi yo'q</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/productoutofstock.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="30acb55a5efc4a32a30a0c3db85f37d1" approved="yes">
+        <ns0:source>Product(s) now available for download</ns0:source>
+        <ns0:target state="final">Endi yuklab olish uchun mahsulot (lar)</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/download_product.html.twig [Line: 25]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9e81969b0d999f5daa0d37ce13fb7001" approved="yes">
+        <ns0:source>Product(s) to download</ns0:source>
+        <ns0:target state="final">Yuklab olish uchun mahsulot (lar)</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/download_product.html.twig [Line: 95]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="465d60b936c982d7b57674f30ba022d0" approved="yes">
+        <ns0:source>Product:</ns0:source>
+        <ns0:target state="final">Mahsulot:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/contact_form.html.twig [Line: 100]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="068f80c7519d0528fb08e82137a72131" approved="yes">
+        <ns0:source>Products</ns0:source>
+        <ns0:target state="final">Mahsulotlar</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/new_order.html.twig [Line: 184]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="694e8d1f2ee056f98ee488bdc4982d73" approved="yes">
+        <ns0:source>Quantity</ns0:source>
+        <ns0:target state="final">Miqdori</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/return_slip.html.twig [Line: 175]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4fa1b6a18af39df2372766b93c513f85" approved="yes">
+        <ns0:source>Recycled packaging:</ns0:source>
+        <ns0:target state="final">Qayta ishlangan qadoq:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/order_conf.html.twig [Line: 313]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="63d5049791d9d79d86e9a108b0a999ca" approved="yes">
+        <ns0:source>Reference</ns0:source>
+        <ns0:target state="final">Ma'lumotnoma</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/return_slip.html.twig [Line: 173]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="76f0ed934de85cc7131910b32ede7714" approved="yes">
+        <ns0:source>Refund</ns0:source>
+        <ns0:target state="final">Qaytarmoq</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/refund.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9b45ae8a346e0587013cdb1494e113d8" approved="yes">
+        <ns0:source>Refund processed</ns0:source>
+        <ns0:target state="final">Qaytarilgan qayta ishlangan</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/refund.html.twig [Line: 30]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="289f1fb0b0a7ed1c03d1f1f597666f67" approved="yes">
+        <ns0:source>Regarding your newsletter subscription, we are pleased to offer you the following voucher:</ns0:source>
+        <ns0:target state="final">Sizning byulleteningiz bilan obuna bo'lishingiz haqida, sizga quyidagi vaucherni taklif qilishdan mamnunmiz:</ns0:target>
+        <ns0:note>File: mails/themes/classic/modules/ps_emailsubscription/newsletter_voucher.html.twig [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ab8f74636fc3f34b09b1300a2393a0b8" approved="yes">
+        <ns0:source>Remaining stock:</ns0:source>
+        <ns0:target state="final">Qolgan zaxiralar:</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/productoutofstock.html.twig [Line: 126]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d3f03e2edd35c99abb3fd3d9bc51706e" approved="yes">
+        <ns0:source>Replenish your inventory, go to the [1]Catalog &gt; Stocks[/1] section of your back office to manage your stock.</ns0:source>
+        <ns0:target state="final">O'zingizning inventarizatsiyangizni to'ldiring, [1] Bog'lang (1) zaxiralaringizni boshqarish uchun sizning orqa ofisingiz [/ 1] qismini tanlang.</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/productoutofstock.html.twig [Line: 131]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cfc958489addbbe32552c9bc785f83c9" approved="yes">
+        <ns0:source>Replenishment required</ns0:source>
+        <ns0:target state="final">To'ldirish talab qilinadi</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/outofstock.html.twig [Line: 95]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b0faef9417304909de0960b57582cd1c" approved="yes">
+        <ns0:source>Reply msg</ns0:source>
+        <ns0:target state="final">Reply message</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/reply_msg.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="34d125dc458bced25eaf5e2e272c0d75" approved="yes">
+        <ns0:source>Return #{id_order_return} - update</ns0:source>
+        <ns0:target state="final"># {Id_order_return} - yangilash</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/order_return_state.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9b600ac4bf14f6e3919b919893bae7f8" approved="yes">
+        <ns0:source>Return Details</ns0:source>
+        <ns0:target state="final">Qaytarish tafsilotlarini qaytaring</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/return_slip.html.twig [Line: 95]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6773c510bcd24041ed4d515b65358e96" approved="yes">
+        <ns0:source>Return Slip</ns0:source>
+        <ns0:target state="final">Qaytish slip</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/return_slip.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cd8ee64ef80cd6bb4e320a7d0563b56f" approved="yes">
+        <ns0:source>Return details</ns0:source>
+        <ns0:target state="final">Return Details</ns0:target>
+        <ns0:note>File: mails/themes/classic/modules/ps_emailalerts/return_slip.html.twig [Line: 25]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1360206d809eed2f532ddac6b75493cf" approved="yes">
+        <ns0:source>Review this credit slip and download your invoice on our store, go to the &lt;a href="{history_url}" target="_blank"&gt;%credit_slips_label%&lt;/a&gt; section of your customer account.</ns0:source>
+        <ns0:target state="final">Ushbu kredit slipini ko'rib chiqing va do'koningizdagi schiturangizni yuklab oling, &lt;a wref = "{format_url}" {bo'sh "</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/credit_slip.html.twig [Line: 154]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="747cf5c8587184b9e489ff897d97c20d" approved="yes">
+        <ns0:source>Shipped</ns0:source>
+        <ns0:target state="final">Yetkazib bermoq</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/shipped.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ea9cf7e47ff33b2be14e6dd07cbcefc6" approved="yes">
+        <ns0:source>Shipping</ns0:source>
+        <ns0:target state="final">yuk tashish; yetkazib berish</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/new_order.html.twig [Line: 202]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8f9011f4a1219e51c8a0638d2af3f29a" approved="yes">
+        <ns0:source>Should you suspect someone is using your account illegally, please notify us immediately.</ns0:source>
+        <ns0:target state="final">Agar kimdir sizning hisobingizdan noqonuniy ravishda foydalanayotganini shubha qilsangiz, iltimos, darhol bizga xabar bering.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/account.html.twig [Line: 220]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f4f614c22d9d2cbd0f9aa08cd59600d2" approved="yes">
+        <ns0:source>Simply copy/paste this code during the payment process for your next order.</ns0:source>
+        <ns0:target state="final">Ushbu kodni keyingi tartibingiz uchun to'lov jarayonida ushbu kodni nusxalash / joylashtiring.</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/voucher_new.html.twig [Line: 30]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fb85495b4c45ce28e7a1521017326c5a" approved="yes">
+        <ns0:source>Subscribing to newsletter</ns0:source>
+        <ns0:target state="final">Axborot byulleteniga obuna bo'lish</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailsubscription/newsletter_voucher.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0cbc6611f5540bd0809a388dc95a615b" approved="yes">
+        <ns0:source>Test</ns0:source>
+        <ns0:target state="final">Test</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/test.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="22a9d6a64a74d0f58a11fa7013f4b83a" approved="yes">
+        <ns0:source>Thank you for creating a customer account at {shop_name}.</ns0:source>
+        <ns0:target state="final">Xaridor hisob qaydnomasini {Dampon_name} manzilini yaratganingiz uchun tashakkur.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/account.html.twig [Line: 30]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ca102bf009d3e0d62a4fc6918b20110e" approved="yes">
+        <ns0:source>Thank you for shopping on [1]{shop_name}[/1]!</ns0:source>
+        <ns0:target state="final">[1] {Dampon_name} uchun xarid qilganingiz uchun tashakkur!</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/order_conf.html.twig [Line: 30]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b4556791acee238c77be9ed338a29e80" approved="yes">
+        <ns0:source>Thank you for shopping with {shop_name}!</ns0:source>
+        <ns0:target state="final">{Do'kon savdosi bilan xarid qilganingiz uchun tashakkur!</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/shipped.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3f796454690dc2d7f26db5d45c48b187" approved="yes">
+        <ns0:source>Thank you for subscribing to our newsletter, please confirm your request by clicking the link below :</ns0:source>
+        <ns0:target state="final">Axborot byaxtimizga obuna bo'lganingiz uchun rahmat, iltimos, quyidagi havolani bosish orqali so'rovingizni tasdiqlang:</ns0:target>
+        <ns0:note>File: mails/themes/classic/modules/ps_emailsubscription/newsletter_verif.html.twig [Line: 22]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4e1c51e233f1ed368c58db9ef09010ba" approved="yes">
+        <ns0:source>Thank you for subscribing to our newsletter.</ns0:source>
+        <ns0:target state="final">Axborot byulleteniga obuna bo'lganingiz uchun tashakkur.</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailsubscription/newsletter_conf.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3b3d69d6a53f5cb28d8867f5aeb1aa78" approved="yes">
+        <ns0:source>Thank you for subscribing to our newsletter. Please click on the following link to confirm your request:</ns0:source>
+        <ns0:target state="final">Axborot byulleteniga obuna bo'lganingiz uchun tashakkur. </ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailsubscription/newsletter_verif.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f6c3e4834d385f4923121b89bdee29c0" approved="yes">
+        <ns0:source>Thank you for subscribing to our newsletter. We are pleased to offer you the following voucher:</ns0:source>
+        <ns0:target state="final">Axborot byulleteniga obuna bo'lganingiz uchun tashakkur. </ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailsubscription/newsletter_voucher.html.twig [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5f55a607fea61a402ceac66cc99f1e9e" approved="yes">
+        <ns0:source>Thank you for your order with the reference {order_name} from &lt;strong&gt;{shop_name}&lt;/strong&gt;</ns0:source>
+        <ns0:target state="final">Rahbaringiz uchun rahmat {Stri_name} &lt;stop_name} dan &lt;/ kuchli&gt;</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/download_product.html.twig [Line: 8]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a6c40a67df49207ba0519d1bee14a484" approved="yes">
+        <ns0:source>Thank you for your order with the reference {order_name} from [1]{shop_name}[/1]</ns0:source>
+        <ns0:target state="final">Buyurtma bilan [1] {pop_name} dan [1] {PRARC_NAME} dan (1] / 1) ma'lumotingiz bilan rahmat</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/download_product.html.twig [Line: 30]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="be07158cdaa6c7244af799f3cdd6dad5" approved="yes">
+        <ns0:source>Thanks for your order with the reference {order_name} from {shop_name}.</ns0:source>
+        <ns0:target state="final">Buyurtma bilan {buyurtma_name} dan {do'kon savdosi} dan ma'lumot uchun rahmat.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/outofstock.html.twig [Line: 30]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b19d16126c46e1f48377ab861c8fcdd9" approved="yes">
+        <ns0:source>The file {filename} has been successfully imported to your store.</ns0:source>
+        <ns0:target state="final">{Fayl nomi} fayli do'koningizga muvaffaqiyatli keltirildi.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/import.html.twig [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="72943b79a01324b1875811ff792bdad0" approved="yes">
+        <ns0:source>The remaining stock is now less than the specified minimum of</ns0:source>
+        <ns0:target state="final">Qolgan aksiya endi belgilangan minimaldan kam</ns0:target>
+        <ns0:note>File: mails/themes/classic/modules/ps_emailalerts/productoutofstock.html.twig [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="22609de33e6e9ee1be5b2bf9ae16514c" approved="yes">
+        <ns0:source>The stock cover is now less than the specified minimum of:</ns0:source>
+        <ns0:target state="final">Hozirgi kunda aktsiyaning qopqog'i belgilangan minimaldan kam:</ns0:target>
+        <ns0:note>File: mails/themes/classic/modules/ps_emailalerts/productcoverage.html.twig [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9300ac228fc7c8ec8d970d862d68432c" approved="yes">
+        <ns0:source>There are now less than [1]{last_qty}[/1] items in stock.</ns0:source>
+        <ns0:target state="final">Hozirda zaxiradagi [1] {oxirgi_qty} [/ 1] dan kamroq mavjud.</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/productoutofstock.html.twig [Line: 121]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="96c8c962f040049e80bccbea08e2d776" approved="yes">
+        <ns0:source>There is a problem with your payment for &lt;strong&gt;&lt;span&gt;{shop_name}&lt;/span&gt;&lt;/strong&gt; order with the reference &lt;strong&gt;&lt;span&gt;{order_name}&lt;/span&gt;&lt;/strong&gt;. Please contact us at your earliest convenience.</ns0:source>
+        <ns0:target state="final">&lt;Strong_name} uchun to'lovingiz bilan bog'liq muammo bor &lt;/ strone&gt; {Buycr_name} &lt;/ Span&gt; &lt;/ kuchli&gt;. </ns0:target>
+        <ns0:note>File: mails/themes/classic/core/payment_error.html.twig [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="632f6256903fd72ff83498831d2999b6" approved="yes">
+        <ns0:source>This is a [1]test e-mail[/1] from your shop.</ns0:source>
+        <ns0:target state="final">Bu sizning do'koningizdan [1] sinov elektron pochta [/ 1].</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/test.html.twig [Line: 15]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5bb0c38774ca650d9548d682e175dc75" approved="yes">
+        <ns0:source>This is to inform you about the creation of a voucher.</ns0:source>
+        <ns0:target state="final">Bu sizga vaucherni yaratish haqida xabar berish.</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/voucher_new.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5b736bebe50e10240ff58d486494dc7b" approved="yes">
+        <ns0:source>This item is once again in-stock.</ns0:source>
+        <ns0:target state="final">Ushbu mahsulot yana bir marta zaxira bo'ladi.</ns0:target>
+        <ns0:note>File: mails/themes/classic/modules/ps_emailalerts/customer_qty.html.twig [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="278b2a400e176e90d476fb69cb881f59" approved="yes">
+        <ns0:source>To confirm this action, please use the following link:</ns0:source>
+        <ns0:target state="final">Ushbu harakatni tasdiqlash uchun quyidagi havoladan foydalaning:</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/password_query.html.twig [Line: 31]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bb09440b8cab954c036c4a45558857a5" approved="yes">
+        <ns0:source>Total Tax paid</ns0:source>
+        <ns0:target state="final">To'lov to'langan umumiy soliq</ns0:target>
+        <ns0:note>File: mails/themes/classic/modules/ps_emailalerts/new_order.html.twig [Line: 180]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ea067eb37801c5aab1a1c685eb97d601" approved="yes">
+        <ns0:source>Total paid</ns0:source>
+        <ns0:target state="final">Jami to'langan</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/new_order.html.twig [Line: 214]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0eede552438475bdfe820c13f24c9399" approved="yes">
+        <ns0:source>Total price</ns0:source>
+        <ns0:target state="final">Umumiy narx</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/new_order.html.twig [Line: 179]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="dd099f9c8d04d30fa277471417a372be" approved="yes">
+        <ns0:source>Unfortunately, one or more items are currently out of stock and this may cause a slight delay for delivery. Please accept our apologies for this inconvenience and be sure we are doing our best to correct the situation.</ns0:source>
+        <ns0:target state="final">Afsuski, bir yoki bir nechta narsalar hozirda mavjud emas va bu etkazib berishni kechiktirishga olib kelishi mumkin. </ns0:target>
+        <ns0:note>File: mails/themes/modern/core/outofstock.html.twig [Line: 130]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5468cd18ba24d269db5ebe9177abca4a" approved="yes">
+        <ns0:source>Unfortunately, one or more items are currently out of stock. This may cause a slight delay in your delivery. Please accept our apologies and rest assured that we are working hard to rectify this.</ns0:source>
+        <ns0:target state="final">Afsuski, bir yoki bir nechta narsa hozirda mavjud emas. </ns0:target>
+        <ns0:note>File: mails/themes/classic/core/outofstock.html.twig [Line: 30]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6c957f72dc8cdacc75762f2cbdcdfaf2" approved="yes">
+        <ns0:source>Unit price</ns0:source>
+        <ns0:target state="final">Donasining narxi</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/new_order.html.twig [Line: 177]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="be686376cddb23d0227444ccc3c4b5b7" approved="yes">
+        <ns0:source>Voucher</ns0:source>
+        <ns0:target state="final">Vaucher</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/voucher.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3e943dfae35fac1a61b30da7f27f2204" approved="yes">
+        <ns0:source>Voucher code generated</ns0:source>
+        <ns0:target state="final">Voucher kodi yaratildi</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/voucher.html.twig [Line: 87]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="68b8413e263842c318e66fc6b29144da" approved="yes">
+        <ns0:source>Voucher code has been generated</ns0:source>
+        <ns0:target state="final">Voucher kodi yaratildi</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/voucher_new.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6edfaaf163aab585fb50f909e6f2cadf" approved="yes">
+        <ns0:source>Voucher created</ns0:source>
+        <ns0:target state="final">Vaucher yaratildi</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/voucher.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0b04d9ad5743989471141ab21edd64fd" approved="yes">
+        <ns0:source>Voucher new</ns0:source>
+        <ns0:target state="final">Vaucher yangi</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/voucher_new.html.twig [Line: 3]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d87f9ab0faa0b39a5240d1ce19529905" approved="yes">
+        <ns0:source>We are currently processing your &lt;strong&gt;&lt;span&gt;{shop_name}&lt;/span&gt;&lt;/strong&gt; order with the reference &lt;strong&gt;&lt;span&gt;{order_name}&lt;/span&gt;&lt;/strong&gt;.</ns0:source>
+        <ns0:target state="final">Hozirda biz sizning &lt;kuchli&gt; &lt;arran&gt; {do'koningiz&gt; &lt;/ stron&gt; {Buycr_name} buyrug'i &lt;/ Span&gt; &lt;/ kuchli&gt;.</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/preparation.html.twig [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="67b9a4d1678e24c00ddce83b7005b8a3" approved="yes">
+        <ns0:source>We are currently processing your order with the reference [1]{order_name}[/1] from [1]{shop_name}[/1].</ns0:source>
+        <ns0:target state="final">Biz hozirda [1] {1] {1] {Shop_name} dan [1] {1] {1] [/ 1] [/ 1] dan [1] {1] [/ 1] ma'lumotni ko'rib chiqayapmiz.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/preparation.html.twig [Line: 122]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0482c9e34db0bf16ec3a09c4dc7c3b0b" approved="yes">
+        <ns0:source>We are pleased to inform you that a voucher has been generated in your name for order with the reference [1]{order_name}[/1].</ns0:source>
+        <ns0:target state="final">Sizga shuni mamnuniyat bilan ma'lum qilamizki, siz nomingiz bilan ma'lumotnomada (1] {buyurtma_name} [/ 1] ko'rsatilgan.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/voucher.html.twig [Line: 122]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5f2142258e3f214d12efeb927f2a7aef" approved="yes">
+        <ns0:source>We cannot ship your order until we receive your payment.</ns0:source>
+        <ns0:target state="final">To'lovni qabul qilmagunimizcha biz buyurtmangizni etkazib bera olmaymiz.</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/payment_error.html.twig [Line: 30]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e1a66dba9aa7c8399229122ca7528b77" approved="yes">
+        <ns0:source>We have encountered an error while processing your payment for your order with the reference [1]{order_name}[/1] from [1]{shop_name}[/1]. Please contact us as soon as possible.</ns0:source>
+        <ns0:target state="final">Sizning buyurtmangiz uchun to'lovni amalga oshirishda xatolik yuz berdi [1] {2003] </ns0:target>
+        <ns0:note>File: mails/themes/modern/core/payment_error.html.twig [Line: 122]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4c15700279d273ce67d98810a4b87943" approved="yes">
+        <ns0:source>We have generated a credit slip in your name for order with the reference [1]{order_name}[/1].</ns0:source>
+        <ns0:target state="final">Biz ma'lumot berish uchun siz ismingizdagi kredit slipini yaratdik [1] {buyurtma_name} [/ 1]</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/credit_slip.html.twig [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b3e67c974cc0ca43712679a17bedf6db" approved="yes">
+        <ns0:source>We have processed your &lt;strong&gt;&lt;span&gt;{shop_name}&lt;/span&gt;&lt;/strong&gt; refund for order with the reference &lt;strong&gt;&lt;span&gt;{order_name}&lt;/span&gt;&lt;/strong&gt;.</ns0:source>
+        <ns0:target state="final">Biz sizning &lt;kuchli&gt; &lt;arran&gt; {stop_name} &lt;/ Span&gt; &lt;/ Span&gt; {Buycr_name} &lt;/ Span&gt; &lt;/ kuchli&gt;.</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/refund.html.twig [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6063c9fb7f9ad1d1a235c24bfcbf5522" approved="yes">
+        <ns0:source>We have processed your refund for your order with the reference [1]{order_name}[/1] from [1]{shop_name}[/1].</ns0:source>
+        <ns0:target state="final">Siz buyurtmangiz uchun to'lovni qaytarib berdik [1] {Buyc_name} [/ 1] [/ 1] [/ 1] dan [/ 1] [/ 1] dan [/ 1]</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/refund.html.twig [Line: 94]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="96aac675caae8b0ca0a5227ce8a6a7c6" approved="yes">
+        <ns0:source>We have updated the progress on your return #{id_order_return}, the new status is:</ns0:source>
+        <ns0:target state="final">Biz # {id_order_return} Qaytishda taraqqiyotni yangiladik, yangi holat:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/order_return_state.html.twig [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="76890cf906149b370ea6f7d1bd8eaf9a" approved="yes">
+        <ns0:source>We will answer as soon as possible.</ns0:source>
+        <ns0:target state="final">Biz imkon qadar tezroq javob beramiz.</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/contact_form.html.twig [Line: 41]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7897b8cbc40618fdd3c1ad502ba47faa" approved="yes">
+        <ns0:source>We will reply as soon as possible.</ns0:source>
+        <ns0:target state="final">Biz imkon qadar tezroq javob beramiz.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/contact_form.html.twig [Line: 138]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="16ce091d5fafd5b92941221eab85f3af" approved="yes">
+        <ns0:source>You can access the product page by clicking on the link:</ns0:source>
+        <ns0:target state="final">Siz havolani bosib, mahsulot sahifasiga kirishingiz mumkin:</ns0:target>
+        <ns0:note>File: mails/themes/classic/modules/ps_emailalerts/customer_qty.html.twig [Line: 30]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e58389ff0a43d3903d0276cc1e652352" approved="yes">
+        <ns0:source>You can access your customer account on our store:</ns0:source>
+        <ns0:target state="final">Sizning do'konimizda mijoz hisob qaydnomangizga kirishingiz mumkin:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/guest_to_customer.html.twig [Line: 161]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ad69fd3d0352d7e45ccca96a1048a747" approved="yes">
+        <ns0:source>You can check for it in the [1]Advanced Parameters &gt; Logs[/1] section of your back office.</ns0:source>
+        <ns0:target state="final">Siz uni [1] Kengaytirilgan parametrlar&gt; avtoulovingiz [/ 1] qismida tekshirishingiz mumkin.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/log_alert.html.twig [Line: 128]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b8dfec752b0cb58a3bc3c7479e4dd44c" approved="yes">
+        <ns0:source>You can expect delivery as soon as your payment is received.</ns0:source>
+        <ns0:target state="final">To'lov qabul qilinishi bilan siz etkazib berishni kutishingiz mumkin.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/payment_error.html.twig [Line: 124]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2ac0da0b931db51a873357eaf978c99e" approved="yes">
+        <ns0:source>You can now place orders on our store:</ns0:source>
+        <ns0:target state="final">Endi siz bizning do'konimizda buyurtmalar berishingiz mumkin:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/account.html.twig [Line: 251]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d5c8de069674d35946f2e88642635485" approved="yes">
+        <ns0:source>You can order it right now from our online shop.</ns0:source>
+        <ns0:target state="final">Siz hozirda onlayn do'konimizdan buyurtma berishingiz mumkin.</ns0:target>
+        <ns0:note>File: mails/themes/classic/modules/ps_emailalerts/customer_qty.html.twig [Line: 31]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="34f49f671cedfb2d5f8080ec14120281" approved="yes">
+        <ns0:source>You can track your package using the following link:</ns0:source>
+        <ns0:target state="final">Siz quyidagi havoladan foydalanib paketingizni kuzatishingiz mumkin:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/in_transit.html.twig [Line: 133]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8bbeb216836330d437043e36617d5325" approved="yes">
+        <ns0:source>You have [1]{nbProducts}[/1] product(s) now available for download using the following link(s):</ns0:source>
+        <ns0:target state="final">Sizda quyidagi havolani (lar) dan foydalanib yuklab olish mumkin:</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/download_product.html.twig [Line: 130]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0cce70a6fc36b8ed06d4a0241b36eecb" approved="yes">
+        <ns0:source>You have decided to pay by bank check.</ns0:source>
+        <ns0:target state="final">Bankni tekshirish orqali to'lashga qaror qildingiz.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/cheque.html.twig [Line: 200]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b59639f1f1bf84129e44b83fe192b10a" approved="yes">
+        <ns0:source>You have decided to pay by bank wire.</ns0:source>
+        <ns0:target state="final">Siz bank simlari tomonidan to'lashga qaror qildingiz.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/bankwire.html.twig [Line: 200]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="07e3b33fd6a9b33d3d9cacea26dc1899" approved="yes">
+        <ns0:source>You have received a new log alert</ns0:source>
+        <ns0:target state="final">Sizda yangi jurnal yoqilgan</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/log_alert.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="15c197c97ee33f7da7df21d315fb7f71" approved="yes">
+        <ns0:source>You have received a new message from [1]{shop_name}[/1] regarding order with the reference [1]{order_name}[/1].</ns0:source>
+        <ns0:target state="final">Siz [1] {1] {1. 1] dan yangi xabarni (1] {buyurtma_name} [/ 1] dan yangi xabar oldingiz.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/order_merchant_comment.html.twig [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1607c3534ee9bdb8638858fa4bb9261b" approved="yes">
+        <ns0:source>You have received a new message regarding order with the reference</ns0:source>
+        <ns0:target state="final">Siz ma'lumot bilan buyurtma bo'yicha yangi xabarni oldingiz</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/order_customer_comment.html.twig [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="71a5b9e9365900296d640e466fe6205d" approved="yes">
+        <ns0:source>You have received a new message.</ns0:source>
+        <ns0:target state="final">Siz yangi xabar oldingiz.</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/order_customer_comment.html.twig [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f285446f60a203b0f7c3ad0b14d13d29" approved="yes">
+        <ns0:source>You have received a new return request for {shop_name}.</ns0:source>
+        <ns0:target state="final">Siz {Damp_name uchun yangi qaytish so'rovini oldingiz.</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/return_slip.html.twig [Line: 30]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3516ed9d771d15439e2ac9d3bf81ad84" approved="yes">
+        <ns0:source>You have requested to reset your [1]{shop_name}[/1] login details.</ns0:source>
+        <ns0:target state="final">Siz [1] {do'koningiz / 1] Kirish ma'lumotlarini tiklashingizni so'radingiz.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/password_query.html.twig [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ecf01c46965fdfd36eb98b271276c0d5" approved="yes">
+        <ns0:source>You have selected to pay by check.</ns0:source>
+        <ns0:target state="final">Siz chek orqali to'lashni tanladingiz.</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/cheque.html.twig [Line: 50]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f4a6af01d092af11dca29cb89578b124" approved="yes">
+        <ns0:source>You have selected to pay by wire transfer.</ns0:source>
+        <ns0:target state="final">Siz sim transferi orqali to'lashni tanladingiz.</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/bankwire.html.twig [Line: 50]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9893de883531529d4a66a3851265f02e" approved="yes">
+        <ns0:source>Your customer account creation</ns0:source>
+        <ns0:target state="final">Sizning mijoz hisobingizni yaratish</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/guest_to_customer.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f4938f5d59c6c3adc14bf0cc30bc37f5" approved="yes">
+        <ns0:source>Your guest account for [1]{shop_name}[/1] has been transformed into a customer account.</ns0:source>
+        <ns0:target state="final">[1] {Dampon_Name} uchun sizning mehmon hisob qaydnomangiz [/ 1] mijozning hisob raqamiga aylantirildi.</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/guest_to_customer.html.twig [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="387c721c8acb98382f1d18feccf3dd55" approved="yes">
+        <ns0:source>Your guest account has been turned into a customer account</ns0:source>
+        <ns0:target state="final">Sizning mehmon hisob qaydnomangiz mijozning hisob raqamiga aylantirildi</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/guest_to_customer.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="edccc47e82abb1a733820982878c5fb0" approved="yes">
+        <ns0:source>Your login details on {shop_name}</ns0:source>
+        <ns0:target state="final">Kirish ma'lumotingiz {do'kon_name}</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/account.html.twig [Line: 95]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2498c963bfc06e8fca88007ec322b769" approved="yes">
+        <ns0:source>Your login email address on {shop_name}</ns0:source>
+        <ns0:target state="final">Kirish elektron pochta manzilingiz {do'kon_name}</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/account.html.twig [Line: 25]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="608a2464e2d26ee3b336400c920f87d0" approved="yes">
+        <ns0:source>Your message has been sent successfully, thank you for taking the time to write!</ns0:source>
+        <ns0:target state="final">Sizning xabaringiz muvaffaqiyatli yuborildi, yozishga vaqt ajratganingiz uchun rahmat!</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/contact_form.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e92ba0cecb0593f537515b2aa2d1c701" approved="yes">
+        <ns0:source>Your message has been sent successfully.</ns0:source>
+        <ns0:target state="final">Sizning xabaringiz muvaffaqiyatli yuborildi.</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/contact_form.html.twig [Line: 22]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1edbec13a38606f19c0bae544a7c6552" approved="yes">
+        <ns0:source>Your message to {shop_name} Customer Service</ns0:source>
+        <ns0:target state="final">Sizning xabaringiz {Dampon_name} Mijozlarga xizmat ko'rsatish</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/contact_form.html.twig [Line: 7]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="53423ed6d9f522de8d41539456628786" approved="yes">
+        <ns0:source>Your new {shop_name} login details</ns0:source>
+        <ns0:target state="final">Sizning yangi {do'koningiz_name} Kirish ma'lumotlari</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/password.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d0cc952b66ca292a2e4a1bc53453b287" approved="yes">
+        <ns0:source>Your order has been shipped</ns0:source>
+        <ns0:target state="final">Sizning buyurtmangiz jo'natildi</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/shipped.html.twig [Line: 8]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="059b64746023360b7ab478fd850ffeb3" approved="yes">
+        <ns0:source>Your order with the reference [1]{order_name}[/1] from [1]{shop_name}[/1] has been canceled by the merchant.</ns0:source>
+        <ns0:target state="final">Ma'lumotingiz [1] {1] {1] {Shop_name} [/ 1] dan [/ 1] dan [/ 1] savdogar tomonidan bekor qilindi.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/order_canceled.html.twig [Line: 122]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d9081e325264b44431f85a40bdca4985" approved="yes">
+        <ns0:source>Your order with the reference [1]{order_name}[/1] from [1]{shop_name}[/1] has been canceled.</ns0:source>
+        <ns0:target state="final">Ma'lumotingiz [1] {1] {1] {Shop_name} [/ 1] dan [/ 1] [/ 1] dan [/ 1] [/ 1] dan [/ 1] bekor qilindi.</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/order_canceled.html.twig [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="681a0aa2d158085f63f86c84900fa989" approved="yes">
+        <ns0:source>Your order with the reference [1]{order_name}[/1] from [1]{shop_name}[/1] has been changed by the merchant.</ns0:source>
+        <ns0:target state="final">Malumot bilan buyurtmangiz [1] {1] {1] {1] {Shop_name} [/ 1] dan [/ 1] savdogar tomonidan o'zgartirildi.</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/order_changed.html.twig [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="26b5ca3acdfdbd5fe92a5cb24dcc204e" approved="yes">
+        <ns0:source>Your order with the reference [1]{order_name}[/1] has been modified.</ns0:source>
+        <ns0:target state="final">Malumot bilan buyurtmangiz [1] {buyurtma_name} [/ 1] o'zgartirildi.</ns0:target>
+        <ns0:note>File: mails/themes/classic/modules/ps_emailalerts/order_changed.html.twig [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ed750ed3b775eb7ed37644ceb05c713b" approved="yes">
+        <ns0:source>Your order with the reference [1]{order_name}[/1] has been placed successfully and will be [1]shipped as soon as we receive your payment[/1].</ns0:source>
+        <ns0:target state="final">Ma'lumotingiz bilan buyurtmangiz [1] {Buyc_name} [/ 1] muvaffaqiyatli joylashtirildi va sizning to'lovingizni qabul qilganimizdanoq [1] etkazib beriladi [/ 1].</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/cheque.html.twig [Line: 30]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="97b07b4e5caa086464d9f38956718d2b" approved="yes">
+        <ns0:source>Your order with the reference [1]{order_name}[/1] has been placed successfully. You can expect [1]delivery as soon as your payment is received[/1].</ns0:source>
+        <ns0:target state="final">Malumot bilan buyurtmangiz [1] {buyurtma_name} [/ 1] muvaffaqiyatli joylashtirildi. </ns0:target>
+        <ns0:note>File: mails/themes/modern/core/cheque.html.twig [Line: 130]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="da825075a1643697f1540f1c946c01f1" approved="yes">
+        <ns0:source>Your order with the reference [1]{order_name}[/1] has been shipped.</ns0:source>
+        <ns0:target state="final">Malumot bilan buyurtmangiz [1] {buyurtma_name} [/ 1] jo'natildi.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/shipped.html.twig [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2fe643b2ef0a5fd0e912cd9a784510a7" approved="yes">
+        <ns0:source>Your order with the reference [1]{order_name}[/1] is currently in transit.</ns0:source>
+        <ns0:target state="final">Malumot bilan buyurtmangiz [1] {buyurtma_name} [/ 1] tranzitda.</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/in_transit.html.twig [Line: 54]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b395812bfd92c9b2c5cce4335dbdf404" approved="yes">
+        <ns0:source>Your order with the reference [1]{order_name}[/1] is on its way.</ns0:source>
+        <ns0:target state="final">Malumot bilan buyurtmangiz [1] {buyurtma_name} [/ 1] o'z yo'lida.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/in_transit.html.twig [Line: 128]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fa71c1a4010fb64e8968708b3f1e50ca" approved="yes">
+        <ns0:source>Your password has been correctly updated.</ns0:source>
+        <ns0:target state="final">Sizning parolingiz to'g'ri yangilandi.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/password.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2762264cddd3133c3486886e31681873" approved="yes">
+        <ns0:source>Your payment for order with the reference &lt;strong&gt;&lt;span&gt;{order_name}&lt;/span&gt;&lt;/strong&gt; was successfully processed.</ns0:source>
+        <ns0:target state="final">Sizning to'lovingiz uchun to'lovingiz &lt;stronan&gt; &lt;arran&gt; {Buyurtsion_name} &lt;/ Span&gt; &lt;/ kuchli&gt; muvaffaqiyatli ishlandi.</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/payment.html.twig [Line: 30]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3444682d2f753ddc0a602ea92891f3b1" approved="yes">
+        <ns0:source>Your payment for order with the reference [1]{order_name}[/1] was successfully processed.</ns0:source>
+        <ns0:target state="final">Ma'lumot uchun to'lovingiz [1] {buyurtma_name} [/ 1] muvaffaqiyatli ishlandi.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/payment.html.twig [Line: 122]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="906898f022140256a84c9429a3fcf4d8" approved="yes">
+        <ns0:source>Your stock cover is now less than the specified minimum of:</ns0:source>
+        <ns0:target state="final">Sizning aktsiyangizning muqovasi hozirda belgilangan minimaldan kam:</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/productcoverage.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4785f7efb27f2905a05564903db18b23" approved="yes">
+        <ns0:source>Your {shop_name} login information</ns0:source>
+        <ns0:target state="final">Sizning {do'koningiz_name} Kirish ma'lumotlari</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/employee_password.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5dc1b3e639ee30637424bd07af99154d" approved="yes">
+        <ns0:source>[1]VOUCHER CODE: {voucher_num}[/1] in the amount of [1]{voucher_amount}[/1]</ns0:source>
+        <ns0:target state="final">[1] vaucher kodi: {vaucher_num} [1] {vaucher_amount} miqdorida [/ 1] miqdorida [/ 1] miqdorida</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/voucher.html.twig [Line: 127]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f210a22fd1ec8eddd8236938d009f3a6" approved="yes">
+        <ns0:source>[1]Voucher code: {voucher_num}[/1] in the amount of [1]{voucher_amount}[/1]</ns0:source>
+        <ns0:target state="final">[1] vaucher kodi: {vaucher_num} [1] {vaucher_amount} miqdorida [/ 1] miqdorida [/ 1] miqdorida</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/voucher.html.twig [Line: 30]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3cfb2805cc4075e0a98e932afb94d132" approved="yes">
+        <ns0:source>[1]WARNING:[/1] you have received a new log alert in your back office.</ns0:source>
+        <ns0:target state="final">[1] Ogohlantirish: [/ 1] Siz o'zingizning orqa ofisingizda yangi jurnalni ogohlantirdingiz.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/log_alert.html.twig [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6c1d03a23b1b8a7eeec963fdfa8e95c5" approved="yes">
+        <ns0:source>[1]Warning:[/1] you have received a new log alert in your Back Office.</ns0:source>
+        <ns0:target state="final">[1]Warning:[/1] you have received a new log alert in your back office.</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/log_alert.html.twig [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2bf185aaec7301d0862e4d69fce26d60" approved="yes">
+        <ns0:source>[1]{employee}[/1] added [1]"{comment}"[/1]</ns0:source>
+        <ns0:target state="final">[1] {XIZMAT} [1] "{Sharh}" qo'shilgan [1] "[/ 1]</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/forward_msg.html.twig [Line: 31]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="638dae1199098a2faffc18b14086ecc5" approved="yes">
+        <ns0:source>[1]{employee}[/1] added [1]{comment}[/1]</ns0:source>
+        <ns0:target state="final">[1] {XAVFSIZLIK} [1] {Sharh} [/ 1]</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/forward_msg.html.twig [Line: 133]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5a02acdd25040de97181665e4e84caa4" approved="yes">
+        <ns0:source>[1]{employee}[/1] wanted to forward this discussion to you.</ns0:source>
+        <ns0:target state="final">[1] {XAVFSIZLIK} [/ 1] Siz bilan ushbu munozarani oldinga surmoqchi edi.</ns0:target>
+        <ns0:note>File: mails/themes/modern/core/forward_msg.html.twig [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1b0d1cd23421d9cea08507e950e87094" approved="yes">
+        <ns0:source>{followup}</ns0:source>
+        <ns0:target state="final">{kuzatish}</ns0:target>
+        <ns0:note>File: mails/themes/classic/core/in_transit.html.twig [Line: 55]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f2d476bf166cc31b450908f8606b0fd5" approved="yes">
+        <ns0:source>{order_name} Placed on {date}</ns0:source>
+        <ns0:target state="final">{order_name} placed on {date}</ns0:target>
+        <ns0:note>File: mails/themes/classic/modules/ps_emailalerts/return_slip.html.twig [Line: 28]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6983ddb3442f4ad4a3b94e94a1ebd3dc" approved="yes">
+        <ns0:source>{product} is almost out of stock.</ns0:source>
+        <ns0:target state="final">{Mahsulot} deyarli zaxiralardan tashqarida.</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/productoutofstock.html.twig [Line: 86]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="756a94b60256e8aacdf10706925eb01e" approved="yes">
+        <ns0:source>{product} is nearly out of stock.</ns0:source>
+        <ns0:target state="final">{Mahsulot} deyarli zaxirada emas.</ns0:target>
+        <ns0:note>File: mails/themes/classic/modules/ps_emailalerts/productoutofstock.html.twig [Line: 24]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9b096ae55ce4d2bb889392144c104069" approved="yes">
+        <ns0:source>{product} is now available.</ns0:source>
+        <ns0:target state="final">{Mahsulot} endi mavjud.</ns0:target>
+        <ns0:note>File: mails/themes/modern/modules/ps_emailalerts/customer_qty.html.twig [Line: 88]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

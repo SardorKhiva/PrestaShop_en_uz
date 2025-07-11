@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="modules/ps_googleanalytics/classes/Form/ConfigurationForm.php" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="c9cc8cce247e49bae79f15173ce97354" approved="yes">
+        <ns0:source>Save</ns0:source>
+        <ns0:target state="final">Tejash</ns0:target>
+        <ns0:note>Line: 184</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="630f6dc397fe74e52d5189e2c80f282b" approved="yes">
+        <ns0:source>Back to list</ns0:source>
+        <ns0:target state="final">Ro'yxatga qaytish</ns0:target>
+        <ns0:note>Line: 79</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f4f70727dc34561dfde1a3c529b6205c" approved="yes">
+        <ns0:source>Settings</ns0:source>
+        <ns0:target state="final">Sozlash</ns0:target>
+        <ns0:note>Line: 87</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="851bd83a102d143ee17d97f9e15e15af" approved="yes">
+        <ns0:source>Google Analytics Tracking ID</ns0:source>
+        <ns0:target state="final">Google Analytics Cracing ID</ns0:target>
+        <ns0:note>Line: 110</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ad8e83a47926dcb12e8a8fccd7fcf604" approved="yes">
+        <ns0:source>This information is available in your Google Analytics account</ns0:source>
+        <ns0:target state="final">Ushbu ma'lumot sizning Google Analytics hisob qaydnomangizda mavjud</ns0:target>
+        <ns0:note>Line: 96</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bcd08e73ca9d8bfed2cccd50dd6d8328" approved="yes">
+        <ns0:source>Enable User ID tracking</ns0:source>
+        <ns0:target state="final">Foydalanuvchi identifikatsiyasini kuzatish</ns0:target>
+        <ns0:note>Line: 118</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="93cba07454f06a4a960172bbd6e2a435" approved="yes">
+        <ns0:source>Yes</ns0:source>
+        <ns0:target state="final">Yes</ns0:target>
+        <ns0:note>Line: 197</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="bafd7322c6e97d25b6299b5d6fe8920b" approved="yes">
+        <ns0:source>No</ns0:source>
+        <ns0:target state="final">No</ns0:target>
+        <ns0:note>Line: 202</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="62d498990ba9938425763b6314b5c42a" approved="yes">
+        <ns0:source>Anonymize IP</ns0:source>
+        <ns0:target state="final">Anonim IP</ns0:target>
+        <ns0:note>Line: 135</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="86b9320b6ef4da2e8845a6e77e7341d3" approved="yes">
+        <ns0:source>Use this option to anonymize the visitor’s IP to comply with data privacy laws in some countries</ns0:source>
+        <ns0:target state="final">Ushbu parametrga ba'zi mamlakatlarda ma'lumotlarning maxfiylik to'g'risidagi qonunlariga rioya qilish uchun ushbu parametrni Anonimlashtirish uchun foydalaning</ns0:target>
+        <ns0:note>Line: 137</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="86b29d17f0ac2035844b54408374ea0f" approved="yes">
+        <ns0:source>Enable Back Office Tracking</ns0:source>
+        <ns0:target state="final">Orqa ofisni kuzatishni yoqing</ns0:target>
+        <ns0:note>Line: 153</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0767b68fe502b38f6ea34a0611925473" approved="yes">
+        <ns0:source>Use this option to enable the tracking inside the Back Office</ns0:source>
+        <ns0:target state="final">Orqa ofis ichidagi kuzatuvni yoqish uchun ushbu parametrdan foydalaning</ns0:target>
+        <ns0:note>Line: 155</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a0f9627ee971a4d097497fe5d3884b17" approved="yes">
+        <ns0:source>Cancelled order states</ns0:source>
+        <ns0:target state="final">Canceled order states</ns0:target>
+        <ns0:note>Line: 152</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fb7d332b4d1e2221b42bf2b48a31b88f" approved="yes">
+        <ns0:source>Choose order states, in which you consider the given order cancelled. This will be usually only the default "Cancelled" state, but some shops may have extra states like "Returned" etc.</ns0:source>
+        <ns0:target state="final">Choose order states, in which you consider the given order canceled. This will usually be the default "Canceled" state, but some stores may have extra states like "Returned" etc.ShopsShopsShops</ns0:target>
+        <ns0:note>Line: 154</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="eaa289807715dff623c794d83941f3ab" approved="yes">
+        <ns0:source>Enable Cross-Domain tracking</ns0:source>
+        <ns0:target state="final">Uydagi domenlarni kuzatishni yoqish</ns0:target>
+        <ns0:note>Line: 191</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="612e1a524ec979815b12182c34e2daa0" approved="yes">
+        <ns0:source>Account ID updated successfully</ns0:source>
+        <ns0:target state="final">Hisob raqami muvaffaqiyatli yangilandi</ns0:target>
+        <ns0:note>Line: 218</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8e7b67b44506b7ac6685da041a603044" approved="yes">
+        <ns0:source>Settings for User ID updated successfully</ns0:source>
+        <ns0:target state="final">Foydalanuvchi identifikatori muvaffaqiyatli yangilandi</ns0:target>
+        <ns0:note>Line: 228</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="20d72bc5caef85d03b256e2abbd80da2" approved="yes">
+        <ns0:source>Settings for Anonymize IP updated successfully</ns0:source>
+        <ns0:target state="final">Anonimlashtirish uchun OP muvaffaqiyatli yangilandi</ns0:target>
+        <ns0:note>Line: 233</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d295a2a7d9152c4f215e5e7e43302bf0" approved="yes">
+        <ns0:source>Settings for Enable Back Office tracking updated successfully</ns0:source>
+        <ns0:target state="final">Settings for Enable Back Office tracking updated successfully.</ns0:target>
+        <ns0:note>Line: 238</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f22a35f44579d0c12f0f77294acdc6e5" approved="yes">
+        <ns0:source>Settings for cancelled order states updated successfully</ns0:source>
+        <ns0:target state="final">Settings for canceled order states updated successfully.</ns0:target>
+        <ns0:note>Line: 246</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0824d52b9e53469ffa87f750985865c9" approved="yes">
+        <ns0:source>Enable Google Analytics 4</ns0:source>
+        <ns0:target state="final">Google Analytics 4-ni yoqing</ns0:target>
+        <ns0:note>Line: 92</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7ee627bcd418e930590c089afc728e20" approved="yes">
+        <ns0:source>Universal analytics will stop processing data on July 1, 2023. We recommend switching to Google Analytics 4 as soon as possible.</ns0:source>
+        <ns0:target state="final">Universal tahlillar 1-iyulda ma'lumotlarni qayta ishlashni to'xtatadi. Biz imkon qadar tezroq Google Analytics 4-ga o'tishni tavsiya etamiz.</ns0:target>
+        <ns0:note>Line: 106</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2138c6ed9fecaae8691666044bb421d0" approved="yes">
+        <ns0:source>This information is available in your Google Analytics account. GA4 tracking ID starts with "G-", Universal Analytics with "UA-".</ns0:source>
+        <ns0:target state="final">Ushbu ma'lumot sizning Google Analytics hisob qaydnomangizda mavjud. </ns0:target>
+        <ns0:note>Line: 114</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="233b2b197d921eebd8c0f45e4354fea7" approved="yes">
+        <ns0:source>Canceled order states</ns0:source>
+        <ns0:target state="final">Bekor qilingan buyurtma holatlari</ns0:target>
+        <ns0:note>Line: 171</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a84c67e52c5b1e19356369baae77d859" approved="yes">
+        <ns0:source>Choose order states in which you consider the given order canceled. This will usually be the default "Canceled" state, but some stores may have extra states like "Returned", etc.</ns0:source>
+        <ns0:target state="final">Ushbu tartibni bekor qilayotganingizni hisobga olgan holda buyurtmalaringizni tanlang. </ns0:target>
+        <ns0:note>Line: 173</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8dd2f915acf4ec98006d11c9a4b0945b" approved="yes">
+        <ns0:source>Settings updated successfully.</ns0:source>
+        <ns0:target state="final">Sozlamalar muvaffaqiyatli yangilandi.</ns0:target>
+        <ns0:note>Line: 269</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+  <ns0:file original="modules/ps_googleanalytics/ps_googleanalytics.php" source-language="en" target-language="en" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="d86cf69a8b82547a94ca3f6a307cf9a6" approved="yes">
+        <ns0:source>Google Analytics</ns0:source>
+        <ns0:target state="final">Google Analytics</ns0:target>
+        <ns0:note>Line: 65</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="135d2522825fa02688ab25a2e1c88c73" approved="yes">
+        <ns0:source>Gain clear insights into important metrics about your customers, using Google Analytics</ns0:source>
+        <ns0:target state="final">Google Analytics-dan foydalanib, mijozlaringiz haqida muhim metrik ma'lumotlarni olish</ns0:target>
+        <ns0:note>Line: 66</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7ed5c154078e30b30b2f214299c5e9f5" approved="yes">
+        <ns0:source>Are you sure you want to uninstall Google Analytics? You will lose all the data related to this module.</ns0:source>
+        <ns0:target state="final">Haqiqatan ham Google Analytics olib tashlashni xohlaysizmi? </ns0:target>
+        <ns0:note>Line: 67</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+  <ns0:file original="modules/ps_googleanalytics/views/templates/admin/configuration.tpl" source-language="en" target-language="en" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="deb905422d07a5bb74cb3178df580e81" approved="yes">
+        <ns0:source>Your customers go everywhere; shouldn't your analytics.</ns0:source>
+        <ns0:target state="final">Sizning mijozlaringiz hamma joyda boradilar; </ns0:target>
+        <ns0:note>Line: 28</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7063e771c3bb338ba74ac4e4716dbae1" approved="yes">
+        <ns0:source>Google Analytics shows you the full customer picture across ads and videos, websites and social tools, tables and smartphones. That makes it easier to serve your current customers and win new ones.</ns0:source>
+        <ns0:target state="final">Google Analytics sizga reklama va veb-saytlar va ijtimoiy vositalar, jadvallar va smartfonlar bo'yicha to'liq mijozlar rasmini ko'rsatadi. </ns0:target>
+        <ns0:note>Line: 29</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="df15c5cf264eb769b087f9d81aff029f" approved="yes">
+        <ns0:source>With ecommerce functionality in Google Analytics you can gain clear insight into important metrics about shopper behavior and conversion, including:</ns0:source>
+        <ns0:target state="final">Google Analytics-dagi ekstomeratsiya yordamida siz do'konchining xatti-harakati va konversiya haqida muhim metrik ma'lumotlarga ega bo'lishingiz mumkin, shu jumladan:</ns0:target>
+        <ns0:note>Line: 30</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="613c191b4a1f82a454b72a840d96eefd" approved="yes">
+        <ns0:source>Product detail views</ns0:source>
+        <ns0:target state="final">Mahsulot tafsilotlari Ko'rishlar</ns0:target>
+        <ns0:note>Line: 32</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d88b192dfe623e2a628a919b99fc1a4b" approved="yes">
+        <ns0:source>Internal merchandising Success</ns0:source>
+        <ns0:target state="final">Ichki materiallar muvaffaqiyat</ns0:target>
+        <ns0:note>Line: 33</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ade6a18bb6c147db87bc9463240e455a" approved="yes">
+        <ns0:source>"Add to cart" actions</ns0:source>
+        <ns0:target state="final">"Savatga qo'shing" harakatlar</ns0:target>
+        <ns0:note>Line: 34</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c975b6b93d71b19da73114c4adcedbda" approved="yes">
+        <ns0:source>The checkout process</ns0:source>
+        <ns0:target state="final">To'lov jarayoni</ns0:target>
+        <ns0:note>Line: 35</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="33f50b54625790316b86485ff3e794c4" approved="yes">
+        <ns0:source>Internal campaign clicks</ns0:source>
+        <ns0:target state="final">Ichki kampaniyalar</ns0:target>
+        <ns0:note>Line: 36</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="89c48ff165eedcc3cd1bd0007115669d" approved="yes">
+        <ns0:source>And purchase</ns0:source>
+        <ns0:target state="final">Va sotib olish</ns0:target>
+        <ns0:note>Line: 37</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4632d86a96205013262bcfdd0279b39f" approved="yes">
+        <ns0:source>Merchants are able to understand how far along users get in the buying process and where they are dropping off.</ns0:source>
+        <ns0:target state="final">Savdogarlar xaridor sotib olish jarayoniga qancha masofada chiqishlarini va ular qayerdan tushayotganini tushunishga qodir.</ns0:target>
+        <ns0:note>Line: 45</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="16fafb5cce24f766bf2c8fcebecf76fc" approved="yes">
+        <ns0:source>Create your account to get started.</ns0:source>
+        <ns0:target state="final">Ishni boshlash uchun hisobingizni yarating.</ns0:target>
+        <ns0:note>Line: 54</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f847da4909da9863545a910cdcf16d4b" approved="yes">
+        <ns0:source>Create your account to get started</ns0:source>
+        <ns0:target state="final">Ishni boshlash uchun hisobingizni yarating</ns0:target>
+        <ns0:note>Line: 40</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

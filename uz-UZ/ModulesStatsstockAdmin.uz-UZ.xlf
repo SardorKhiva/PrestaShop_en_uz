@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Statsstock.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="96ca47f429c269b85e31be9fb17df6d4" approved="yes">
+        <ns0:source>Available quantities</ns0:source>
+        <ns0:target state="final">Mavjud miqdor</ns0:target>
+        <ns0:note>File: modules/statsstock/statsstock.php [Line: 44]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="90a2eb47dc36c8a2cf034f24454cd87a" approved="yes">
+        <ns0:source>Enrich your stats, add a tab showing the available quantities of products left for sale.</ns0:source>
+        <ns0:target state="final">Statistikangizni boyiting, sotuvga qoldirilgan mavjud mahsulotlarning mavjud miqdorlarini ko'rsatadigan tab qo'shing.</ns0:target>
+        <ns0:note>File: modules/statsstock/statsstock.php [Line: 45]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c49b42f642c62f20a3640f20ca132840" approved="yes">
+        <ns0:source>Evaluation of available quantities for sale</ns0:source>
+        <ns0:target state="final">Savdo uchun mavjud miqdorlarni baholash</ns0:target>
+        <ns0:note>File: modules/statsstock/statsstock.php [Line: 91]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="88940d60e75cf4ff38ce27db4efc83b2" approved="yes">
+        <ns0:source>Price*</ns0:source>
+        <ns0:target state="final">Narx *</ns0:target>
+        <ns0:note>File: modules/statsstock/statsstock.php [Line: 124]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="12d3c7a4296542c62474856ec452c045" approved="yes">
+        <ns0:source>Ref.</ns0:source>
+        <ns0:target state="final">Ref.</ns0:target>
+        <ns0:note>File: modules/statsstock/statsstock.php [Line: 121]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a9873f90f06f9e2cfa3d048298ecca8c" approved="yes">
+        <ns0:source>This section corresponds to the default wholesale price according to the default supplier for the product. An average price is used when the product has attributes.</ns0:source>
+        <ns0:target state="final">Ushbu bo'limda standart etkazib beruvchiga muvofiq mahsulot uchun standart etkazib beruvchiga muvofiq mos keladi. </ns0:target>
+        <ns0:note>File: modules/statsstock/statsstock.php [Line: 167]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="347cbf03d737b02a70a96ff204c22fbc" approved="yes">
+        <ns0:source>Total quantities</ns0:source>
+        <ns0:target state="final">Umumiy miqdorlar</ns0:target>
+        <ns0:note>File: modules/statsstock/statsstock.php [Line: 151]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="62668f75fc6977f3d09df632d1585d07" approved="yes">
+        <ns0:source>Total value</ns0:source>
+        <ns0:target state="final">Umumiy qiymat</ns0:target>
+        <ns0:note>File: modules/statsstock/statsstock.php [Line: 153]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1b2379801de373b6b563c347014fb34b" approved="yes">
+        <ns0:source>Your catalog is empty.</ns0:source>
+        <ns0:target state="final">Sizning katalogingiz bo'sh.</ns0:target>
+        <ns0:note>File: modules/statsstock/statsstock.php [Line: 113]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

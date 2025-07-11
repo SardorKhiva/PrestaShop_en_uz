@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Statspersonalinfos.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="6e69fbf88d84db874f365542b0284a95" approved="yes">
+        <ns0:source>0-18</ns0:source>
+        <ns0:target state="final">0-18</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 258]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b20e0ed6158978a3a23d092060b5dbab" approved="yes">
+        <ns0:source>18-24</ns0:source>
+        <ns0:target state="final">18-24</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 272]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e5884ca49180d38295ee426c624d936c" approved="yes">
+        <ns0:source>25-34</ns0:source>
+        <ns0:target state="final">25-34</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 286]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="62ce9f61153b331eabe9efc2fc7eb5c2" approved="yes">
+        <ns0:source>35-49</ns0:source>
+        <ns0:target state="final">35-49</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 300]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a7724f78dcdf2179c5ca651d15ed5b2c" approved="yes">
+        <ns0:source>50-59</ns0:source>
+        <ns0:target state="final">50-59</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 314]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6a239f88f1aeb0561e7786b6120d1d5e" approved="yes">
+        <ns0:source>60+</ns0:source>
+        <ns0:target state="final">60+</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 327]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4d79e3d0b4d09b2f42d0831193cea200" approved="yes">
+        <ns0:source>Age range</ns0:source>
+        <ns0:target state="final">Yosh darajasi</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 246]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="08a12630390dc8ddd4c9fdcd9060dce6" approved="yes">
+        <ns0:source>Age ranges allow you to better understand target demographics.</ns0:source>
+        <ns0:target state="final">Yoshi bo'yicha yoshlarning asosiy demografikasini yaxshiroq tushunishga imkon beradi.</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 140]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="998e4c5c80f27dec552e99dfed34889a" approved="yes">
+        <ns0:source>CSV Export</ns0:source>
+        <ns0:target state="final">CSV eksport qilish</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 194]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="428dc481e13dad2818d8088da7362dd2" approved="yes">
+        <ns0:source>Contacting a group of clients by email or newsletter.</ns0:source>
+        <ns0:target state="final">Elektron pochta yoki axborot byulleteni tomonidan bir guruh mijozlar bilan bog'lanish.</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 78]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="73b0130037e21b76351aebfd29d0b9aa" approved="yes">
+        <ns0:source>Country distribution</ns0:source>
+        <ns0:target state="final">Mamlakat tarqatish</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 344]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="db9750afee08c6e88c91fbe1b3404ba6" approved="yes">
+        <ns0:source>Country distribution allows you to analyze which part of the World your customers are shopping from.</ns0:source>
+        <ns0:target state="final">Mamlakatingizni tarqatish sizga dunyoning qaysi qismini tahlil qilishga imkon beradi.</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 157]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="28e81c8343702f6c813cc31a7f90616a" approved="yes">
+        <ns0:source>Currency distribution</ns0:source>
+        <ns0:target state="final">Valyuta tarqatish</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 361]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e0fcbbd416a4872ec8f91fefa823debe" approved="yes">
+        <ns0:source>Currency range allows you to determine which currency your customers are using.</ns0:source>
+        <ns0:target state="final">Valyuta diapazoni mijozlaringizdan qaysi valyutani ishlatishga imkon beradi.</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 174]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="daa0ad6a8b07a64f18b26e0f5e1255bd" approved="yes">
+        <ns0:source>Defining your target audience is essential when choosing the right tools to win them over.</ns0:source>
+        <ns0:target state="final">Maqsadli auditoriyangizni aniqlash, ularni g'alaba qozonish uchun to'g'ri vositalarni tanlashda juda muhimdir.</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 68]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="22d21ea28d12643341e353ef2abfa988" approved="yes">
+        <ns0:source>Enrich your stats, add information about your registered customers and learn more about them!</ns0:source>
+        <ns0:target state="final">Statistikangizni boyiting, ro'yxatdan o'tgan mijozlaringiz haqida ma'lumot qo'shing va ular haqida ko'proq ma'lumot oling!</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 47]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8dc514f6da8c696c4a522efc145ad28a" approved="yes">
+        <ns0:source>Gender distribution</ns0:source>
+        <ns0:target state="final">Gender taqsimoti</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 215]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="12344d957b4aee1e2c322549ddc9741f" approved="yes">
+        <ns0:source>Gender distribution allows you to determine the percentage of men and women shoppers on your store.</ns0:source>
+        <ns0:target state="final">Gender tarqatish sizga do'koningizdagi erkaklar va ayollar do'konlarining foizini aniqlash imkonini beradi.</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 123]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="74036f0101d2f3f9b082b8de981c18dc" approved="yes">
+        <ns0:source>In order for each message to have an impact, you need to know who it is being addressed to. </ns0:source>
+        <ns0:target state="final">Har bir xabar ta'sir ko'rsatishi uchun siz kimga yuborilganligini bilishingiz kerak.</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 66]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8044a3d0d61282c4c425cd0da5432f11" approved="yes">
+        <ns0:source>It is best to limit an action to a group -- or to groups -- of clients.</ns0:source>
+        <ns0:target state="final">Guruhga yoki mijozlar bilan harakatni cheklash yaxshidir.</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 70]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f1dd68fb6a00d3e4d7f751deacde995d" approved="yes">
+        <ns0:source>Language distribution</ns0:source>
+        <ns0:target state="final">Tilni taqsimlash</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 377]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="94d50571d0f2e98276cfbe2f3de41b20" approved="yes">
+        <ns0:source>Language distribution allows you to analyze the browsing language used by your customers.</ns0:source>
+        <ns0:target state="final">Tilni taqsimlash sizga mijozlar tomonidan ishlatiladigan ko'rib chiqish tilini tahlil qilishga imkon beradi.</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 191]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2f619981f1abd95da0907766cc409be9" approved="yes">
+        <ns0:source>Launching targeted advertisement campaigns.</ns0:source>
+        <ns0:target state="final">Maqsadli reklama kampaniyalarini ishga tushirish.</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 77]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9fde3510abe63111086fd4288a19e1be" approved="yes">
+        <ns0:source>No customers have registered yet.</ns0:source>
+        <ns0:target state="final">Hozirda hech qanday mijozlar ro'yxatga olinmagan.</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 200]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1b94af23fd8ea879910a6307460ebba4" approved="yes">
+        <ns0:source>Registered customer information</ns0:source>
+        <ns0:target state="final">Ro'yxatdan o'tgan mijozlar haqida ma'lumot</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 46]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="05f074d112460c990203ff2f17a7d46d" approved="yes">
+        <ns0:source>Storing registered customer information allows you to accurately define customer profiles so you can adapt your special deals and promotions.</ns0:source>
+        <ns0:target state="final">Ro'yxatdan o'tgan mijozlar ma'lumotlarini saqlash Maxsus bitimlar va aktsiyalaringizni moslashtirishingiz uchun mijozlar profilini aniq belgilash imkonini beradi.</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 72]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3ca26e413e485538a7f3e610c0324636" approved="yes">
+        <ns0:source>Target your audience</ns0:source>
+        <ns0:target state="final">Tinglovchilarni nishonga oling</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 64]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9dc739320e2523183e8b31f395e1e489" approved="yes">
+        <ns0:source>You can increase your sales by:</ns0:source>
+        <ns0:target state="final">Siz sotishni ko'paytirishingiz mumkin:</ns0:target>
+        <ns0:note>File: modules/statspersonalinfos/statspersonalinfos.php [Line: 75]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

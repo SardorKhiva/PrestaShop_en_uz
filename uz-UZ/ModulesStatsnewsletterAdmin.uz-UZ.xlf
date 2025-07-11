@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Statsnewsletter.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="64342cd480b27dfeefb08bace6e82fdc" approved="yes">
+        <ns0:source>Both:</ns0:source>
+        <ns0:target state="final">Ikkalasi ham:</ns0:target>
+        <ns0:note>File: modules/statsnewsletter/statsnewsletter.php [Line: 86]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="998e4c5c80f27dec552e99dfed34889a" approved="yes">
+        <ns0:source>CSV Export</ns0:source>
+        <ns0:target state="final">CSV eksport qilish</ns0:target>
+        <ns0:note>File: modules/statsnewsletter/statsnewsletter.php [Line: 90]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="61a898af87607e3f4d41c3613d8761c7" approved="yes">
+        <ns0:source>Customer registrations:</ns0:source>
+        <ns0:target state="final">Mijozlarni ro'yxatdan o'tkazish:</ns0:target>
+        <ns0:note>File: modules/statsnewsletter/statsnewsletter.php [Line: 84]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e4a878baf1fa9c172209ad7face7b695" approved="yes">
+        <ns0:source>Enrich your stats, display a graph showing newsletter registrations.</ns0:source>
+        <ns0:target state="final">Statistikangizni boyitib, axborot byulletenlarini ko'rsatadigan grafikani namoyish eting.</ns0:target>
+        <ns0:note>File: modules/statsnewsletter/statsnewsletter.php [Line: 57]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cf74c2815ab62be1efa55a4a5d3f46a4" approved="yes">
+        <ns0:source>Newsletter statistics</ns0:source>
+        <ns0:target state="final">Yangiliklar statistikasi</ns0:target>
+        <ns0:note>File: modules/statsnewsletter/statsnewsletter.php [Line: 122]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b1e8ef173f53bc64af2600fdb6247ffd" approved="yes">
+        <ns0:source>The %s module must be installed.</ns0:source>
+        <ns0:target state="final">% S modul o'rnatilishi kerak.</ns0:target>
+        <ns0:note>File: modules/statsnewsletter/statsnewsletter.php [Line: 96]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7fe462207f98012d9ff00cf0e6633c94" approved="yes">
+        <ns0:source>Visitor registrations: </ns0:source>
+        <ns0:target state="final">Mehmonlarni ro'yxatga olish:</ns0:target>
+        <ns0:note>File: modules/statsnewsletter/statsnewsletter.php [Line: 85]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

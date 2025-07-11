@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Admin.Stats.Help.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="ae77fb0c47ab2d94996be0c6c78b1951" approved="yes">
+        <ns0:source>%value% of your products are disabled and not visible to your customers</ns0:source>
+        <ns0:target state="final">% Mahsulotlaringizning% qiymatlari o'chirilgan va mijozlaringizga ko'rinmaydi</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStatsController.php [Line: 689]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9d6effc7093fb65fd4d16a6d3c38d54f" approved="yes">
+        <ns0:source>%value% of your products for sale are out of stock.</ns0:source>
+        <ns0:target state="final">Mahsulotlaringizning% qiymati sotiladi.</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStatsController.php [Line: 655]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="599abbd2bcf079c9963669b35d9dfdd0" approved="yes">
+        <ns0:source>Gross margin expressed in percentage assesses how cost-effectively you sell your goods. Out of $100, you will retain $%value% to cover profit and expenses.</ns0:source>
+        <ns0:target state="final">O'zingizning mahsulotingizni qanday baholaysiz foizda o'zingizning narxingizni qanday sotasiz deb baholadi. </ns0:target>
+        <ns0:note>File: controllers/admin/AdminStatsController.php [Line: 667]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="091c657283a379962fa01591dea197df" approved="yes">
+        <ns0:source>Within your catalog, %value% of your products have had sales in the last 30 days</ns0:source>
+        <ns0:target state="final">Sizning katalogingizda, sizning mahsulotingizning% qiymati so'nggi 30 kun ichida sotilgan</ns0:target>
+        <ns0:note>File: controllers/admin/AdminStatsController.php [Line: 701]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

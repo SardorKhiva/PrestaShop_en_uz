@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Statsproduct.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="6e13e61b8535a66feb27d285f5c42855" approved="yes">
+        <ns0:source>After choosing a category and selecting a product, informational graphs will appear.</ns0:source>
+        <ns0:target state="final">Kategoriya va mahsulotni tanlashdan keyin ma'lumot grafikasi paydo bo'ladi.</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 180]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c90b9dca2d3f5bb6e0d0bdceac8a631d" approved="yes">
+        <ns0:source>Attribute sales distribution</ns0:source>
+        <ns0:target state="final">Sotishni taqsimlash</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 231]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="998e4c5c80f27dec552e99dfed34889a" approved="yes">
+        <ns0:source>CSV Export</ns0:source>
+        <ns0:target state="final">CSV eksport qilish</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 368]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0173374ac20f5843d58b553d5b226ef6" approved="yes">
+        <ns0:source>Choose a category</ns0:source>
+        <ns0:target state="final">Kategoriya tanlang</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 322]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="818f7defe18dbc97da82d054831df2ad" approved="yes">
+        <ns0:source>Click on a product to access its statistics!</ns0:source>
+        <ns0:target state="final">Uning statistikasiga kirish uchun mahsulotni bosing!</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 321]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d311128c6b9f34f85e6b0e29bcbcd165" approved="yes">
+        <ns0:source>Conversion rate</ns0:source>
+        <ns0:target state="final">Konversiya stavkasi</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 221]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="87017c9259838bb0918a2ab4f96016c0" approved="yes">
+        <ns0:source>Cross selling</ns0:source>
+        <ns0:target state="final">Xoch sotish</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 283]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3ec365dd533ddb7ef3d1c111186ce872" approved="yes">
+        <ns0:source>Details</ns0:source>
+        <ns0:target state="final">Tafsilotlar</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 206]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="89b71e1d3b7597d4f99a9e33b0cc5581" approved="yes">
+        <ns0:source>Enrich your stats, add detailed statistics for each product of your catalog.</ns0:source>
+        <ns0:target state="final">Statistikangizni boyiting, katalogingizdagi har bir mahsulot uchun batafsil statistika qo'shing.</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 48]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6734b1d16e064d64d9ea4affaed74cc7" approved="yes">
+        <ns0:source>If you notice that a product is often purchased but viewed infrequently, you should display it more prominently in your Front Office.</ns0:source>
+        <ns0:target state="final">Agar mahsulot ko'pincha sotib olinishini va kamdan-kam hollarda ko'rib chiqilishini sezsangiz, uni sizning old ofisingizda yanada aniqroq namoyish qilishingiz kerak.</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 182]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f083d0403991f2b0ae72ea8782518f36" approved="yes">
+        <ns0:source>Number of purchases compared to number of views</ns0:source>
+        <ns0:target state="final">Ko'rishlar soniga nisbatan xaridlar soni</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 179]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fd3dd734ca8b2bb1afcd70466d553498" approved="yes">
+        <ns0:source>On the other hand, if a product has many views but is not often purchased, we advise you to check or modify this product's information, description and photography again, see if you can find something better.</ns0:source>
+        <ns0:target state="final">Boshqa tomondan, agar mahsulot juda ko'p fikrlarga ega bo'lsa, lekin ko'pincha sotib olinmasa, biz ushbu mahsulotning ma'lumotlarini, tavsifini va fotografiyasini qayta tekshirishni yoki o'zgartirishni buyuramiz, shuni yaxshiroq narsani topishingiz mumkinligini ko'ring.</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 183]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e22269bb51f9f2394e148716babbafbb" approved="yes">
+        <ns0:source>Popularity</ns0:source>
+        <ns0:target state="final">Mashhurlik</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 386]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="78e454064a7d3a7755a011a3b79f31a7" approved="yes">
+        <ns0:source>Product details</ns0:source>
+        <ns0:target state="final">Mahsulot tafsilotlari</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 47]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6ccf03bc05e4b749b74b5d577c7e7d3a" approved="yes">
+        <ns0:source>Products available</ns0:source>
+        <ns0:target state="final">Mavjud mahsulotlar</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 336]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="155d5c362e6887660600763fc0d55f02" approved="yes">
+        <ns0:source>Sales (tax excluded)</ns0:source>
+        <ns0:target state="final">Sotish (soliq bundan mustasno)</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 219]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="27ce7f8b5623b2e2df568d64cf051607" approved="yes">
+        <ns0:source>Stock</ns0:source>
+        <ns0:target state="final">Zaxira</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 427]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c13329e42ec01a10f84c0f950274b404" approved="yes">
+        <ns0:source>Total Viewed</ns0:source>
+        <ns0:target state="final">Jami ko'rib chiqilgan</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 220]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="290b169159edc205e3a46902d4554d52" approved="yes">
+        <ns0:source>Total bought</ns0:source>
+        <ns0:target state="final">Umumiy sotib olingan</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 218]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5e9613e58f3bdbc89b1fef07274c0877" approved="yes">
+        <ns0:source>Visits (x100)</ns0:source>
+        <ns0:target state="final">Tashriflar (X100)</ns0:target>
+        <ns0:note>File: modules/statsproduct/statsproduct.php [Line: 388]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

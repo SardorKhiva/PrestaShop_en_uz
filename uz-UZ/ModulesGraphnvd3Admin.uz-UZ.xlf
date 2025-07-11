@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Graphnvd3.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="37398dbb8ad78a10d010a81bd15c73d8" approved="yes">
+        <ns0:source>Enable the NVD3 charting code for your own uses, providing you with ever so useful graphs.</ns0:source>
+        <ns0:target state="final">NVD3 jadvalini har doim foydali grafikalar bilan ta'minlash uchun o'zingizdan foydalanishingiz uchun yoqing.</ns0:target>
+        <ns0:note>File: modules/graphnvd3/graphnvd3.php [Line: 55]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a9f70dff230e6fc8e878043486e6cddf" approved="yes">
+        <ns0:source>NVD3 Charts</ns0:source>
+        <ns0:target state="final">Nvd3 jadvallari</ns0:target>
+        <ns0:note>File: modules/graphnvd3/graphnvd3.php [Line: 54]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

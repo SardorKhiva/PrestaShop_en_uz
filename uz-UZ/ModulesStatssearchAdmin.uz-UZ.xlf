@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Statssearch.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="998e4c5c80f27dec552e99dfed34889a" approved="yes">
+        <ns0:source>CSV Export</ns0:source>
+        <ns0:target state="final">CSV eksport qilish</ns0:target>
+        <ns0:note>File: modules/statssearch/statssearch.php [Line: 137]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="710af2afb2786d5f79b2c9bd8a746b8b" approved="yes">
+        <ns0:source>Cannot find any keywords that have been searched for more than once.</ns0:source>
+        <ns0:target state="final">Bir necha marta qidirilgan biron bir kalit so'zlarni topib bo'lmadi.</ns0:target>
+        <ns0:note>File: modules/statssearch/statssearch.php [Line: 140]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="2c5ae599abe1d523b46b791c955a9888" approved="yes">
+        <ns0:source>Enrich your stats, add a tab showing what keywords have been searched by your visitors.</ns0:source>
+        <ns0:target state="final">Statistikangizni boyiting, tashrif buyuruvchilaringizning kalit so'zlarini ko'rsatadigan tab qo'shing.</ns0:target>
+        <ns0:note>File: modules/statssearch/statssearch.php [Line: 58]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="867343577fa1f33caa632a19543bd252" approved="yes">
+        <ns0:source>Keywords</ns0:source>
+        <ns0:target state="final">Kalit so'zlar</ns0:target>
+        <ns0:note>File: modules/statssearch/statssearch.php [Line: 114]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e52e6aa1a43a0187e44f048f658db5f9" approved="yes">
+        <ns0:source>Occurrences</ns0:source>
+        <ns0:target state="final">Hodisa</ns0:target>
+        <ns0:note>File: modules/statssearch/statssearch.php [Line: 115]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="52ef9633d88a7480b3a938ff9eaa2a25" approved="yes">
+        <ns0:source>Others</ns0:source>
+        <ns0:target state="final">Boshqalar</ns0:target>
+        <ns0:note>File: modules/statssearch/statssearch.php [Line: 165]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fd69c5cf902969e6fb71d043085ddee6" approved="yes">
+        <ns0:source>Results</ns0:source>
+        <ns0:target state="final">Natijalar</ns0:target>
+        <ns0:note>File: modules/statssearch/statssearch.php [Line: 116]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8c3c245232744602822902b97e65d6f9" approved="yes">
+        <ns0:source>Shop search</ns0:source>
+        <ns0:target state="final">Do'kon qidirish</ns0:target>
+        <ns0:note>File: modules/statssearch/statssearch.php [Line: 57]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e15832aa200f342e8f4ab580b43a72a8" approved="yes">
+        <ns0:source>Top 10 keywords</ns0:source>
+        <ns0:target state="final">Eng yaxshi 10 kalit so'zlar</ns0:target>
+        <ns0:note>File: modules/statssearch/statssearch.php [Line: 148]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

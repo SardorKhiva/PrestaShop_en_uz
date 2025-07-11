@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Statscheckup.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="f4abc77d498c89880f67331609406774" approved="yes">
+        <ns0:source>Alright</ns0:source>
+        <ns0:target state="final">Yaxshi</ns0:target>
+        <ns0:note>File: modules/statscheckup/statscheckup.php [Line: 172]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b1897515d548a960afe49ecf66a29021" approved="yes">
+        <ns0:source>Average</ns0:source>
+        <ns0:target state="final">O'rtacha</ns0:target>
+        <ns0:note>File: modules/statscheckup/statscheckup.php [Line: 110]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7ff3e75ce6aca348bc513ed3d5882946" approved="yes">
+        <ns0:source>Bad</ns0:source>
+        <ns0:target state="final">Bad</ns0:target>
+        <ns0:note>File: modules/statscheckup/statscheckup.php [Line: 109]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e7a908d79d3758c911692ba791da9c70" approved="yes">
+        <ns0:source>Catalog evaluation</ns0:source>
+        <ns0:target state="final">Katalogni baholash</ns0:target>
+        <ns0:note>File: modules/statscheckup/statscheckup.php [Line: 44]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3f74e68055b1123e5d7deb32cd8b0b1b" approved="yes">
+        <ns0:source>Desc.</ns0:source>
+        <ns0:target state="final">Desc.</ns0:target>
+        <ns0:note>File: modules/statscheckup/statscheckup.php [Line: 313]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8bc84316c4078bf66723fd019616d920" approved="yes">
+        <ns0:source>Descriptions</ns0:source>
+        <ns0:target state="final">Ta'riflar</ns0:target>
+        <ns0:note>File: modules/statscheckup/statscheckup.php [Line: 156]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="80bf50a3c43fa186661f32f53a1b7692" approved="yes">
+        <ns0:source>Enrich your stats, give your catalog a quick evaluation to better analyze your activity.</ns0:source>
+        <ns0:target state="final">Statistikangizni boyiting, katalogingizni o'zingizning faoliyatingizni yaxshiroq tahlil qilish uchun tezkor baholang.</ns0:target>
+        <ns0:note>File: modules/statscheckup/statscheckup.php [Line: 45]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4cc6684df7b4a92b1dec6fce3264fac8" approved="yes">
+        <ns0:source>Global</ns0:source>
+        <ns0:target state="final">Global</ns0:target>
+        <ns0:note>File: modules/statscheckup/statscheckup.php [Line: 319]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0c6ad70beb3a7e76c3fc7adab7c46acc" approved="yes">
+        <ns0:source>Good</ns0:source>
+        <ns0:target state="final">Yaxshi</ns0:target>
+        <ns0:note>File: modules/statscheckup/statscheckup.php [Line: 111]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="05824b7be006782aaefd1fdb97c71e06" approved="yes">
+        <ns0:source>Greater than</ns0:source>
+        <ns0:target state="final">Undan katta</ns0:target>
+        <ns0:note>File: modules/statscheckup/statscheckup.php [Line: 194]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ad647e4ae904c7ed54ee93040d8298c7" approved="yes">
+        <ns0:source>Less than</ns0:source>
+        <ns0:target state="final">Dan kichik; .. dan kamroq</ns0:target>
+        <ns0:note>File: modules/statscheckup/statscheckup.php [Line: 185]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="619a1efbedc7855aa27c0a50579c104e" approved="yes">
+        <ns0:source>No product was found.</ns0:source>
+        <ns0:target state="final">Hech qanday mahsulot topilmadi.</ns0:target>
+        <ns0:note>File: modules/statscheckup/statscheckup.php [Line: 152]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="dc270bcf468689b19074a5eef7581b52" approved="yes">
+        <ns0:source>Not enough</ns0:source>
+        <ns0:target state="final">Etarli emas</ns0:target>
+        <ns0:note>File: modules/statscheckup/statscheckup.php [Line: 171]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="01fda57aa6c7e9f07f5aa36b108e95cb" approved="yes">
+        <ns0:source>Order by</ns0:source>
+        <ns0:target state="final">Buyurtma</ns0:target>
+        <ns0:note>File: modules/statscheckup/statscheckup.php [Line: 211]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5cd1930570823694abdd596f29c8943d" approved="yes">
+        <ns0:source>chars (without HTML)</ns0:source>
+        <ns0:target state="final">chars (htmlsiz)</ns0:target>
+        <ns0:note>File: modules/statscheckup/statscheckup.php [Line: 156]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="691d502cfd0e0626cd3b058e5682ad1c" approved="yes">
+        <ns0:source>items</ns0:source>
+        <ns0:target state="final">narsalar</ns0:target>
+        <ns0:note>File: modules/statscheckup/statscheckup.php [Line: 159]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c3917e1f7138a24c6dc954fe81b86679" approved="yes">
+        <ns0:source>orders / month</ns0:source>
+        <ns0:target state="final">Markonlar / oy</ns0:target>
+        <ns0:note>File: modules/statscheckup/statscheckup.php [Line: 158]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

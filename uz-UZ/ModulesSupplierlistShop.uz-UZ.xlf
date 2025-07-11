@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Supplierlist.Shop.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="ecf253735ac0cba84a9d2eeff1f1b87c" approved="yes">
+        <ns0:source>All suppliers</ns0:source>
+        <ns0:target state="final">Barcha etkazib beruvchilar</ns0:target>
+        <ns0:note>File: modules/ps_supplierlist/views/templates/_partials/supplier_form.tpl [Line: 33]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="496689fbd342f80d30f1f266d060415a" approved="yes">
+        <ns0:source>No supplier</ns0:source>
+        <ns0:target state="final">Etkazib beruvchi yo'q</ns0:target>
+        <ns0:note>File: modules/ps_supplierlist/views/templates/hook/ps_supplierlist.tpl [Line: 36]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1814d65a76028fdfbadab64a5a8076df" approved="yes">
+        <ns0:source>Suppliers</ns0:source>
+        <ns0:target state="final">Etkazib beruvchilar</ns0:target>
+        <ns0:note>File: modules/ps_supplierlist/views/templates/hook/ps_supplierlist.tpl [Line: 29]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

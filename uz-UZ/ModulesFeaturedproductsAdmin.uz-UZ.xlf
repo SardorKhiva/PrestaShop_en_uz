@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Featuredproducts.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="b773a38d8c456f7b24506c0e3cd67889" approved="yes">
+        <ns0:source>Category from which to pick products to be displayed</ns0:source>
+        <ns0:target state="final">Ko'rsatiladigan mahsulotni tanlash uchun kategoriya</ns0:target>
+        <ns0:note>File: modules/ps_featuredproducts/ps_featuredproducts.php [Line: 180]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3c12c1068fb0e02fe65a6c4fc40bc29a" approved="yes">
+        <ns0:source>Enable if you wish the products to be displayed randomly (default: no).</ns0:source>
+        <ns0:target state="final">Mahsulotlarni tasodifiy ravishda namoyish qilishni xohlasangiz, yoqing (standart: yo'q).</ns0:target>
+        <ns0:note>File: modules/ps_featuredproducts/ps_featuredproducts.php [Line: 188]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ca7d973c26c57b69e0857e7a0332d545" approved="yes">
+        <ns0:source>Featured products</ns0:source>
+        <ns0:target state="final">Taniqli mahsulotlar</ns0:target>
+        <ns0:note>File: modules/ps_featuredproducts/ps_featuredproducts.php [Line: 58]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fd2608d329d90e9a49731393427d0a5a" approved="yes">
+        <ns0:source>Invalid value for the "randomize" flag.</ns0:source>
+        <ns0:target state="final">"Tasodifiylik" bayrog'i uchun yaroqsiz qiymat.</ns0:target>
+        <ns0:note>File: modules/ps_featuredproducts/ps_featuredproducts.php [Line: 138]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d44168e17d91bac89aab3f38d8a4da8e" approved="yes">
+        <ns0:source>Number of products to be displayed</ns0:source>
+        <ns0:target state="final">Ko'rsatilishi kerak bo'lgan mahsulotlar soni</ns0:target>
+        <ns0:note>File: modules/ps_featuredproducts/ps_featuredproducts.php [Line: 169]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9dd45d7a2af90e742d1f736c2a752d73" approved="yes">
+        <ns0:source>Pick a category and highlight its items, enhance customer experience with a lively homepage.</ns0:source>
+        <ns0:target state="final">Kategoriya oling va uning buyumlarini ajratib oling, mehnat rejimida mijoz tajribasini oshiring.</ns0:target>
+        <ns0:note>File: modules/ps_featuredproducts/ps_featuredproducts.php [Line: 59]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="49417670345173e7b95018b7bf976fc7" approved="yes">
+        <ns0:source>Randomly display featured products</ns0:source>
+        <ns0:target state="final">Tasodifiy displeyda taniqli mahsulotlar</ns0:target>
+        <ns0:note>File: modules/ps_featuredproducts/ps_featuredproducts.php [Line: 185]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="1b73f6b70a0fcd38bbc6a6e4b67e3010" approved="yes">
+        <ns0:source>Set the number of products that you would like to display on homepage (default: 8).</ns0:source>
+        <ns0:target state="final">Siz bosh sahifada ko'rsatmoqchi bo'lgan mahsulotlar sonini (standart: 8) o'rnating.</ns0:target>
+        <ns0:note>File: modules/ps_featuredproducts/ps_featuredproducts.php [Line: 172]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c284a59996a4e984b30319999a7feb1d" approved="yes">
+        <ns0:source>The category ID is invalid. Please choose an existing category ID.</ns0:source>
+        <ns0:target state="final">Kategoriya identifikatori yaroqsiz. </ns0:target>
+        <ns0:note>File: modules/ps_featuredproducts/ps_featuredproducts.php [Line: 133]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fddb8a1881e39ad11bfe0d0aca5becc3" approved="yes">
+        <ns0:source>The number of products is invalid. Please enter a positive number.</ns0:source>
+        <ns0:target state="final">Mahsulotlar soni yaroqsiz. </ns0:target>
+        <ns0:note>File: modules/ps_featuredproducts/ps_featuredproducts.php [Line: 128]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="abc877135a96e04fc076becb9ce6fdfa" approved="yes">
+        <ns0:source>To add products to your homepage, simply add them to the corresponding product category (default: "Home").</ns0:source>
+        <ns0:target state="final">Mahsulotlarni o'z sahifangizga qo'shish uchun shunchaki ularni tegishli mahsulot turkumiga qo'shing (standart: "Uy").</ns0:target>
+        <ns0:note>File: modules/ps_featuredproducts/ps_featuredproducts.php [Line: 165]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

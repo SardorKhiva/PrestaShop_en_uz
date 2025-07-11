@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Featuredproducts.Shop.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="40dec546414c1ebdfde8d9858f0938c3" approved="yes">
+        <ns0:source>All products</ns0:source>
+        <ns0:target state="final">Barcha mahsulotlar</ns0:target>
+        <ns0:note>File: modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl [Line: 33]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="dd8c84ae3dc95566dc071d0effc40dd2" approved="yes">
+        <ns0:source>Our Products</ns0:source>
+        <ns0:target state="final">Bizning mahsulotlarimiz</ns0:target>
+        <ns0:note>File: modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl [Line: 27]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

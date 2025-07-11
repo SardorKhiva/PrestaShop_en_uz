@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Statsregistrations.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="bcabec23c8f36cecde037bd35ca4c709" approved="yes">
+        <ns0:source>A significant increase or decrease in customer registration shows that there has probably been a change to your shop. With that in mind, we suggest that you identify the cause, correct the issue and get back in the business of making money!</ns0:source>
+        <ns0:target state="final">Mijozlarni ro'yxatga olishning sezilarli darajada ko'payishi yoki kamayishi shuni ko'rsatadiki, do'koningizga o'zgargan bo'lishi mumkin. </ns0:target>
+        <ns0:note>File: modules/statsregistrations/statsregistrations.php [Line: 140]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f14056d6fef225c8aafd5a99d4c70fa8" approved="yes">
+        <ns0:source>Adds a registration progress tab to the Stats dashboard.</ns0:source>
+        <ns0:target state="final">Statistikaning boshqaruvi paneliga ro'yxatdan o'tish jarayoni yorlig'ini qo'shadi.</ns0:target>
+        <ns0:note>File: modules/statsregistrations/statsregistrations.php [Line: 47]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="318a7bb6dacd248bd7252286edeafc96" approved="yes">
+        <ns0:source>An advertising campaign can attract an increased number of visitors to your online store. This will likely be followed by an increase in customer accounts and profit margins, which will depend on customer "quality." Well-targeted advertising is typically more effective than large-scale advertising... and it's cheaper too!</ns0:source>
+        <ns0:target state="final">Reklama kampaniyasi sizning onlayn-do'koningizga tashrif buyuruvchilarning ko'payishi mumkin. </ns0:target>
+        <ns0:note>File: modules/statsregistrations/statsregistrations.php [Line: 143]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="998e4c5c80f27dec552e99dfed34889a" approved="yes">
+        <ns0:source>CSV Export</ns0:source>
+        <ns0:target state="final">CSV eksport qilish</ns0:target>
+        <ns0:note>File: modules/statsregistrations/statsregistrations.php [Line: 156]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8b15fc6468c919d299f9a601b61b95fc" approved="yes">
+        <ns0:source>Customer accounts</ns0:source>
+        <ns0:target state="final">Xaridor hisoblari</ns0:target>
+        <ns0:note>File: modules/statsregistrations/statsregistrations.php [Line: 46]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8cb5605d77d1d2f9eab6191c0e027747" approved="yes">
+        <ns0:source>Design and user-friendliness are more important than ever in the world of online sales. An ill-chosen or hard-to-follow graphical theme can keep shoppers at bay. This means that you should aspire to find the right balance between beauty and functionality for your online store.</ns0:source>
+        <ns0:target state="final">Dizayn va foydalanuvchi do'stlik onlayn savdo dunyosidagidan ham muhimroqdir. </ns0:target>
+        <ns0:note>File: modules/statsregistrations/statsregistrations.php [Line: 145]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="ded9c8756dc14fd26e3150c4718cd9d0" approved="yes">
+        <ns0:source>Here is a summary of what may affect the creation of customer accounts:</ns0:source>
+        <ns0:target state="final">Mijozlarning hisobvaraqlarini yaratishga nima ta'sir qilishi mumkinligi haqida qisqacha ma'lumot.</ns0:target>
+        <ns0:note>File: modules/statsregistrations/statsregistrations.php [Line: 141]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f66b3e4b23c60dd713bee1aa7d90ff85" approved="yes">
+        <ns0:source>How to act on the registrations' evolution?</ns0:source>
+        <ns0:target state="final">Ro'yxatdan o'tishning evolyutsiyasida qanday harakat qilish kerak?</ns0:target>
+        <ns0:note>File: modules/statsregistrations/statsregistrations.php [Line: 137]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="271ef73d55b8e3cc30963ca9413d4a52" approved="yes">
+        <ns0:source>If you let your shop run without changing anything, the number of customer registrations should stay stable or show a slight decline.</ns0:source>
+        <ns0:target state="final">Agar siz do'koningiz biron bir narsani o'zgartirmasdan ishlay olmasangiz, mijozlarni ro'yxatga olish soni barqaror qolishi yoki engil pasayish kerak.</ns0:target>
+        <ns0:note>File: modules/statsregistrations/statsregistrations.php [Line: 139]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fba0e64541196123bbf8e3737bf9287b" approved="yes">
+        <ns0:source>Number of customer accounts created</ns0:source>
+        <ns0:target state="final">Mijozlarning hisob raqamlari soni</ns0:target>
+        <ns0:note>File: modules/statsregistrations/statsregistrations.php [Line: 173]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="479c1246d97709e234574e1d2921994d" approved="yes">
+        <ns0:source>Number of visitors who placed an order directly after registration:</ns0:source>
+        <ns0:target state="final">Ro'yxatdan o'tishdan keyin to'g'ridan-to'g'ri buyurtma bergan tashrif buyuruvchilarning soni:</ns0:target>
+        <ns0:note>File: modules/statsregistrations/statsregistrations.php [Line: 127]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="247b3bdef50a59d5a83f23c4f1c8fa47" approved="yes">
+        <ns0:source>Number of visitors who stopped at the registering step:</ns0:source>
+        <ns0:target state="final">Ro'yxatdan o'tish bosqichida to'xtagan tashrif buyuruvchilar soni:</ns0:target>
+        <ns0:note>File: modules/statsregistrations/statsregistrations.php [Line: 126]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="4a3ca0c74bdbe87ba210ed1bf598c314" approved="yes">
+        <ns0:source>Specials, sales, promotions and/or contests typically demand a shoppers' attentions. Offering such things will not only keep your business lively, it will also increase traffic, build customer loyalty and genuinely change your current e-commerce philosophy.</ns0:source>
+        <ns0:target state="final">Maxsus, sotish, aktsiyalar va / yoki tanlovlar odatda do'konlarning e'tiborini talab qiladi. </ns0:target>
+        <ns0:note>File: modules/statsregistrations/statsregistrations.php [Line: 144]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a286f4eaef73a0b4f955c42b84472444" approved="yes">
+        <ns0:source>The total number of accounts created is not in itself important information. However, it is beneficial to analyze the number created over time. This will indicate whether or not things are on the right track.</ns0:source>
+        <ns0:target state="final">Yaratilgan hisoblarning umumiy soni o'z-o'zidan muhim emas. </ns0:target>
+        <ns0:note>File: modules/statsregistrations/statsregistrations.php [Line: 135]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a751e9cc4ed4c7585ecc0d97781cb48a" approved="yes">
+        <ns0:source>Total customer accounts:</ns0:source>
+        <ns0:target state="final">Mijozlarning umumiy hisobvarag'i:</ns0:target>
+        <ns0:note>File: modules/statsregistrations/statsregistrations.php [Line: 129]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>

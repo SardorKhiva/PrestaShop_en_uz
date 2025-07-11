@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:xliff xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <ns0:file original="Modules.Statsforecast.Admin.xlf" source-language="en" target-language="uz-Cyrl" datatype="plaintext">
+    <ns0:body>
+      <ns0:trans-unit id="5ed26836c96d7dcae8a40307e8e250c3" approved="yes">
+        <ns0:source>-- No filter --</ns0:source>
+        <ns0:target state="final">- Filtr yo'q -</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 550]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a34f9feb654595d53807df17b041d804" approved="yes">
+        <ns0:source>A simple statistical calculation lets you know the monetary value of your visitors:</ns0:source>
+        <ns0:target state="final">Oddiy statistik hisob-kitob sizning tashrif buyuruvchilarning pul qiymatiga xabar berishga imkon beradi:</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 385]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9b945efebb006547a94415eadaa12921" approved="yes">
+        <ns0:source>Accounts</ns0:source>
+        <ns0:target state="final">Hisoblar</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 317]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="8471eed257db7258f935588a664ba4f3" approved="yes">
+        <ns0:source>Attribute distribution</ns0:source>
+        <ns0:target state="final">Atribut taqsimoti</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 585]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="b1897515d548a960afe49ecf66a29021" approved="yes">
+        <ns0:source>Average</ns0:source>
+        <ns0:target state="final">O'rtacha</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 240]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="71241798130f714cbd2786df3da2cf0b" approved="yes">
+        <ns0:source>Average cart value</ns0:source>
+        <ns0:target state="final">O'rtacha savat qiymati</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 423]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="95deefb44d887f65b77407b87684b593" approved="yes">
+        <ns0:source>Bought items</ns0:source>
+        <ns0:target state="final">Sotib olingan buyumlar</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 224]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f13877f6ad53ce91fcb20fb8b7969698" approved="yes">
+        <ns0:source>Category distribution</ns0:source>
+        <ns0:target state="final">Kategoriya taqsimlanishi</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 441]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3bb1503332637805beddb73a2dd1fe1b" approved="yes">
+        <ns0:source>Conversion</ns0:source>
+        <ns0:target state="final">Konversiya</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 302]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="28e81c8343702f6c813cc31a7f90616a" approved="yes">
+        <ns0:source>Currency distribution</ns0:source>
+        <ns0:target state="final">Valyuta tarqatish</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 541]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c512b685438f41daa7386329a3b8f8d3" approved="yes">
+        <ns0:source>Daily</ns0:source>
+        <ns0:target state="final">Har kuni</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 153]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c516725e6be3691b2ef0f99f30665663" approved="yes">
+        <ns0:source>Enrich your stats, add a summary of all your current statistics on your back office.</ns0:source>
+        <ns0:target state="final">O'zingizning statistikangizni boyiting, orqa ofisingizdagi barcha joriy statistikangiz haqida qisqacha ma'lumot qo'shing.</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 54]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="89c1265be62d3ba835a3d963db5956b0" approved="yes">
+        <ns0:source>Forecast</ns0:source>
+        <ns0:target state="final">Bashorat qilmoq</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 250]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="87cac5a0b60008003ccf46dc1d49e0c3" approved="yes">
+        <ns0:source>Full carts</ns0:source>
+        <ns0:target state="final">To'liq aravalar</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 325]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="699aed86dada6ca01ef74013a4464066" approved="yes">
+        <ns0:source>Growth</ns0:source>
+        <ns0:target state="final">O'sish</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 494]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="f1dd68fb6a00d3e4d7f751deacde995d" approved="yes">
+        <ns0:source>Language distribution</ns0:source>
+        <ns0:target state="final">Tilni taqsimlash</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 487]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="e55f75a29310d7b60f7ac1d390c8ae42" approved="yes">
+        <ns0:source>Module</ns0:source>
+        <ns0:target state="final">Modul</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 420]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9030e39f00132d583da4122532e509e9" approved="yes">
+        <ns0:source>Monthly</ns0:source>
+        <ns0:target state="final">Oylik</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 155]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="c06cbe5e69067225dbcab04fb85200fa" approved="yes">
+        <ns0:source>On average, each registered visitor places an order for this amount:</ns0:source>
+        <ns0:target state="final">O'rtacha, ro'yxatdan o'tgan har bir tashrif buyuruvchilar ushbu miqdor uchun buyurtma berish:</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 387]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="42de3b7ec2450ded7d6c600b359def52" approved="yes">
+        <ns0:source>On average, each visitor places an order for this amount:</ns0:source>
+        <ns0:target state="final">O'rtacha, har bir tashrif buyuruvchi bu miqdor uchun buyurtma beradi:</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 386]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="3fa6443ce3f838b6901b70cd812abf0d" approved="yes">
+        <ns0:source>Payment distribution</ns0:source>
+        <ns0:target state="final">To'lov taqsimoti</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 396]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="688cb5b32405309351ee01da0ff3c3ac" approved="yes">
+        <ns0:source>Percentage of orders</ns0:source>
+        <ns0:target state="final">Buyurtmalarning foizi</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 565]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="954b04c203e651728d12622da369cd80" approved="yes">
+        <ns0:source>Percentage of products sold</ns0:source>
+        <ns0:target state="final">Sotilgan mahsulotlar foizi</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 465]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="51f2b17f5537de83c8b52dc52867fb1c" approved="yes">
+        <ns0:source>Percentage of registrations</ns0:source>
+        <ns0:target state="final">Ro'yxatdan o'tish foizi</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 225]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="a613e7309e4cb7fdaf416fa4f8bfd360" approved="yes">
+        <ns0:source>Percentage of sales</ns0:source>
+        <ns0:target state="final">Savdo ulushi</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 566]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="fc6e0920b914b164802d44220e6163f3" approved="yes">
+        <ns0:source>Placed orders</ns0:source>
+        <ns0:target state="final">Joylashtirilgan buyurtmalar</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 223]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="d1873a71f318c4e4733240f0b5911af3" approved="yes">
+        <ns0:source>Products sold</ns0:source>
+        <ns0:target state="final">Sotilgan mahsulotlar</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 463]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="9b95278ceb25bd5ddfcd7b22be6e4000" approved="yes">
+        <ns0:source>Quantity of products sold</ns0:source>
+        <ns0:target state="final">Sotilgan mahsulotlar soni</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 591]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="5a9e532b24379dca2ab0e973172a78e1" approved="yes">
+        <ns0:source>Registered visitors</ns0:source>
+        <ns0:target state="final">Ro'yxatdan o'tgan mehmonlar</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 337]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="54358a914f51e1af19df8520159fe607" approved="yes">
+        <ns0:source>Revenue</ns0:source>
+        <ns0:target state="final">Daromad</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 227]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="61569923d8075889a162c4e603258e6e" approved="yes">
+        <ns0:source>Sales (converted)</ns0:source>
+        <ns0:target state="final">Savdo (aylantiruvchi)</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 564]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="240c994d8b61c7bd68ac1c5182bbdb2e" approved="yes">
+        <ns0:source>Stats Dashboard</ns0:source>
+        <ns0:target state="final">Statistik boshqaruv paneli</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 53]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cbb3a9a8d0b10c0618904ce4ecb08716" approved="yes">
+        <ns0:source>The amounts include taxes, so you can get an estimation of the commission due to the payment method.</ns0:source>
+        <ns0:target state="final">Soliqlar soni soliqlarni o'z ichiga oladi, shuning uchun to'lov usuli tufayli komissiyani baholashingiz mumkin.</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 398]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="7a27f506c0104592dcb95c31e650cfed" approved="yes">
+        <ns0:source>The listed amounts do not include tax.</ns0:source>
+        <ns0:target state="final">Ro'yxatlangan miqdorlar soliqni o'z ichiga olmaydi.</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 144]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="0f65535c189c29b4a5326a319baa4a8d" approved="yes">
+        <ns0:source>Time frame</ns0:source>
+        <ns0:target state="final">Vaqt muddati</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 148]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="6c25e6a6da95b3d583c6ec4c3f82ed4d" approved="yes">
+        <ns0:source>Weekly</ns0:source>
+        <ns0:target state="final">Haftalik</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 154]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="cf5ea7953dc47105e0eb179dbefaaf46" approved="yes">
+        <ns0:source>Yearly</ns0:source>
+        <ns0:target state="final">Har yili</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 156]</ns0:note>
+      </ns0:trans-unit>
+      <ns0:trans-unit id="07aa83862ec591697b4325b66d36a78b" approved="yes">
+        <ns0:source>Zone distribution</ns0:source>
+        <ns0:target state="final">Zona taqsimoti</ns0:target>
+        <ns0:note>File: modules/statsforecast/statsforecast.php [Line: 514]</ns0:note>
+      </ns0:trans-unit>
+    </ns0:body>
+  </ns0:file>
+</ns0:xliff>
