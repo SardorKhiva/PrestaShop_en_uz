@@ -44,42 +44,42 @@
       </trans-unit>
       <trans-unit id="eca83facb7294ab0f66e1dec9fc66efd" approved="yes">
         <source>Create new threads for unrecognized emails.</source>
-        <target state="final">Create new threads for unrecognized emails.</target>
+        <target state="final">Тан олинмаган электрон почталар учун янги мавзулар яратинг.</target>
         <note>File: controllers/admin/AdminCustomerThreadsController.php [Line: 195]</note>
       </trans-unit>
       <trans-unit id="7820643a79c96efc93df99b4644879d8" approved="yes">
         <source>Customers can download these files on the product page.</source>
-        <target state="final">Customers can download these files on the product page.</target>
+        <target state="final">Мижозлар маҳсулот саҳифасида бу файлларни юклаб олишлари мумкин.</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Options/ProductAttachmentsType.php [Line: 106]</note>
       </trans-unit>
       <trans-unit id="916ba4b2422000e9868d30814dc1cef3" approved="yes">
         <source><![CDATA[Default behavior is specified in the Shop Parameters > Product settings page.]]></source>
-        <target state="final"><![CDATA[Default behavior is specified in the Shop Parameters > Product settings page.]]></target>
+        <target state="final"><![CDATA[Стандарт хатти-ҳаракат Дўкон параметрлари > Маҳсулот созламалари саҳифасида кўрсатилган.]]></target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/SEO/RedirectOptionType.php [Line: 194]</note>
       </trans-unit>
       <trans-unit id="5a533ff8b0bb46f6ddbe100864e44771" approved="yes">
         <source>Define which condition should apply first when a customer is eligible for multiple specific prices.</source>
-        <target state="final">Define which condition should apply first when a customer is eligible for multiple specific prices.</target>
+        <target state="final">Мижоз бир нечта махсус нархларга ҳақдор бўлганда қайси шарт аввал қўлланиши кераклигини аниқланг.</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Pricing/PricingType.php [Line: 118]</note>
       </trans-unit>
       <trans-unit id="e9d5cadd20f10058a5bb0823aed17584" approved="yes">
         <source>Delete messages after synchronization. If you do not enable this option, the synchronization will take more time.</source>
-        <target state="final">Delete messages after synchronization. If you do not enable this option, the synchronization will take more time.</target>
+        <target state="final">Синхронизациядан кейин хабарларни ўчиринг. Агар бу параметрни ёқмасангиз, синхронизация кўпроқ вақт олади.</target>
         <note>File: controllers/admin/AdminCustomerThreadsController.php [Line: 190]</note>
       </trans-unit>
       <trans-unit id="305c255586949e297af4d74bb1bc9563" approved="yes">
         <source>Display delivery time for a product is advised for merchants selling in Europe to comply with the local laws.</source>
-        <target state="final">Display delivery time for a product is advised for merchants selling in Europe to comply with the local laws.</target>
+        <target state="final">Маҳсулот учун етказиб бериш вақтини кўрсатиш Европада сотиш қилаётган савдогарларга жорий қонунларга риоя қилиш учун тавсия этилади.</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Shipping/ShippingType.php [Line: 96]</note>
       </trans-unit>
       <trans-unit id="3abb33532b4b4e0201dbdde08eced7ee" approved="yes">
         <source>Do not use RSH or SSH to establish a preauthenticated IMAP sessions.</source>
-        <target state="final">Do not use RSH or SSH to establish a preauthenticated IMAP sessions.</target>
+        <target state="final">Олдин аутентификация қилинган IMAP сессияларини ўрнатиш учун RSH ёки SSH дан фойдаланманг.</target>
         <note>File: controllers/admin/AdminCustomerThreadsController.php [Line: 206]</note>
       </trans-unit>
       <trans-unit id="5b035ec3dccf9e9d875e0b830062a9ff" approved="yes">
         <source>Do not use start-TLS to encrypt the session, even with servers that support it.</source>
-        <target state="final">Do not use start-TLS to encrypt the session, even with servers that support it.</target>
+        <target state="final">Сессияни шифрлаш учун start-TLS дан фойдаланманг, ҳатто уни қўллаб-қувватлайдиган серверлар билан ҳам.</target>
         <note>File: controllers/admin/AdminCustomerThreadsController.php [Line: 231]</note>
       </trans-unit>
       <trans-unit id="244789498d5c439efc7a4a05975dc391" approved="yes">

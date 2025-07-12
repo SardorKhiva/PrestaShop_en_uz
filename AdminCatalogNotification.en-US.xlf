@@ -4,122 +4,122 @@
     <body>
       <trans-unit id="fe8da1bad19e3e82de7c76c99c53cb27" approved="yes">
         <source>(Recommended)</source>
-        <target state="final">(Recommended)</target>
+        <target state="final">(Тавсия этилади)</target>
         <note>File: src/Core/Form/ChoiceProvider/CategoryDeleteModeChoiceProvider.php [Line: 69]</note>
       </trans-unit>
       <trans-unit id="c24ed8eb6e592f766cd1d31ae49ed5b1" approved="yes">
         <source>A specific price already exists for these parameters.</source>
-        <target state="final">A specific price already exists for these parameters.</target>
+        <target state="final">Бу параметрлар учун махсус нарх аллақачон мавжуд.</target>
         <note>File: src/PrestaShopBundle/Controller/Admin/Sell/Catalog/Product/SpecificPriceController.php [Line: 179]</note>
       </trans-unit>
       <trans-unit id="757830b27c4880fd8a0e6f35891eefe5" approved="yes">
         <source>All unsaved modifications made on the combination [1]{combinationName}[/1] will be lost.</source>
-        <target state="final">All unsaved modifications made on the combination [1]{combinationName}[/1] will be lost.</target>
+        <target state="final">[1]{combinationName}[/1] комбинациясида қилинган барча сақланмаган ўзгартиришлар йўқолади.</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Product/Combination/paginated_list_header.html.twig [Line: 122]</note>
       </trans-unit>
       <trans-unit id="bbc6a34f03def2d56def8e7685a3fcae" approved="yes">
         <source>An action is required for this cart rule.</source>
-        <target state="final">An action is required for this cart rule.</target>
+        <target state="final">Бу сават қоидаси учун амал талаб этилади.</target>
         <note>File: controllers/admin/AdminCartRulesController.php [Line: 264]</note>
       </trans-unit>
       <trans-unit id="f19434225ce7712f091bcfc109413732" approved="yes">
         <source>An attachment name is required.</source>
-        <target state="final">An attachment name is required.</target>
+        <target state="final">Бирлаштирилган файл номи талаб этилади.</target>
         <note>File: src/PrestaShopBundle/Controller/Admin/Sell/Catalog/AttachmentController.php [Line: 335]</note>
       </trans-unit>
       <trans-unit id="3d85438a25723cc56bd4aefb9b368bc0" approved="yes">
         <source>An error occurred while creating the category.</source>
-        <target state="final">An error occurred while creating the category.</target>
+        <target state="final">Категория яратишда хатолик юз берди.</target>
         <note>File: src/PrestaShopBundle/Controller/Admin/Sell/Catalog/CategoryController.php [Line: 846]</note>
       </trans-unit>
       <trans-unit id="175ad2b319a95a0b7c580dbc4205fdac" approved="yes">
         <source>An error occurred while editing the category.</source>
-        <target state="final">An error occurred while editing the category.</target>
+        <target state="final">Категорияни таҳрирлашда хатолик юз берди.</target>
         <note>File: src/PrestaShopBundle/Controller/Admin/Sell/Catalog/CategoryController.php [Line: 856]</note>
       </trans-unit>
       <trans-unit id="a874ef298164bbd4d00d55901225cd87" approved="yes">
         <source>An error occurred while uploading the image:</source>
-        <target state="final">An error occurred while uploading the image:</target>
+        <target state="final">Расмни юклашда хатолик юз берди:</target>
         <note>File: src/PrestaShopBundle/Controller/Admin/Sell/Catalog/CategoryController.php [Line: 867]</note>
       </trans-unit>
       <trans-unit id="b164de93448b61c61dd1c0f68c2c5884" approved="yes">
         <source>An order has already been placed with this cart.</source>
-        <target state="final">An order has already been placed with this cart.</target>
+        <target state="final">Бу сават билан буюртма аллақачон берилган.</target>
         <note>File: src/PrestaShopBundle/Controller/Admin/Sell/Order/CartController.php [Line: 805]</note>
       </trans-unit>
       <trans-unit id="2b260d6a8a4b747672d790f18c2ab780" approved="yes">
         <source>Are you sure you want to change the product type?</source>
-        <target state="final">Are you sure you want to change the product type?</target>
+        <target state="final">Сиз ростдан ҳам маҳсулот турини ўзгартирмоқчимисиз?</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/HeaderType.php [Line: 123]</note>
       </trans-unit>
       <trans-unit id="b7c81f9722737da40c428373101fe01c" approved="yes">
         <source>Are you sure you want to delete selected combinations from all stores?</source>
-        <target state="final">Are you sure you want to delete selected combinations from all stores?</target>
+        <target state="final">Сиз ростдан ҳам барча дўконлардан танланган комбинацияларни ўчирмоқчимисиз?</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Product/Combination/paginated_list_header.html.twig [Line: 81]</note>
       </trans-unit>
       <trans-unit id="99bf2d0d54c3c3d988036435b5c85a51" approved="yes">
         <source>Are you sure you want to delete selected combinations from store "%store_name%"?</source>
-        <target state="final">Are you sure you want to delete selected combinations from store "%store_name%"?</target>
+        <target state="final">Сиз ростдан ҳам "%store_name%" дўконидан танланган комбинацияларни ўчирмоқчимисиз?</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Product/Combination/paginated_list_header.html.twig [Line: 50]</note>
       </trans-unit>
       <trans-unit id="0a93bc6a803478fc23cdef1d0947bf76" approved="yes">
         <source>Are you sure you want to delete selected combinations?</source>
-        <target state="final">Are you sure you want to delete selected combinations?</target>
+        <target state="final">Сиз ростдан ҳам танланган комбинацияларни ўчирмоқчимисиз?</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Product/Combination/paginated_list_header.html.twig [Line: 53]</note>
       </trans-unit>
       <trans-unit id="11e1b8fba896a3b5618a554605412938" approved="yes">
         <source>Are you sure you want to delete the selected image?|Are you sure you want to delete the {filesNb} selected images?</source>
-        <target state="final">Are you sure you want to delete the selected image?|Are you sure you want to delete the {filesNb} selected images?</target>
+        <target state="final">Сиз ростдан ҳам танланган расмни ўчирмоқчимисиз?|Сиз ростдан ҳам {filesNb} танланган расмларни ўчирмоқчимисиз?</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Image/ImageDropzoneType.php [Line: 131]</note>
       </trans-unit>
       <trans-unit id="da531a2761eef5012cadd0a2e31acab6" approved="yes">
         <source>Change product type</source>
-        <target state="final">Change product type</target>
+        <target state="final">Маҳсулот турини ўзгартириш</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/HeaderType.php [Line: 124]</note>
       </trans-unit>
       <trans-unit id="f2f4d2bf15f28a6f3543068bdf957864" approved="yes">
         <source>Change the product type</source>
-        <target state="final">Change the product type</target>
+        <target state="final">Маҳсулот турини ўзгартиринг</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/HeaderType.php [Line: 122]</note>
       </trans-unit>
       <trans-unit id="178b6141eb15b94fb25e5940625ecd01" approved="yes">
         <source>Changing the product type will immediately save the product and refresh the page.</source>
-        <target state="final">Changing the product type will immediately save the product and refresh the page.</target>
+        <target state="final">Маҳсулот турини ўзгартириш маҳсулотни дароқ сақлайди ва саҳифани янгилайди.</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/HeaderType.php [Line: 126]</note>
       </trans-unit>
       <trans-unit id="15d30198621ad33274fc94b08cff5009" approved="yes">
         <source>Could not delete #%i</source>
-        <target state="final">Could not delete #%i</target>
+        <target state="final">#%i ўчирилмади</target>
         <note>File: modules/ps_linklist/src/Controller/Admin/Improve/Design/LinkBlockController.php [Line: 136]</note>
       </trans-unit>
       <trans-unit id="d077aab0da809b9037b3e3974da6bad3" approved="yes">
         <source>Discard changes?</source>
-        <target state="final">Discard changes?</target>
+        <target state="final">Ўзгартиришларни бекор қилиш?</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Product/Combination/paginated_list_header.html.twig [Line: 121]</note>
       </trans-unit>
       <trans-unit id="99d897ff771961295cfaaccb411f00a6" approved="yes">
         <source>Duplicate product?</source>
-        <target state="final">Duplicate product?</target>
+        <target state="final">Маҳсулотни нусхалаш?</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/FooterType.php [Line: 171]</note>
       </trans-unit>
       <trans-unit id="9edb260e4183e5f1fa35c1702f0cffa1" approved="yes">
         <source>Error for combination %combination_id%: %error_message%</source>
-        <target state="final">Error for combination %combination_id%: %error_message%</target>
+        <target state="final">%combination_id% комбинацияси учун хатолик: %error_message%</target>
         <note>File: src/PrestaShopBundle/Controller/Admin/Sell/Catalog/Product/CombinationController.php [Line: 509]</note>
       </trans-unit>
       <trans-unit id="b49b6a333fc4422d8fbfad546c47b97c" approved="yes">
         <source>Error for product %product_id%: %error_message%</source>
-        <target state="final">Error for product %product_id%: %error_message%</target>
+        <target state="final">%product_id% маҳсулоти учун хатолик: %error_message%</target>
         <note>File: src/PrestaShopBundle/Controller/Admin/Sell/Catalog/Product/ProductController.php [Line: 1484]</note>
       </trans-unit>
       <trans-unit id="8a23b9ee3a4502a0de3fc32c5ba7aa65" approved="yes">
         <source>Failed to copy the file.</source>
-        <target state="final">Failed to copy the file.</target>
+        <target state="final">Файлни нусхалаш амри бўлмади.</target>
         <note>File: src/PrestaShopBundle/Controller/Admin/Sell/Catalog/AttachmentController.php [Line: 363]</note>
       </trans-unit>
       <trans-unit id="c292d80ff15bf0d38f63af320f9f7839" approved="yes">
         <source>Friendly URLs are currently disabled.</source>
-        <target state="final">Friendly URLs are currently disabled.</target>
+        <target state="final">Дўстон URL лар ҳозирда ўчирилган.</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/SEO/SEOType.php [Line: 233]</note>
       </trans-unit>
       <trans-unit id="8743e83ee9ec372f40d4a58160bfc1d2" approved="yes">
