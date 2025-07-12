@@ -4,42 +4,42 @@
     <body>
       <trans-unit id="15391e9d908034a4458cd78296a945a8" approved="yes">
         <source>A customer will only be able to use the cart rule "X" time(s).</source>
-        <target state="final">A customer will only be able to use the cart rule "X" time(s).</target>
+        <target state="final">Мижоз фақат "X" марта сават қоидасидан фойдалана олади.</target>
         <note>File: admin-dev/themes/default/template/controllers/cart_rules/conditions.tpl [Line: 128]</note>
       </trans-unit>
       <trans-unit id="1ffce2188d1a60720990e3f6ca9e8b0c" approved="yes">
         <source>Add new specific price</source>
-        <target state="final">Add new specific price</target>
+        <target state="final">Янги махсус нарх қўшиш</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Pricing/SpecificPricesType.php [Line: 47]</note>
       </trans-unit>
       <trans-unit id="7db5022f86dda7b39e31e754afd5c6a0" approved="yes">
         <source>Allow customers to upload files using the contact page.</source>
-        <target state="final">Allow customers to upload files using the contact page.</target>
+        <target state="final">Мижозларга алоқа саҳифаси орқали файл юклаш имконини беринг.</target>
         <note>File: controllers/admin/AdminCustomerThreadsController.php [Line: 151]</note>
       </trans-unit>
       <trans-unit id="b40b4b1a0589005b45e9fa351c1b91f3" approved="yes">
         <source>An empty category is a category that has no product directly associated to it. An empty category may however contain products through its subcategories.</source>
-        <target state="final">An empty category is a category that has no product directly associated to it. An empty category may however contain products through its subcategories.</target>
+        <target state="final">Бўш категория - бу ўзига тўғриддан-тўғри бириктирилган маҳсулот йўқ категория. Бўш категория, аммо, ўз кичик категориялари орқали маҳсулотларни ўз ичига олиши мумкин.</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Monitoring/index.html.twig [Line: 39]</note>
       </trans-unit>
       <trans-unit id="1b9648d6a32243bb7003ae8046dc7c1a" approved="yes">
         <source>By default, the main category will be used if no category is selected.</source>
-        <target state="final">By default, the main category will be used if no category is selected.</target>
+        <target state="final">Стандарт бўйича, агар категория танланмаса, асосий категория ишлатилади.</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/SEO/RedirectOptionType.php [Line: 115]</note>
       </trans-unit>
       <trans-unit id="0fcc630f536dae07ee7c1ac612654c1d" approved="yes">
         <source>Cart rules are applied by priority. A cart rule with a priority of "1" will be processed before a cart rule with a priority of "2".</source>
-        <target state="final">Cart rules are applied by priority. A cart rule with a priority of "1" will be processed before a cart rule with a priority of "2".</target>
+        <target state="final">Сават қоидалари афзаллик бўйича қўлланилади. "1" афзаллигидаги сават қоидаси "2" афзаллигидаги сават қоидасидан олдин ишлов берилади.</target>
         <note>File: admin-dev/themes/default/template/controllers/cart_rules/informations.tpl [Line: 130]</note>
       </trans-unit>
       <trans-unit id="b9fe1289d4d385c85d61f262aea8de40" approved="yes">
         <source>Caution! If you leave this field blank, the rule will automatically be applied to benefiting customers.</source>
-        <target state="final">Caution! If you leave this field blank, the rule will automatically be applied to benefiting customers.</target>
+        <target state="final">Диққат! Агар бу майдонни бўш қолдирсангиз, қоида автоматик равишда фойдаланувчи мижозларга қўлланади.</target>
         <note>File: admin-dev/themes/default/template/controllers/cart_rules/informations.tpl [Line: 86]</note>
       </trans-unit>
       <trans-unit id="22cbf85c41427960736dc10cfec5faf4" approved="yes">
         <source>Choose a color with the color picker, or enter an HTML color (e.g. "lightblue", "#CC6600").</source>
-        <target state="final">Choose a color with the color picker, or enter an HTML color (e.g. "lightblue", "#CC6600").</target>
+        <target state="final">Ранг танловчи билан рангни танланг ёки HTML рангни киритинг (масалан "lightblue", "#CC6600").</target>
         <note>File: controllers/admin/AdminShopGroupController.php [Line: 207]</note>
       </trans-unit>
       <trans-unit id="eca83facb7294ab0f66e1dec9fc66efd" approved="yes">
