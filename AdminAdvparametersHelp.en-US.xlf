@@ -6,28 +6,23 @@
     <trans-unit id="10402f7c5b23f2156415aefabea831d2" approved="yes">
       <source>A DKIM selector usually looks like 12345.domain. It must match the name of your DNS
         record.</source>
-      <target state="final">
-        <!-- A DKIM selector usually looks like 12345.domain. It must match the name of your DNS
-          record. --> DKIM селектори оддатда 12345.domain кўринишида бўлади. У сизнинг DNS
-        ёзувингизнинг номига мос келиши керак. </target>
+      <target state="final">DKIM селектори оддатда 12345.domain кўринишида бўлади. У сизнинг DNS
+        ёзувингизнинг номига мос келиши керак.</target>
       <note>File:
         src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Email/DkimConfigurationType.php
         [Line: 54]</note>
     </trans-unit>
     <trans-unit id="4bc14a0f722453ba235bc3fb52d95ffb" approved="yes">
       <source>A category root is where a category tree can begin. This is used with multistore.</source>
-      <target state="final">
-        <!-- A category root is where a category tree can begin. This is used with multistore. --> Категория илдизи - бу категория дарахти бошланиши мумкин бўлган жой. Бу
-        кўп дўконли тизимда ишлатилади. </target>
+      <target state="final">Категория илдизи - бу категория дарахти бошланиши мумкин бўлган жой. Бу
+        кўп дўконли тизимда ишлатилади.</target>
       <note>File: src/Core/Import/EntityField/Provider/CategoryFieldsProvider.php [Line: 64]</note>
     </trans-unit>
     <trans-unit id="54cde7677b5a5624041c00c100224cbc" approved="yes">
       <source>All outdated sessions will be automatically cleared after the first connection
         attempt, but you can do it manually now if needed.</source>
-      <target state="final">
-        <!-- All outdated sessions will be automatically cleared after the first connection
-          attempt, but you can do it manually now if needed. --> Барча эскирган сессиялар биринчи уланиш урнинишдан кейин автоматик
-        равишда тозаланади, лекин керак бўлса, сиз уни ҳозир қўлда ҳам қила оласиз. </target>
+      <target state="final">Барча эскирган сессиялар биринчи уланиш урнинишдан кейин автоматик
+        равишда тозаланади, лекин керак бўлса, сиз уни ҳозир қўлда ҳам қила оласиз.</target>
       <note>File:
         src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/Security/clear_form.html.twig
         [Line: 39]</note>
@@ -35,7 +30,7 @@
     <trans-unit id="a951bd27ed3722e63e13ff4c73a3749a" approved="yes">
       <source>Allow or deny this employee's access to the Admin panel.</source>
       <target state="final">
-        <!-- Allow or deny this employee's access to the Admin panel. --> Бу ходимнинг Админ панелига киришига рўхсат беринг ёки рад этинг. </target>
+        Бу ходимнинг Админ панелига киришига рўхсат беринг ёки рад этинг. </target>
       <note>File:
         src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Employee/EmployeeType.php
         [Line: 206]</note>
@@ -43,7 +38,7 @@
     <trans-unit id="a27780d9bb7b3595998465aadcaaeed7" approved="yes">
       <source>Allowed formats: .csv, .xls, .xlsx, .xlst, .ods, .ots</source>
       <target state="final">
-        <!-- Allowed formats: .csv, .xls, .xlsx, .xlst, .ods, .ots --> Рўхсат этилган форматлар: .csv, .xls, .xlsx, .xlst, .ods, .ots </target>
+        Рўхсат этилган форматлар: .csv, .xls, .xlsx, .xlst, .ods, .ots </target>
       <note>File:
         src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/Blocks/import_panel.html.twig
         [Line: 90]</note>
@@ -52,8 +47,7 @@
       <source>Allows you to declare if your cookie should be restricted to a first-party or
         same-site context.</source>
       <target state="final">
-        <!-- Allows you to declare if your cookie should be restricted to a first-party or
-          same-site context. --> Кукининг биринчи томон ёки бир хил сайт контекстига чекланган бўлиши
+        Кукининг биринчи томон ёки бир хил сайт контекстига чекланган бўлиши
         кераклигини эълон қилиш имконини беради. </target>
       <note>File:
         src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Administration/GeneralType.php
@@ -62,7 +56,7 @@
     <trans-unit id="7d6044f9c5ec3bb7b89ac9328a871b2f" approved="yes">
       <source>At the top of the screen, please select the "Import" tab</source>
       <target state="final">
-        <!-- At the top of the screen, please select the "Import" tab --> Экранинг юқори қисмида "Импорт" табни танланг </target>
+        Экранинг юқори қисмида "Импорт" табни танланг </target>
       <note>File:
         src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/Backup/Blocks/backup_info.html.twig
         [Line: 36]</note>
@@ -71,8 +65,7 @@
       <source>Back office pages require the use of a token. This protection can be disabled if
         needed.</source>
       <target state="final">
-        <!-- Back office pages require the use of a token. This protection can be disabled if
-          needed. --> Back office саҳифалари токендан фойдаланишни талаб қилади. Керак бўлса,
+        Back office саҳифалари токендан фойдаланишни талаб қилади. Керак бўлса,
         бу ҳимояни ўчириш мумкин. </target>
       <note>File:
         src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Security/GeneralType.php
@@ -81,7 +74,7 @@
     <trans-unit id="e8602bda90ef985a71054950e6f1981e" approved="yes">
       <source>Before activating the webservice, you must be sure to: </source>
       <target state="final">
-        <!-- Before activating the webservice, you must be sure to: --> Веб-сервисни фаоллаштиришдан олдин, сиз: </target>
+        Веб-сервисни фаоллаштиришдан олдин, сиз: </target>
       <note>File:
         src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Webservice/WebserviceConfigurationType.php
         [Line: 47]</note>
@@ -90,8 +83,7 @@
       <source>Before choosing "Yes", check that PHP is not configured as an Apache module on your
         server.</source>
       <target state="final">
-        <!-- Before choosing "Yes", check that PHP is not configured as an Apache module on your
-          server. --> "Ҳа"ни танлашдан олдин, серверингизда PHP Apache модули сифатида
+        "Ҳа"ни танлашдан олдин, серверингизда PHP Apache модули сифатида
         мосланмаганлигини текширинг. </target>
       <note>File:
         src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Webservice/WebserviceConfigurationType.php
@@ -102,9 +94,7 @@
         gain performance without even touching the code of your theme. Make sure, however, that
         your theme is compatible with PrestaShop 1.7+. Otherwise, CCC will cause problems.</source>
       <target state="final">
-        <!-- CCC allows you to reduce the loading time of your page. With these settings you will
-          gain performance without even touching the code of your theme. Make sure, however, that
-          your theme is compatible with PrestaShop 1.7+. Otherwise, CCC will cause problems. --> CCC сизнинг саҳифангизнинг юкланиш вақтини қисқартириш имконини беради.
+        CCC сизнинг саҳифангизнинг юкланиш вақтини қисқартириш имконини беради.
         Бу параметрлар билан сиз темангизнинг кодига тегмасдан ҳам самарадорлик оласиз. Бирок,
         темангиз PrestaShop 1.7+ билан мослигига ишонч ҳосил қилинг. Акс ҳолда CCC муаммоларга сабаб
         бўлади. </target>
@@ -115,7 +105,7 @@
     <trans-unit id="45d7b1d28cb1afbb45fdb620db725c10" approved="yes">
       <source>Check that URL rewriting is available on this server.</source>
       <target state="final">
-        <!-- Check that URL rewriting is available on this server. --> Бу серверда URL қайта ёзиш мавжудлигини текширинг. </target>
+        Бу серверда URL қайта ёзиш мавжудлигини текширинг. </target>
       <note>File:
         src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Webservice/WebserviceConfigurationType.php
         [Line: 52]</note>
@@ -124,8 +114,7 @@
       <source>Check that the six methods GET, POST, PUT, PATCH, DELETE and HEAD are supported by
         this server.</source>
       <target state="final">
-        <!-- Check that the six methods GET, POST, PUT, PATCH, DELETE and HEAD are supported by
-          this server. --> Бу серверда GET, POST, PUT, PATCH, DELETE ва HEAD олтита усул
+        Бу серверда GET, POST, PUT, PATCH, DELETE ва HEAD олтита усул
         қўллаб-қувватланадиганлигини текширинг. </target>
       <note>File:
         src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Webservice/WebserviceConfigurationType.php
@@ -135,7 +124,7 @@
       <source>Check the IP address of the cookie in order to prevent your cookie from being
         stolen.</source>
       <target state="final">
-        <!-- Check the IP address of the cookie in order to prevent your cookie from being stolen. --> Кукинизни ўғирланишининг олдини олиш учун кукининг IP манзилини
+        Кукинизни ўғирланишининг олдини олиш учун кукининг IP манзилини
         текширинг. </target>
       <note>File:
         src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Administration/GeneralType.php
@@ -145,8 +134,7 @@
       <source>Check the backup integrity: Look for errors, incomplete file, etc... Be sure to
         verify all of your data.</source>
       <target state="final">
-        <!-- Check the backup integrity: Look for errors, incomplete file, etc... Be sure to
-          verify all of your data. --> Захиранинг тўлиқлигини текширинг: Хатоларни, тўлиқ бўлмаган файлни
+        Захиранинг тўлиқлигини текширинг: Хатоларни, тўлиқ бўлмаган файлни
         қидиринг ва бошқалар... Барча маълумотларингизни текширишга ишонч ҳосил қилинг. </target>
       <note>File:
         src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/Backup/Blocks/backup_info.html.twig
@@ -155,7 +143,7 @@
     <trans-unit id="85614411a0c7c3eb8c7c7a81be9fb918" approved="yes">
       <source>Check the maximum filesize allowed (e.g. Max: 16MB)</source>
       <target state="final">
-        <!-- Check the maximum filesize allowed (e.g. Max: 16MB) --> Рўхсат этилган энг катта файл ҳажмини текширинг (масалан, Макс: 16МБ) </target>
+        Рўхсат этилган энг катта файл ҳажмини текширинг (масалан, Макс: 16МБ) </target>
       <note>File:
         src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/Backup/Blocks/backup_info.html.twig
         [Line: 39]</note>
@@ -163,7 +151,7 @@
     <trans-unit id="07e451f21d83658a364e0548c86926b3" approved="yes">
       <source>Choose "No" to disable Customer Groups.</source>
       <target state="final">
-        <!-- Choose "No" to disable Customer Groups. --> Мижоз гуруҳларини ўчириш учун "Йўқ"ни танланг. </target>
+        Мижоз гуруҳларини ўчириш учун "Йўқ"ни танланг. </target>
       <note>File:
         src/PrestaShopBundle/Form/Admin/AdvancedParameters/Performance/OptionalFeaturesType.php
         [Line: 77]</note>
@@ -171,7 +159,7 @@
     <trans-unit id="dadb7368382c41e65db131dde4acbddd" approved="yes">
       <source>Choose "No" to disable Product Combinations.</source>
       <target state="final">
-        <!-- Choose "No" to disable Product Combinations. --> Маҳсулот комбинацияларини ўчириш учун "Йўқ"ни танланг. </target>
+        Маҳсулот комбинацияларини ўчириш учун "Йўқ"ни танланг. </target>
       <note>File:
         src/PrestaShopBundle/Form/Admin/AdvancedParameters/Performance/OptionalFeaturesType.php
         [Line: 67]</note>
@@ -179,7 +167,7 @@
     <trans-unit id="755b5f88357c721918923199f02a127d" approved="yes">
       <source>Choose "No" to disable Product Features.</source>
       <target state="final">
-        <!-- Choose "No" to disable Product Features. --> Маҳсулот хусусиятларини ўчириш учун "Йўқ"ни танланг. </target>
+        Маҳсулот хусусиятларини ўчириш учун "Йўқ"ни танланг. </target>
       <note>File:
         src/PrestaShopBundle/Form/Admin/AdvancedParameters/Performance/OptionalFeaturesType.php
         [Line: 73]</note>
@@ -187,7 +175,7 @@
     <trans-unit id="bd98e6133da373d5d4d0241cae2e5df5" approved="yes">
       <source>Click "%add_new_label%".</source>
       <target state="final">
-        <!-- Click "%add_new_label%". --> "%add_new_label%"ни босинг. </target>
+        "%add_new_label%"ни босинг. </target>
       <note>File:
         src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/RequestSql/index.html.twig
         [Line: 33]</note>
@@ -195,27 +183,26 @@
     <trans-unit id="d916f5b0696f10712fad55220707fab9" approved="yes">
       <source>Click here to display the URLs of the %name% shop</source>
       <target state="final">
-        <!-- Click here to display the URLs of the %name% shop --> %name% дўконининг URL ларини кўрсатиш учун бу ерга босинг </target>
+        %name% дўконининг URL ларини кўрсатиш учун бу ерга босинг </target>
       <note>File: controllers/admin/AdminShopController.php [Line: 874]</note>
     </trans-unit>
     <trans-unit id="01af4d9c4808ce3ccd662c0e5ef7f203" approved="yes">
       <source>Click here to display the list of shop groups</source>
       <target state="final">
-        <!-- Click here to display the list of shop groups --> Дўкон гуруҳлари рўйхатини кўрсатиш учун бу ерга босинг </target>
+        Дўкон гуруҳлари рўйхатини кўрсатиш учун бу ерга босинг </target>
       <note>File: controllers/admin/AdminShopController.php [Line: 926]</note>
     </trans-unit>
     <trans-unit id="41ff4b3ea277bdc597fce74850a85510" approved="yes">
       <source>Click here to display the shops in the %name% shop group</source>
       <target state="final">
-        <!-- Click here to display the shops in the %name% shop group --> %name% дўкон гуруҳидаги дўконларни кўрсатиш учун бу ерга босинг </target>
+        %name% дўкон гуруҳидаги дўконларни кўрсатиш учун бу ерга босинг </target>
       <note>File: controllers/admin/AdminShopController.php [Line: 852]</note>
     </trans-unit>
     <trans-unit id="7dda1e48a0dcceda4b3e9ce35271cc2c" approved="yes">
       <source>Click on "None" to disable log alerts by email or enter the recipients of these
         emails in the following field.</source>
       <target state="final">
-        <!-- Click on "None" to disable log alerts by email or enter the recipients of these
-          emails in the following field. --> Электрон почта орқали журнал хабардорликларини ўчириш учун "Ҳеч бири"ни
+        Электрон почта орқали журнал хабардорликларини ўчириш учун "Ҳеч бири"ни
         босинг ёки ушбу электрон почталарнинг олувчиларини кейинги майдонга киритинг. </target>
       <note>File:
         src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Logs/LogsByEmailType.php
@@ -225,8 +212,7 @@
       <source>Click on the "%phpmyadmin_browse_label%" button and select the backup file from your
         hard drive.</source>
       <target state="final">
-        <!-- Click on the "%phpmyadmin_browse_label%" button and select the backup file from your
-          hard drive. --> "%phpmyadmin_browse_label%" тугмасини босинг ва қаттиқ дискингиздан
+        "%phpmyadmin_browse_label%" тугмасини босинг ва қаттиқ дискингиздан
         захира файлини танланг. </target>
       <note>File:
         src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/Backup/Blocks/backup_info.html.twig
@@ -236,8 +222,7 @@
       <source>Click on the "%phpmyadmin_go_label%" button and please wait patiently for the import
         process to conclude. This may take several minutes.</source>
       <target state="final">
-        <!-- Click on the "%phpmyadmin_go_label%" button and please wait patiently for the import
-          process to conclude. This may take several minutes. --> "%phpmyadmin_go_label%" тугмасини босинг ва импорт жараёни тугашини
+        "%phpmyadmin_go_label%" тугмасини босинг ва импорт жараёни тугашини
         сабрил билан кутинг. Бу бир неча дақиқа вақт олиши мумкин. </target>
       <note>File:
         src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/Backup/Blocks/backup_info.html.twig
@@ -246,7 +231,7 @@
     <trans-unit id="04abc58df1575dd465a28c86d859d302" approved="yes">
       <source>Connect to "phpMyAdmin" and select your current database.</source>
       <target state="final">
-        <!-- Connect to "phpMyAdmin" and select your current database. --> "phpMyAdmin"га уланинг ва ҳозирги маълумотлар базасингизни танланг. </target>
+        "phpMyAdmin"га уланинг ва ҳозирги маълумотлар базасингизни танланг. </target>
       <note>File:
         src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/Backup/Blocks/backup_info.html.twig
         [Line: 34]</note>
@@ -256,9 +241,7 @@
         be lower or equal to the maximum file upload allotted by your server (currently: %size%
         MB).</source>
       <target state="final">
-        <!-- Define the upload limit for a downloadable product (in megabytes). This value has to
-          be lower or equal to the maximum file upload allotted by your server (currently: %size%
-          MB). --> Юклаб олинадиган маҳсулот учун юклаш лимитини белгиланг (мегабайтда).
+        Юклаб олинадиган маҳсулот учун юклаш лимитини белгиланг (мегабайтда).
         Бу қиймат серверингиз томонидан берилган энг катта файл юклашдан кам ёки тенг бўлиши керак
         (ҳозир: %size% МБ). </target>
       <note>File:
@@ -269,8 +252,7 @@
       <source>Define the upload limit for an image (in megabytes). This value has to be lower or
         equal to the maximum file upload allotted by your server (currently: %size% MB).</source>
       <target state="final">
-        <!-- Define the upload limit for an image (in megabytes). This value has to be lower or
-          equal to the maximum file upload allotted by your server (currently: %size% MB). --> Расм учун юклаш лимитини белгиланг (мегабайтда). Бу қиймат серверингиз
+        Расм учун юклаш лимитини белгиланг (мегабайтда). Бу қиймат серверингиз
         томонидан берилган энг катта файл юклашдан кам ёки тенг бўлиши керак (ҳозир: %size% МБ). </target>
       <note>File:
         src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Administration/UploadQuotaType.php
@@ -280,8 +262,7 @@
       <source>Download the backup from the list below or from your FTP server (in the folder
         "admin/backups").</source>
       <target state="final">
-        <!-- Download the backup from the list below or from your FTP server (in the folder
-          "admin/backups"). --> Захирани қуйидаги рўйхатдан ёки FTP серверингиздан юклаб олинг
+        Захирани қуйидаги рўйхатдан ёки FTP серверингиздан юклаб олинг
         ("admin/backups" папкасида). </target>
       <note>File:
         src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/Backup/Blocks/backup_info.html.twig
@@ -290,7 +271,7 @@
     <trans-unit id="1589ac76f2f88749f51028f09b23f9d4" approved="yes">
       <source>Drop existing tables during import.</source>
       <target state="final">
-        <!-- Drop existing tables during import. --> Импорт вақтида мавжуд жадвалларни ўчириш. </target>
+        Импорт вақтида мавжуд жадвалларни ўчириш. </target>
       <note>File:
         src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Backup/BackupOptionsType.php
         [Line: 67]</note>
@@ -298,7 +279,7 @@
     <trans-unit id="3d24e5589702a2ecfd1d65813b4a892e" approved="yes">
       <source>Enable DKIM, fill in the fields and give it a try. If no email is sent, check logs.</source>
       <target state="final">
-        <!-- Enable DKIM, fill in the fields and give it a try. If no email is sent, check logs. --> DKIM ни ёқинг, майдонларни тўлдиринг ва синаб кўринг. Агар электрон
+        DKIM ни ёқинг, майдонларни тўлдиринг ва синаб кўринг. Агар электрон
         почта юборилмаса, журналларни текширинг. </target>
       <note>File:
         src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/Email/EmailConfigurationType.php
@@ -308,8 +289,7 @@
       <source>Enable or disable debug mode. Debug mode will enable extended error reporting,
         display the Symfony debug bar, and other features.</source>
       <target state="final">
-        <!-- Enable or disable debug mode. Debug mode will enable extended error reporting,
-          display the Symfony debug bar, and other features. --> Отладка режимини ёқинг ёки ўчиринг. Отладка режими кенг хатолар ҳақида
+        Отладка режимини ёқинг ёки ўчиринг. Отладка режими кенг хатолар ҳақида
         хабар беришни, Symfony отладка панелини кўрсатишни ва бошқа хусусиятларни фаоллаштиради. </target>
       <note>File: src/PrestaShopBundle/Form/Admin/AdvancedParameters/Performance/DebugModeType.php
         [Line: 53]</note>
@@ -318,8 +298,7 @@
       <source>Enable or disable debug profiling. Debug profiling will display performance-related
         information under each page and help find performance bottlenecks in your store.</source>
       <target state="final">
-        <!-- Enable or disable debug profiling. Debug profiling will display performance-related
-          information under each page and help find performance bottlenecks in your store. --> Отладка профиллашни ёқинг ёки ўчиринг. Отладка профиллаш ҳар бир саҳифа
+        Отладка профиллашни ёқинг ёки ўчиринг. Отладка профиллаш ҳар бир саҳифа
         остида самарадорликка оид маълумотларни кўрсатади ва дўконингиздаги самарадорлик тўсиқларини
         топишга ёрдам беради. </target>
       <note>File: src/PrestaShopBundle/Form/Admin/AdvancedParameters/Performance/DebugModeType.php
@@ -328,82 +307,79 @@
     <trans-unit id="a536359574c27ee963de828ff56241c7" approved="yes">
       <source>Enable or disable the migrated attribute page.</source>
       <target state="final">
-        <!-- Enable or disable the migrated attribute page. --> Кўчирилган хусусият саҳифасини ёқинг ёки ўчиринг. </target>
+        Кўчирилган хусусият саҳифасини ёқинг ёки ўчиринг. </target>
       <note>File: classes/lang/KeysReference/FeatureFlagLang.php [Line: 29]</note>
     </trans-unit>
     <trans-unit id="8437c82aa6a57b80f6956352690d7e47" approved="yes">
       <source>Enable or disable the migrated carriers page.</source>
       <target state="final">
-        <!-- Enable or disable the migrated carriers page. --> Кўчирилган етказиб берувчилар саҳифасини ёқинг ёки ўчиринг. </target>
+        Кўчирилган етказиб берувчилар саҳифасини ёқинг ёки ўчиринг. </target>
       <note>File: classes/lang/KeysReference/FeatureFlagLang.php [Line: 57]</note>
     </trans-unit>
     <trans-unit id="f86c7bed82286a17b1e557d7235ed4a0" approved="yes">
       <source>Enable or disable the migrated cart rules page.</source>
       <target state="final">
-        <!-- Enable or disable the migrated cart rules page. --> Кўчирилган сават қоидалари саҳифасини ёқинг ёки ўчиринг. </target>
+        Кўчирилган сават қоидалари саҳифасини ёқинг ёки ўчиринг. </target>
       <note>File: classes/lang/KeysReference/FeatureFlagLang.php [Line: 41]</note>
     </trans-unit>
     <trans-unit id="17e98e038d333c2d89bc59c843414298" approved="yes">
       <source>Enable or disable the migrated catalog price rules page.</source>
       <target state="final">
-        <!-- Enable or disable the migrated catalog price rules page. --> Кўчирилган каталог нарх қоидалари саҳифасини ёқинг ёки ўчиринг. </target>
+        Кўчирилган каталог нарх қоидалари саҳифасини ёқинг ёки ўчиринг. </target>
       <note>File: classes/lang/KeysReference/FeatureFlagLang.php [Line: 45]</note>
     </trans-unit>
     <trans-unit id="dec852ff965efbef1b33366c7b927acd" approved="yes">
       <source>Enable or disable the migrated countries page.</source>
       <target state="final">
-        <!-- Enable or disable the migrated countries page. --> Кўчирилган мамлакатлар саҳифасини ёқинг ёки ўчиринг. </target>
+        Кўчирилган мамлакатлар саҳифасини ёқинг ёки ўчиринг. </target>
       <note>File: classes/lang/KeysReference/FeatureFlagLang.php [Line: 49]</note>
     </trans-unit>
     <trans-unit id="4c225d5d1f44741cfa6e05837c40d4e3" approved="yes">
       <source>Enable or disable the migrated customer threads page.</source>
       <target state="final">
-        <!-- Enable or disable the migrated customer threads page. --> Кўчирилган мижоз мавзулари саҳифасини ёқинг ёки ўчиринг. </target>
+        Кўчирилган мижоз мавзулари саҳифасини ёқинг ёки ўчиринг. </target>
       <note>File: classes/lang/KeysReference/FeatureFlagLang.php [Line: 73]</note>
     </trans-unit>
     <trans-unit id="a7980eefb5f08f8f3555df73e3dfa63f" approved="yes">
       <source>Enable or disable the migrated order states page.</source>
       <target state="final">
-        <!-- Enable or disable the migrated order states page. --> Кўчирилган буюртма ҳолатлари саҳифасини ёқинг ёки ўчиринг. </target>
+        Кўчирилган буюртма ҳолатлари саҳифасини ёқинг ёки ўчиринг. </target>
       <note>File: classes/lang/KeysReference/FeatureFlagLang.php [Line: 77]</note>
     </trans-unit>
     <trans-unit id="e93e9e56b71f065655b06fd7b069f181" approved="yes">
       <source>Enable or disable the migrated permissions page.</source>
       <target state="final">
-        <!-- Enable or disable the migrated permissions page. --> Кўчирилган рўхсатлар саҳифасини ёқинг ёки ўчиринг. </target>
+        Кўчирилган рўхсатлар саҳифасини ёқинг ёки ўчиринг. </target>
       <note>File: classes/lang/KeysReference/FeatureFlagLang.php [Line: 65]</note>
     </trans-unit>
     <trans-unit id="21686cbcfb36e6039ba2f0af0909b05b" approved="yes">
       <source>Enable or disable the migrated states page.</source>
       <target state="final">
-        <!-- Enable or disable the migrated states page. --> Кўчирилган ҳолатлар саҳифасини ёқинг ёки ўчиринг. </target>
+        Кўчирилган ҳолатлар саҳифасини ёқинг ёки ўчиринг. </target>
       <note>File: classes/lang/KeysReference/FeatureFlagLang.php [Line: 53]</note>
     </trans-unit>
     <trans-unit id="acf9650ec7716ce837f6865d0dcc289b" approved="yes">
       <source>Enable or disable the migrated tax rules page.</source>
       <target state="final">
-        <!-- Enable or disable the migrated tax rules page. --> Кўчирилган солиқ қоидалари саҳифасини ёқинг ёки ўчиринг. </target>
+        Кўчирилган солиқ қоидалари саҳифасини ёқинг ёки ўчиринг. </target>
       <note>File: classes/lang/KeysReference/FeatureFlagLang.php [Line: 69]</note>
     </trans-unit>
     <trans-unit id="375f32d57378784ca73de6ae649adf60" approved="yes">
       <source>Enable or disable the migrated titles page.</source>
       <target state="final">
-        <!-- Enable or disable the migrated titles page. --> Кўчирилган унвонлар саҳифасини ёқинг ёки ўчиринг. </target>
+        Кўчирилган унвонлар саҳифасини ёқинг ёки ўчиринг. </target>
       <note>File: classes/lang/KeysReference/FeatureFlagLang.php [Line: 61]</note>
     </trans-unit>
     <trans-unit id="e667b16af30e0820218ad32242e284dc" approved="yes">
       <source>Enable or disable this shop group?</source>
       <target state="final">
-        <!-- Enable or disable this shop group? --> Бу дўкон гуруҳини ёқинг ёки ўчиринг? </target>
+        Бу дўкон гуруҳини ёқинг ёки ўчиринг? </target>
       <note>File: controllers/admin/AdminShopGroupController.php [Line: 285]</note>
     </trans-unit>
     <trans-unit id="193ec293f59bd6bafda920d87cb07212" approved="yes">
       <source>Enable this option to keep your imported items' ID number as is. Otherwise,
         PrestaShop will ignore them and create auto-incremented ID numbers.</source>
-      <target state="final">Enable this option to keep your imported items' ID number as is. <!--
-          Enable this option to keep your imported items' ID number as is. Otherwise,
-          PrestaShop will
-          ignore them and create auto-incremented ID numbers. --> Импорт
+      <target state="final">Enable this option to keep your imported items' ID number as is. Импорт
         қилинган элементларнинг ID рақамини ўзгартирмаслик учун бу параметрни ёқинг. Акс ҳолда,
         PrestaShop уларни эътиборга олмайди ва автоматик ошириладиган ID рақамларини яратади. </target>
       <note>File:
@@ -414,8 +390,7 @@
       <source>Enabling multi-statements queries increases the risk of SQL injection
         vulnerabilities being exploited.</source>
       <target state="final">
-        <!-- Enabling multi-statements queries increases the risk of SQL injection vulnerabilities
-          being exploited. --> Кўп сўровли сўровларни ёқиш SQL инъекция уязлиликларининг сўзилганлиги
+        Кўп сўровли сўровларни ёқиш SQL инъекция уязлиликларининг сўзилганлиги
         хавфини оширади. </target>
       <note>File:
         src/PrestaShopBundle/Form/Admin/Configure/AdvancedParameters/RequestSql/SqlRequestSettingsType.php
@@ -424,7 +399,7 @@
     <trans-unit id="902b0d55fddef6f8d651fe1035b7d4bd" approved="yes">
       <source>Error</source>
       <target state="final">
-        <!-- Error --> Хато </target>
+        Хато </target>
       <note>File:
         src/PrestaShopBundle/Resources/views/Admin/Configure/AdvancedParameters/LogsPage/Blocks/severity_levels.html.twig
         [Line: 46]</note>
@@ -432,7 +407,7 @@
     <trans-unit id="b8dc7c80939667637db7ac31ece215b9" approved="yes">
       <source>Fabulous</source>
       <target state="final">
-        <!-- Fabulous --> Ажойиб </target>
+        Ажойиб </target>
       <note>File:
         src/PrestaShopBundle/Resources/views/Admin/TwigTemplateForm/prestashop_ui_kit_base.html.twig
         [Line: 1621]</note>
