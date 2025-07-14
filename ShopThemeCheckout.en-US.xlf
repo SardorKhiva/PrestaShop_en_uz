@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit id="48974cc3df177e6b565c39aa155458cd" approved="yes">
         <source>Your Invoice Address</source>
-        <target state="final">Сизнинг тўлов манзилингиз</target>
+        <target state="final">Сизнинг ҳисоб-фактура манзилингиз</target>
         <note>File: themes/hummingbird/templates/checkout/_partials/steps/addresses.tpl [Line: 23]</note>
       </trans-unit>
       <trans-unit id="49ffd9480effff979143d2e8d38931c4" approved="yes">
@@ -499,7 +499,7 @@
       </trans-unit>
       <trans-unit id="5068c162a60b5859f973f701333f45c5" approved="yes">
         <source>Tracking number</source>
-        <target state="final">Tracking number</target>
+        <target state="final">Кузатув рақами</target>
         <note>File: themes/hummingbird/templates/customer/order-detail.tpl [Line: 161]</note>
       </trans-unit>
       <trans-unit id="9fb4d9fd68ac3a078e956d034bce0474" approved="yes">
@@ -509,7 +509,7 @@
       </trans-unit>
       <trans-unit id="9a605fc0e1667ebdbd0ac37cf9f90789" approved="yes">
         <source>Unfortunately, there are no carriers available for your delivery address.</source>
-        <target state="final">Unfortunately, there are no carriers available for your delivery address.</target>
+        <target state="final">Афсуски, сизнинг етказиб бериш манзилингиз учун ташувчилар мавжуд эмас.</target>
         <note>File: themes/hummingbird/templates/checkout/_partials/steps/shipping.tpl [Line: 118]</note>
       </trans-unit>
       <trans-unit id="97b72d419a22e2d1144b2fb05ee26901" approved="yes">
@@ -519,7 +519,7 @@
       </trans-unit>
       <trans-unit id="6c957f72dc8cdacc75762f2cbdcdfaf2" approved="yes">
         <source>Unit price</source>
-        <target state="final">Unit price</target>
+        <target state="final">Бирлик нархи</target>
         <note>File: themes/classic/templates/checkout/_partials/order-confirmation-table.tpl [Line: 29]</note>
       </trans-unit>
       <trans-unit id="5c74d926c4b89517ad64133990d04413" approved="yes">

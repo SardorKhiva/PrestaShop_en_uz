@@ -234,12 +234,12 @@
       </trans-unit>
       <trans-unit id="a240fa27925a635b08dc28c9e4f9216d" approved="yes">
         <source>Order</source>
-        <target state="final">Буюртма #%id%</target>
+        <target state="final">Буюртма</target>
         <note>File: themes/hummingbird/templates/customer/order-slip.tpl [Line: 46]</note>
       </trans-unit>
       <trans-unit id="674592d247a228106f4f0d9f81c0d92c" approved="yes">
         <source>Order Reference %reference% - placed on %date%</source>
-        <target state="final">Буюртма рақами %reference% - сана %date%</target>
+        <target state="final">Буюртма рақами %reference% - %date% санасида жойлаштирилган</target>
       </trans-unit>
       <trans-unit id="f5d74ea75357b5e139854c14f8e24fe3" approved="yes">
         <source>Order details</source>
@@ -328,7 +328,7 @@
       </trans-unit>
       <trans-unit id="2cbfb6731610056e1d0aaacde07096c1" approved="yes">
         <source>View my customer account</source>
-        <target state="final">Мижоз ҳисобингизни кўриш</target>
+        <target state="final">Менинг мижоз ҳисобимни кўриш</target>
         <note>File: themes/classic/modules/ps_customersignin/ps_customersignin.tpl [Line: 39]</note>
       </trans-unit>
       <trans-unit id="3f2c4a8b6d7f3a5f4a5a4a5a4a5a4a5" approved="yes">

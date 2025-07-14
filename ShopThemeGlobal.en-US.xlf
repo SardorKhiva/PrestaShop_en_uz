@@ -49,7 +49,7 @@
       </trans-unit>
       <trans-unit id="adc4f9f9cccaa450c10977d50da58d8d" approved="yes">
         <source>About and Contact</source>
-        <target state="final">Лойиҳа ҳақида ва алоқа</target>
+        <target state="final">Биз ҳақимизда ва алоқа</target>
         <note>File: themes/hummingbird/templates/cms/stores.tpl [Line: 106]</note>
       </trans-unit>
       <trans-unit id="2143f8cb66482342b35208bdc3fd949c" approved="yes">
@@ -254,7 +254,7 @@
       </trans-unit>
       <trans-unit id="bffe9a3c9a7e00ba00a11749e022d911" approved="yes">
         <source>Log in</source>
-        <target state="final">Кириш</target>
+        <target state="final">Тизимга кириш</target>
         <note>File: controllers/front/SitemapController.php [Line: 166]</note>
       </trans-unit>
       <trans-unit id="e06d7593c1cd6dabef450be6c3da7091" approved="yes">
@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit id="98438bb96e6464272cadcd6a9c5774b7" approved="yes">
         <source>Sort by selection</source>
-        <target state="final">Саралаш</target>
+        <target state="final">Танлов бўйича саралаш</target>
         <note>File: themes/classic/templates/catalog/_partials/sort-orders.tpl [Line: 32]</note>
       </trans-unit>
       <trans-unit id="6f9d01a14011f05fffe48559583fc609" approved="yes">

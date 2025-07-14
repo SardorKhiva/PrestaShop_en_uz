@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file original="Modules.Mainmenu.Admin.xlf" source-language="en" target-language="en" datatype="plaintext">
+  <file original="Modules.Mainmenu.Admin.xlf" source-language="en" target-language="uz" datatype="plaintext">
     <body>
       <trans-unit id="58e9b25bb2e2699986a3abe2c92fc82e" approved="yes">
         <source>Add a new link</source>
-        <target state="final">Add a new link</target>
+        <target state="final">Янги ҳавола қўшиш</target>
         <note>File: modules/ps_mainmenu/ps_mainmenu.php [Line: 1129]</note>
       </trans-unit>
       <trans-unit id="0a112e5da975d8eaf28df9219c397764" approved="yes">
         <source>All active products combinations quantities will be changed</source>
-        <target state="final">All active products combinations quantities will be changed</target>
+        <target state="final">Барча фаол маҳсулот комбинациялари миқдори ўзгаради</target>
         <note>File: modules/ps_mainmenu/ps_mainmenu.php [Line: 1093]</note>
       </trans-unit>
       <trans-unit id="e18a22d145b38e4fff582663b5b4ec1e" approved="yes">
         <source>All brands</source>
-        <target state="final">All brands</target>
+        <target state="final">Барча брендлар</target>
         <note>File: modules/ps_mainmenu/ps_mainmenu.php [Line: 1228]</note>
       </trans-unit>
       <trans-unit id="ecf253735ac0cba84a9d2eeff1f1b87c" approved="yes">
         <source>All suppliers</source>
-        <target state="final">All suppliers</target>
+        <target state="final">Барча етказиб берувчилар</target>
         <note>File: modules/ps_mainmenu/ps_mainmenu.php [Line: 1216]</note>
       </trans-unit>
       <trans-unit id="8fb31b552d63ffef9df733646a195bc0" approved="yes">
         <source>Available items</source>
-        <target state="final">Available items</target>
+        <target state="final">Мавжуд элементлар</target>
         <note>File: modules/ps_mainmenu/views/templates/admin/_configure/helpers/form/form.tpl [Line: 111]</note>
       </trans-unit>
       <trans-unit id="c7da501f54544eba6787960200d9efdb" approved="yes">
@@ -34,7 +34,7 @@
       </trans-unit>
       <trans-unit id="e1b11c03820641dd1d1441bf68898d08" approved="yes">
         <source>Change position</source>
-        <target state="final">Change position</target>
+        <target state="final">Позицияни ўзгартириш</target>
         <note>File: modules/ps_mainmenu/views/templates/admin/_configure/helpers/form/form.tpl [Line: 102]</note>
       </trans-unit>
       <trans-unit id="778118c7dd993db08f704e15efa4a7fa" approved="yes">
