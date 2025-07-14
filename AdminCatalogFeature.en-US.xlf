@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file original="Admin.Catalog.Feature.xlf" source-language="en" target-language="uz" datatype="plaintext">
+  <file original="Admin.Catalog.Feature.xlf" source-language="en" target-language="uz"
+    datatype="plaintext">
     <body>
       <trans-unit id="5cf5bf2c9fc4975745fbad4e88fdf2c0" approved="yes">
         <source>%error_count% errors occurred. You can download the logs for future reference.</source>
@@ -1251,7 +1252,8 @@
       <trans-unit id="8b818fe110368cd2d5f68e0469d31d75" approved="yes">
         <source>For customers meeting the conditions, the initial price will be crossed out and the
           discount will be highlighted.</source>
-        <target state="final">Шартларга жавоб берадиган мижозлар учун дастлабки нарх ўчирилади ва чегирма таъкидланади.</target>
+        <target state="final">Шартларга жавоб берадиган мижозлар учун дастлабки нарх ўчирилади ва
+          чегирма таъкидланади.</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Pricing/SpecificPriceImpactType.php
           [Line: 74]</note>
       </trans-unit>
@@ -1310,7 +1312,9 @@
       <trans-unit id="0cba638dddf4789e0c1157decb1eacbe" approved="yes">
         <source>Having suppliers is optional if brands supply you directly. Make sure you don't
           confuse product suppliers and product brands to facilitate stock management.</source>
-        <target state="final">Агар брендлар сизни тўғридан-тўғри таъминласа, етказиб берувчилар ихтиёрий. Акциялар бошқарувини осонлаштириш учун маҳсулот етказиб берувчилари ва маҳсулот брендларини адаштирмасликка ишонч ҳосил қилинг.</target>
+        <target state="final">Агар брендлар сизни тўғридан-тўғри таъминласа, етказиб берувчилар
+          ихтиёрий. Акциялар бошқарувини осонлаштириш учун маҳсулот етказиб берувчилари ва маҳсулот
+          брендларини адаштирмасликка ишонч ҳосил қилинг.</target>
         <note>File:
           src/PrestaShopBundle/Resources/views/Admin/Common/Grid/Blocks/EmptyState/supplier.html.twig
           [Line: 32]</note>
@@ -1330,7 +1334,8 @@
       <trans-unit id="292e69e61473988f15765225332aa867" approved="yes">
         <source>Here, you can have a look at the combinations you have edited. The list will reset
           when you close the editing window.</source>
-        <target state="final">Бу ерда сиз таҳрирлаган комбинацияларни кўришингиз мумкин. Таҳрирлаш ойнасини ёпганингизда рўйхат қайта тикланади.</target>
+        <target state="final">Бу ерда сиз таҳрирлаган комбинацияларни кўришингиз мумкин. Таҳрирлаш
+          ойнасини ёпганингизда рўйхат қайта тикланади.</target>
         <note>File:
           src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Product/Combination/paginated_list_header.html.twig
           [Line: 125]</note>
@@ -1993,7 +1998,9 @@
       <trans-unit id="9d20a93036ba910dd75ffbcec173798e" approved="yes">
         <source>Price per unit</source>
         <target state="final">Бир бирлик учун нарх</target>
-        <note>File: src/PrestaShopBundle/Resources/views/Admin/Sell/Order/Order/Blocks/Create/cart.html.twig [Line: 109]</note>
+        <note>File:
+          src/PrestaShopBundle/Resources/views/Admin/Sell/Order/Order/Blocks/Create/cart.html.twig
+          [Line: 109]</note>
       </trans-unit>
       <trans-unit id="e22ac25b066b201473de7aa700ef5d92" approved="yes">
         <source>Pricing</source>
@@ -2362,7 +2369,8 @@
       </trans-unit>
       <trans-unit id="0826c628f8c5f6895c8a1e27e99457fb" approved="yes">
         <source>Send me an email when the quantity is below or equals this level</source>
-        <target state="final">Миқдор ушбу даражадан паст ёки унга тенг бўлганда менга электрон почта хабарини юборинг</target>
+        <target state="final">Миқдор ушбу даражадан паст ёки унга тенг бўлганда менга электрон почта
+          хабарини юборинг</target>
         <note>File: src/PrestaShopBundle/Controller/Api/StockController.php [Line: 186]</note>
       </trans-unit>
       <trans-unit id="048d6660ebe2ebd42adea9efed97aa7d" approved="yes">
@@ -2686,7 +2694,8 @@
       </trans-unit>
       <trans-unit id="657c239908e72da26f995415f9b867a7" approved="yes">
         <source>To manage all your modules go to the [1]Installed module page[/1]</source>
-        <target state="final">Барча модулларингизни бошқариш учун [1]Ўрнатилган модуллар саҳифасига[/1] ўтинг</target>
+        <target state="final">Барча модулларингизни бошқариш учун [1]Ўрнатилган модуллар
+          саҳифасига[/1] ўтинг</target>
         <note>File:
           src/PrestaShopBundle/Resources/views/Admin/Sell/Catalog/Product/Blocks/modules-preview.html.twig
           [Line: 30]</note>
@@ -2904,7 +2913,8 @@
       </trans-unit>
       <trans-unit id="41d2418efb64cdecb72df1e2aeb7a36b" approved="yes">
         <source>Viewing %from%-%to% on %total% (page %current_page% / %page_count%)</source>
-        <target state="final">%total% дан %from%-%to% гача кўрсатилмоқда (саҳифа %current_page% / %page_count%)</target>
+        <target state="final">%total% дан %from%-%to% гача кўрсатилмоқда (саҳифа %current_page% /
+          %page_count%)</target>
         <note>File: src/PrestaShopBundle/Resources/views/Admin/Common/pagination.html.twig [Line:
           45]</note>
       </trans-unit>
@@ -2940,7 +2950,8 @@
       <trans-unit id="3c67eb9783a941badbdf91bff38e6e2d" approved="yes">
         <source>When a customer returns a product, a credit slip must be created in his favor.
           Generate vouchers and have a look at their follow-up.</source>
-        <target state="final">Мижоз маҳсулотни қайтариб берганда, унинг фойдасига кредит слипи яратилиши керак. Ваучерларни яратинг ва уларнинг бажарилишини кузатиб боринг.</target>
+        <target state="final">Мижоз маҳсулотни қайтариб берганда, унинг фойдасига кредит слипи
+          яратилиши керак. Ваучерларни яратинг ва уларнинг бажарилишини кузатиб боринг.</target>
         <note>File:
           src/PrestaShopBundle/Resources/views/Admin/Common/Grid/Blocks/EmptyState/credit_slip.html.twig
           [Line: 32]</note>
@@ -2982,12 +2993,14 @@
       <trans-unit id="48a9e14d0d9d632219727607dbb81ecf" approved="yes">
         <source>You can bulk edit the selected combinations by enabling and filling each field that
           needs to be updated.</source>
-        <target state="final">Танланган комбинацияларни янгиланиши керак бўлган ҳар бир майдонни ёқиш ва тўлдириш орқали оммавий таҳрирлашингиз мумкин.</target>
+        <target state="final">Танланган комбинацияларни янгиланиши керак бўлган ҳар бир майдонни
+          ёқиш ва тўлдириш орқали оммавий таҳрирлашингиз мумкин.</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Combination/BulkCombinationType.php
           [Line: 66]</note>
         <source>You can bulk edit the selected combinations by enabling and filling each field that
           needs to be updated.</source>
-        <target state="final">Танланган комбинацияларни янгиланиши керак бўлган ҳар бир майдонни ёқиш ва тўлдириш орқали оммавий таҳрирлашингиз мумкин.</target>
+        <target state="final">Танланган комбинацияларни янгиланиши керак бўлган ҳар бир майдонни
+          ёқиш ва тўлдириш орқали оммавий таҳрирлашингиз мумкин.</target>
         <note>File: src/PrestaShopBundle/Form/Admin/Sell/Product/Combination/BulkCombinationType.php
           [Line: 66]</note>
       </trans-unit>
@@ -2995,14 +3008,18 @@
         <source>You can specify which images should be displayed when customer selects this
           combination. If you don't select any image, all will be displayed. The default image of
           the combination will be the first one selected from the list.</source>
-        <target state="final">Мижоз ушбу комбинацияни танлаганда қайси расмлар кўрсатилишини белгилашингиз мумкин. Агар сиз ҳеч қандай расм танламасангиз, ҳаммаси кўрсатилади. Комбинациянинг стандарт расми рўйхатдан биринчи танланган расм бўлади.</target>
+        <target state="final">Мижоз ушбу комбинацияни танлаганда қайси расмлар кўрсатилишини
+          белгилашингиз мумкин. Агар сиз ҳеч қандай расм танламасангиз, ҳаммаси кўрсатилади.
+          Комбинациянинг стандарт расми рўйхатдан биринчи танланган расм бўлади.</target>
         <note>File:
           src/PrestaShopBundle/Form/Admin/Sell/Product/Combination/CombinationImagesChoiceType.php
           [Line: 70]</note>
         <source>You can specify which images should be displayed when customer selects this
           combination. If you don't select any image, all will be displayed. The default image of
           the combination will be the first one selected from the list.</source>
-        <target state="final">Мижоз ушбу комбинацияни танлаганда қайси расмлар кўрсатилишини белгилашингиз мумкин. Агар сиз ҳеч қандай расм танламасангиз, ҳаммаси кўрсатилади. Комбинациянинг стандарт расми рўйхатдан биринчи танланган расм бўлади.</target>
+        <target state="final">Мижоз ушбу комбинацияни танлаганда қайси расмлар кўрсатилишини
+          белгилашингиз мумкин. Агар сиз ҳеч қандай расм танламасангиз, ҳаммаси кўрсатилади.
+          Комбинациянинг стандарт расми рўйхатдан биринчи танланган расм бўлади.</target>
         <note>File:
           src/PrestaShopBundle/Form/Admin/Sell/Product/Combination/CombinationImagesChoiceType.php
           [Line: 70]</note>
