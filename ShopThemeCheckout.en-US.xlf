@@ -559,12 +559,12 @@
       </trans-unit>
       <trans-unit id="887ee91702c962a70b87cbef07bbcaec" approved="yes">
         <source>tax excl.</source>
-        <target state="final">tax excl.</target>
+        <target state="final">солиқларсиз</target>
         <note>File: classes/checkout/CheckoutDeliveryStep.php [Line: 107]</note>
       </trans-unit>
       <trans-unit id="e2e79605fc9450ec17957cf0e910f5c6" approved="yes">
         <source>tax incl.</source>
-        <target state="final">tax incl.</target>
+        <target state="final">солиқлар билан</target>
         <note>File: classes/checkout/CheckoutDeliveryStep.php [Line: 105]</note>
       </trans-unit>
     </body>
